@@ -41,7 +41,7 @@ public:
     std::vector<Move> generateLegalMoves();
 
     // Function to check if a player is in check
-    bool isInCheck(bool white); 
+    bool isInCheck(bool white);
 
     // Helper functions for move generation
     void generatePawnMoves(int row, int col, std::vector<Move>& moves);
@@ -54,6 +54,12 @@ public:
     // Public methods to get and set pieces on the board
     Piece getPieceAt(int row, int col) const;
     void setPieceAt(int row, int col, Piece piece);
+
+    // AI-related functions
+    int evaluateBoard(); // Evaluate the current board state
+    int minimax(int depth, bool isMaximizingPlayer); // Minimax algorithm
+    void makeMove(const Move& move); // Make a move on the board
+    void undoMove(const Move& move); // Undo a move on the board
 
 private:
     std::vector<std::vector<int> > board; // Add space between '>' characters

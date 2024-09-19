@@ -153,14 +153,72 @@ bool ChessBoard::isInCheck(bool white) {
     return false;
 }
 
+// Function to evaluate the board state and return a score
+int ChessBoard::evaluateBoard() {
+    int score = 0;
+    for (int row = 0; row < 8; ++row) {
+        for (int col = 0; col < 8; ++col) {
+            score += board[row][col];
+        }
+    }
+    return score;
+}
+
+// Minimax function to determine the best move
+int ChessBoard::minimax(int depth, bool isMaximizingPlayer) {
+    if (depth == 0) {
+        return evaluateBoard();
+    }
+
+    std::vector<Move> moves = generateLegalMoves();
+    if (isMaximizingPlayer) {
+        int maxEval = -10000;
+        for (const Move& move : moves) {
+            makeMove(move);
+            int eval = minimax(depth - 1, false);
+            undoMove(move);
+            maxEval = std::max(maxEval, eval);
+        }
+        return maxEval;
+    } else {
+        int minEval = 10000;
+        for (const Move& move : moves) {
+            makeMove(move);
+            int eval = minimax(depth - 1, true);
+            undoMove(move);
+            minEval = std::min(minEval, eval);
+        }
+        return minEval;
+    }
+}
+
+// Make a move on the board
+void ChessBoard::makeMove(const Move& move) {
+    setPieceAt(move.toRow, move.toCol, getPieceAt(move.fromRow, move.fromCol));
+    setPieceAt(move.fromRow, move.fromCol, EMPTY);
+}
+
+// Undo a move on the board
+void ChessBoard::undoMove(const Move& move) {
+    setPieceAt(move.fromRow, move.fromCol, getPieceAt(move.toRow, move.toCol));
+    setPieceAt(move.toRow, move.toCol, move.promotion); // Restore captured piece if any
+}
+
+// Implement your move generation functions (e.g., generatePawnMoves, generateRookMoves, etc.)
+
 // Pawn moves
 void ChessBoard::generatePawnMoves(int row, int col, std::vector<Move>& moves) {
     int direction = (board[row][col] == WHITE_PAWN) ? 1 : -1;
 
     // Single move forward
     if (board[row + direction][col] == EMPTY) {
-        moves.push_back(Move(row, col, row + direction, col));
-        
+        if (row + direction == 0 || row + direction == 7) {
+            // Promotion moves
+            moves.push_back(Move(row, col, row + direction, col, WHITE_QUEEN)); // Default to queen
+        } else {
+            moves.push_back(Move(row, col, row + direction, col));
+        }
+
         // Double move forward if on initial row
         if ((board[row][col] == WHITE_PAWN && row == 1) || (board[row][col] == BLACK_PAWN && row == 6)) {
             if (board[row + 2 * direction][col] == EMPTY) {
@@ -171,13 +229,22 @@ void ChessBoard::generatePawnMoves(int row, int col, std::vector<Move>& moves) {
 
     // Capturing diagonally
     if (col > 0 && board[row + direction][col - 1] != EMPTY && board[row][col] * board[row + direction][col - 1] < 0) {
-        moves.push_back(Move(row, col, row + direction, col - 1));
+        if (row + direction == 0 || row + direction == 7) {
+            moves.push_back(Move(row, col, row + direction, col - 1, WHITE_QUEEN)); // Promotion
+        } else {
+            moves.push_back(Move(row, col, row + direction, col - 1));
+        }
     }
     if (col < 7 && board[row + direction][col + 1] != EMPTY && board[row][col] * board[row + direction][col + 1] < 0) {
-        moves.push_back(Move(row, col, row + direction, col + 1));
+        if (row + direction == 0 || row + direction == 7) {
+            moves.push_back(Move(row, col, row + direction, col + 1, WHITE_QUEEN)); // Promotion
+        } else {
+            moves.push_back(Move(row, col, row + direction, col + 1));
+        }
     }
 
-    
+    // Add en passant logic here if needed
+
 }
 
 // Rook moves
