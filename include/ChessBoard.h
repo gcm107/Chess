@@ -29,7 +29,7 @@ public:
     void printBoard();
 
 private:
-    std::vector<std::vector<int>> board; // 2D vector to represent the chessboard
+    std::vector<std::vector<int> > board; // 2D vector to represent the chessboard
 };
 
 #endif
