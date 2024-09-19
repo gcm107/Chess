@@ -20,14 +20,18 @@ Move parseMove(const std::string& input) {
 
 // Get the best move using Minimax
 Move getBestMove(ChessBoard& board, int depth) {
-    std::vector<Move> moves = board.generateLegalMoves();
+    std::vector<Move> moves = board.generateLegalMoves(board.getCurrentPlayer() == WHITE);
+    if (moves.empty()) {
+        return Move(-1, -1, -1, -1);
+    }
+
     int bestValue = -10000;
     Move bestMove = moves[0];
 
     for (const Move& move : moves) {
-        board.makeMove(move);
-        int moveValue = board.minimax(depth - 1, false); // AI is maximizing
-        board.undoMove(move);
+        ChessBoard tempBoard = board; // Create a copy of the board
+        tempBoard.makeMove(move);
+        int moveValue = tempBoard.minimax(depth - 1, false);
 
         if (moveValue > bestValue) {
             bestValue = moveValue;
@@ -44,7 +48,6 @@ int main() {
     board.printBoard();
 
     while (true) {
-        // Player's move
         std::cout << "Enter your move (e.g., e2e4): ";
         std::string input;
         std::cin >> input;
@@ -52,7 +55,9 @@ int main() {
         if (input == "exit") break; // Exit condition
 
         Move move = parseMove(input);
-        std::vector<Move> legalMoves = board.generateLegalMoves();
+        std::vector<Move> legalMoves = board.generateLegalMoves(board.getCurrentPlayer() == WHITE);
+
+        board.printLegalMoves(); // Print all legal moves for debugging
 
         // Check if the move is legal
         bool isValid = false;
@@ -65,15 +70,20 @@ int main() {
         }
 
         if (isValid) {
-            // Make the player's move
             board.makeMove(move);
             board.printBoard();
 
             // AI's move
             std::cout << "AI is thinking...\n";
             Move aiMove = getBestMove(board, 3); // Depth 3 for Minimax
-            board.makeMove(aiMove);
-            board.printBoard();
+            if (aiMove.fromRow != -1) {
+                std::cout << "AI's move: " << aiMove.toString() << std::endl;
+                board.makeMove(aiMove);
+                board.printBoard();
+            } else {
+                std::cout << "AI has no legal moves. Game over.\n";
+                break;
+            }
         } else {
             std::cout << "Invalid move. Try again.\n";
         }

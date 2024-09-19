@@ -1,34 +1,28 @@
 #ifndef CHESSBOARD_H
 #define CHESSBOARD_H
 
-#include <iostream>
 #include <vector>
+#include <string>
+#include <iostream>
 
-// Enum for pieces
 enum Piece {
     EMPTY = 0,
-    WHITE_PAWN = 1,
-    WHITE_ROOK = 2,
-    WHITE_KNIGHT = 3,
-    WHITE_BISHOP = 4,
-    WHITE_QUEEN = 5,
-    WHITE_KING = 6,
-    BLACK_PAWN = -1,
-    BLACK_ROOK = -2,
-    BLACK_KNIGHT = -3,
-    BLACK_BISHOP = -4,
-    BLACK_QUEEN = -5,
-    BLACK_KING = -6
+    WHITE_PAWN = 1, WHITE_ROOK = 2, WHITE_KNIGHT = 3, WHITE_BISHOP = 4, WHITE_QUEEN = 5, WHITE_KING = 6,
+    BLACK_PAWN = -1, BLACK_ROOK = -2, BLACK_KNIGHT = -3, BLACK_BISHOP = -4, BLACK_QUEEN = -5, BLACK_KING = -6
 };
 
-// Structure to represent a move
-struct Move {
-    int fromRow, fromCol;
-    int toRow, toCol;
-    Piece promotion; // For pawn promotion, if any
+enum Player {
+    WHITE,
+    BLACK
+};
 
-    Move(int fr, int fc, int tr, int tc, Piece promo = EMPTY)
-        : fromRow(fr), fromCol(fc), toRow(tr), toCol(tc), promotion(promo) {}
+struct Move {
+    int fromRow, fromCol, toRow, toCol;
+    Move(int fr, int fc, int tr, int tc) : fromRow(fr), fromCol(fc), toRow(tr), toCol(tc) {}
+    std::string toString() const {
+        return std::string(1, 'a' + fromCol) + std::to_string(8 - fromRow) +
+               std::string(1, 'a' + toCol) + std::to_string(8 - toRow);
+    }
 };
 
 class ChessBoard {
@@ -36,33 +30,32 @@ public:
     ChessBoard();
     void initializeBoard();
     void printBoard();
+    Player getCurrentPlayer() const { return currentPlayer; }
+    std::vector<Move> generateLegalMoves(bool isWhite);
+    Piece getPieceAt(int row, int col) const;
+    bool makeMove(const Move& move);
+    bool makeMove(const std::string& algebraic);
+    void undoMove(const Move& move, Piece capturedPiece);
+    int minimax(int depth, bool isMaximizingPlayer);
+    int evaluateBoard();
+    void printLegalMoves();
+
+private:
+    std::vector<std::vector<int>> board;
+    Player currentPlayer;
     
-    // Function to generate all legal moves for the current board state
-    std::vector<Move> generateLegalMoves();
 
-    // Function to check if a player is in check
-    bool isInCheck(bool white);
+    // Helper functions
+    void setPieceAt(int row, int col, Piece piece);
+    Move algebraicToMove(const std::string& algebraic);
 
-    // Helper functions for move generation
+    // Move generation helper functions
     void generatePawnMoves(int row, int col, std::vector<Move>& moves);
     void generateRookMoves(int row, int col, std::vector<Move>& moves);
     void generateKnightMoves(int row, int col, std::vector<Move>& moves);
     void generateBishopMoves(int row, int col, std::vector<Move>& moves);
     void generateQueenMoves(int row, int col, std::vector<Move>& moves);
     void generateKingMoves(int row, int col, std::vector<Move>& moves);
-
-    // Public methods to get and set pieces on the board
-    Piece getPieceAt(int row, int col) const;
-    void setPieceAt(int row, int col, Piece piece);
-
-    // AI-related functions
-    int evaluateBoard(); // Evaluate the current board state
-    int minimax(int depth, bool isMaximizingPlayer); // Minimax algorithm
-    void makeMove(const Move& move); // Make a move on the board
-    void undoMove(const Move& move); // Undo a move on the board
-
-private:
-    std::vector<std::vector<int> > board; // Add space between '>' characters
 };
 
-#endif
+#endif // CHESSBOARD_H

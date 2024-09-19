@@ -1,27 +1,27 @@
 #include "ChessBoard.h"
 
 // Constructor initializes an empty board
-ChessBoard::ChessBoard() {
+ChessBoard::ChessBoard() : currentPlayer(WHITE) {
     board.resize(8, std::vector<int>(8, EMPTY));
 }
 
 // Function to initialize the board with the starting position
 void ChessBoard::initializeBoard() {
-    // Initialize white pieces
-    board[0][0] = board[0][7] = WHITE_ROOK;
-    board[0][1] = board[0][6] = WHITE_KNIGHT;
-    board[0][2] = board[0][5] = WHITE_BISHOP;
-    board[0][3] = WHITE_QUEEN;
-    board[0][4] = WHITE_KING;
-    for (int i = 0; i < 8; i++) board[1][i] = WHITE_PAWN;
+    // Initialize white pieces (uppercase)
+    board[7][0] = board[7][7] = WHITE_ROOK;
+    board[7][1] = board[7][6] = WHITE_KNIGHT;
+    board[7][2] = board[7][5] = WHITE_BISHOP;
+    board[7][3] = WHITE_QUEEN;
+    board[7][4] = WHITE_KING;
+    for (int i = 0; i < 8; i++) board[6][i] = WHITE_PAWN;
 
-    // Initialize black pieces
-    board[7][0] = board[7][7] = BLACK_ROOK;
-    board[7][1] = board[7][6] = BLACK_KNIGHT;
-    board[7][2] = board[7][5] = BLACK_BISHOP;
-    board[7][3] = BLACK_QUEEN;
-    board[7][4] = BLACK_KING;
-    for (int i = 0; i < 8; i++) board[6][i] = BLACK_PAWN;
+    // Initialize black pieces (lowercase)
+    board[0][0] = board[0][7] = BLACK_ROOK;
+    board[0][1] = board[0][6] = BLACK_KNIGHT;
+    board[0][2] = board[0][5] = BLACK_BISHOP;
+    board[0][3] = BLACK_QUEEN;
+    board[0][4] = BLACK_KING;
+    for (int i = 0; i < 8; i++) board[1][i] = BLACK_PAWN;
 }
 
 // Function to print the board
@@ -59,358 +59,231 @@ void ChessBoard::setPieceAt(int row, int col, Piece piece) {
     board[row][col] = piece;
 }
 
-// Function to generate all legal moves
-std::vector<Move> ChessBoard::generateLegalMoves() {
+// Function to generate all legal moves for the current player
+std::vector<Move> ChessBoard::generateLegalMoves(bool isWhite) {
     std::vector<Move> moves;
-
     for (int row = 0; row < 8; ++row) {
         for (int col = 0; col < 8; ++col) {
-            if (board[row][col] != EMPTY) {
+            if (board[row][col] != EMPTY && (isWhite == (board[row][col] > 0))) {
                 std::vector<Move> pieceMoves;
-                switch(board[row][col]) {
-                    case WHITE_PAWN: case BLACK_PAWN:
+                switch(abs(board[row][col])) {
+                    case WHITE_PAWN:
                         generatePawnMoves(row, col, pieceMoves); break;
-                    case WHITE_ROOK: case BLACK_ROOK:
+                    case WHITE_ROOK:
                         generateRookMoves(row, col, pieceMoves); break;
-                    case WHITE_KNIGHT: case BLACK_KNIGHT:
+                    case WHITE_KNIGHT:
                         generateKnightMoves(row, col, pieceMoves); break;
-                    case WHITE_BISHOP: case BLACK_BISHOP:
+                    case WHITE_BISHOP:
                         generateBishopMoves(row, col, pieceMoves); break;
-                    case WHITE_QUEEN: case BLACK_QUEEN:
+                    case WHITE_QUEEN:
                         generateQueenMoves(row, col, pieceMoves); break;
-                    case WHITE_KING: case BLACK_KING:
+                    case WHITE_KING:
                         generateKingMoves(row, col, pieceMoves); break;
                 }
-
-                // Check legality of each move
-                for (const Move& move : pieceMoves) {
-                    // Temporarily make the move
-                    int capturedPiece = board[move.toRow][move.toCol];
-                    board[move.toRow][move.toCol] = board[move.fromRow][move.fromCol];
-                    board[move.fromRow][move.fromCol] = EMPTY;
-
-                    if (!isInCheck(board[move.toRow][move.toCol] > 0)) {
-                        moves.push_back(move); // Legal move
-                    }
-
-                    // Undo the move
-                    board[move.fromRow][move.fromCol] = board[move.toRow][move.toCol];
-                    board[move.toRow][move.toCol] = capturedPiece;
-                }
+                moves.insert(moves.end(), pieceMoves.begin(), pieceMoves.end());
             }
         }
     }
-
     return moves;
 }
 
-// Function to check if a player is in check
-bool ChessBoard::isInCheck(bool white) {
-    // Find the king's position
-    int kingRow = -1, kingCol = -1;
-    int kingPiece = white ? WHITE_KING : BLACK_KING;
-
-    for (int i = 0; i < 8; ++i) {
-        for (int j = 0; j < 8; ++j) {
-            if (board[i][j] == kingPiece) {
-                kingRow = i;
-                kingCol = j;
-                break;
-            }
-        }
-    }
-
-    // Check if any opponent piece can attack the king's position
-    std::vector<Move> opponentMoves;
-    for (int row = 0; row < 8; ++row) {
-        for (int col = 0; col < 8; ++col) {
-            if ((white && board[row][col] < 0) || (!white && board[row][col] > 0)) {
-                switch (abs(board[row][col])) {
-                    case WHITE_PAWN: case BLACK_PAWN:
-                        generatePawnMoves(row, col, opponentMoves); break;
-                    case WHITE_ROOK: case BLACK_ROOK:
-                        generateRookMoves(row, col, opponentMoves); break;
-                    case WHITE_KNIGHT: case BLACK_KNIGHT:
-                        generateKnightMoves(row, col, opponentMoves); break;
-                    case WHITE_BISHOP: case BLACK_BISHOP:
-                        generateBishopMoves(row, col, opponentMoves); break;
-                    case WHITE_QUEEN: case BLACK_QUEEN:
-                        generateQueenMoves(row, col, opponentMoves); break;
-                    case WHITE_KING: case BLACK_KING:
-                        generateKingMoves(row, col, opponentMoves); break;
-                }
-            }
-        }
-    }
-
-    // Check if any move attacks the king's position
-    for (const auto& move : opponentMoves) {
-        if (move.toRow == kingRow && move.toCol == kingCol) {
-            return true; // King is in check
-        }
-    }
-
-    return false;
+// Add a function to convert algebraic notation to board coordinates
+Move ChessBoard::algebraicToMove(const std::string& algebraic) {
+    int fromCol = algebraic[0] - 'a';
+    int fromRow = 8 - (algebraic[1] - '0');
+    int toCol = algebraic[2] - 'a';
+    int toRow = 8 - (algebraic[3] - '0');
+    return Move(fromRow, fromCol, toRow, toCol);
 }
 
 // Function to evaluate the board state and return a score
 int ChessBoard::evaluateBoard() {
     int score = 0;
+    const int pieceValues[7] = {0, 10, 50, 30, 30, 90, 900}; // Pawn, Rook, Knight, Bishop, Queen, King
+
     for (int row = 0; row < 8; ++row) {
-        for (int col = 0; col < 8; ++col) {
-            score += board[row][col];
+        for (int col = 0; col < 8; col++) {
+            int piece = board[row][col];
+            if (piece != EMPTY) {
+                int pieceValue = pieceValues[abs(piece)];
+                if (piece > 0) {
+                    score += pieceValue; // White pieces add to score
+                } else {
+                    score -= pieceValue; // Black pieces subtract from score
+                }
+            }
         }
     }
+
     return score;
 }
 
-// Minimax function to determine the best move
+// Generate moves for a pawn
+void ChessBoard::generatePawnMoves(int row, int col, std::vector<Move>& moves) {
+    int direction = (board[row][col] > 0) ? -1 : 1; // White moves up, Black moves down
+    int startRow = (board[row][col] > 0) ? 6 : 1;  // Starting row for pawns
+
+    // Single move forward
+    if (row + direction >= 0 && row + direction < 8 && board[row + direction][col] == EMPTY) {
+        moves.push_back(Move(row, col, row + direction, col));
+        // Double move forward
+        if (row == startRow && board[row + 2 * direction][col] == EMPTY) {
+            moves.push_back(Move(row, col, row + 2 * direction, col));
+        }
+    }
+
+    // Captures
+    if (col > 0 && row + direction >= 0 && row + direction < 8 && board[row + direction][col - 1] * board[row][col] < 0) {
+        moves.push_back(Move(row, col, row + direction, col - 1));
+    }
+    if (col < 7 && row + direction >= 0 && row + direction < 8 && board[row + direction][col + 1] * board[row][col] < 0) {
+        moves.push_back(Move(row, col, row + direction, col + 1));
+    }
+}
+
+// Generate moves for a rook
+void ChessBoard::generateRookMoves(int row, int col, std::vector<Move>& moves) {
+    int directions[4][2] = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+    for (auto& dir : directions) {
+        for (int i = 1; i < 8; ++i) {
+            int newRow = row + i * dir[0];
+            int newCol = col + i * dir[1];
+            if (newRow < 0 || newRow >= 8 || newCol < 0 || newCol >= 8) break;
+            if (board[newRow][newCol] == EMPTY) {
+                moves.push_back(Move(row, col, newRow, newCol));
+            } else {
+                if (board[newRow][newCol] * board[row][col] < 0) {
+                    moves.push_back(Move(row, col, newRow, newCol)); // Capture
+                }
+                break;
+            }
+        }
+    }
+}
+
+// Generate moves for a knight
+void ChessBoard::generateKnightMoves(int row, int col, std::vector<Move>& moves) {
+    int knightMoves[8][2] = {{-2, -1}, {-2, 1}, {-1, -2}, {-1, 2}, {1, -2}, {1, 2}, {2, -1}, {2, 1}};
+    for (auto& move : knightMoves) {
+        int newRow = row + move[0];
+        int newCol = col + move[1];
+        if (newRow >= 0 && newRow < 8 && newCol >= 0 && newCol < 8 && board[newRow][newCol] * board[row][col] <= 0) {
+            moves.push_back(Move(row, col, newRow, newCol));
+        }
+    }
+}
+
+// Generate moves for a bishop
+void ChessBoard::generateBishopMoves(int row, int col, std::vector<Move>& moves) {
+    int directions[4][2] = {{-1, -1}, {-1, 1}, {1, -1}, {1, 1}};
+    for (auto& dir : directions) {
+        for (int i = 1; i < 8; ++i) {
+            int newRow = row + i * dir[0];
+            int newCol = col + i * dir[1];
+            if (newRow < 0 || newRow >= 8 || newCol < 0 || newCol >= 8) break;
+            if (board[newRow][newCol] == EMPTY) {
+                moves.push_back(Move(row, col, newRow, newCol));
+            } else {
+                if (board[newRow][newCol] * board[row][col] < 0) {
+                    moves.push_back(Move(row, col, newRow, newCol)); // Capture
+                }
+                break;
+            }
+        }
+    }
+}
+
+// Generate moves for a queen
+void ChessBoard::generateQueenMoves(int row, int col, std::vector<Move>& moves) {
+    generateRookMoves(row, col, moves);
+    generateBishopMoves(row, col, moves);
+}
+
+// Generate moves for a king
+void ChessBoard::generateKingMoves(int row, int col, std::vector<Move>& moves) {
+    int kingMoves[8][2] = {{-1, -1}, {-1, 0}, {-1, 1}, {0, -1}, {0, 1}, {1, -1}, {1, 0}, {1, 1}};
+    for (auto& move : kingMoves) {
+        int newRow = row + move[0];
+        int newCol = col + move[1];
+        if (newRow >= 0 && newRow < 8 && newCol >= 0 && newCol < 8 && board[newRow][newCol] * board[row][col] <= 0) {
+            moves.push_back(Move(row, col, newRow, newCol));
+        }
+    }
+}
+
+// Print all generated legal moves for debugging
+void ChessBoard::printLegalMoves() {
+    std::vector<Move> moves = generateLegalMoves(currentPlayer == WHITE);
+    std::cout << "Generated " << moves.size() << " legal moves:\n";
+    for (const Move& move : moves) {
+        std::cout << "Move from (" << move.fromRow << ", " << move.fromCol 
+                  << ") to (" << move.toRow << ", " << move.toCol << ")\n";
+    }
+}
+
+bool ChessBoard::makeMove(const Move& move) {
+    std::vector<Move> legalMoves = generateLegalMoves(currentPlayer == WHITE);
+    
+    for (const auto& legalMove : legalMoves) {
+        if (move.fromRow == legalMove.fromRow && move.fromCol == legalMove.fromCol &&
+            move.toRow == legalMove.toRow && move.toCol == legalMove.toCol) {
+            // Make the move
+            Piece piece = getPieceAt(move.fromRow, move.fromCol);
+            setPieceAt(move.toRow, move.toCol, piece);
+            setPieceAt(move.fromRow, move.fromCol, EMPTY);
+            currentPlayer = (currentPlayer == WHITE) ? BLACK : WHITE;
+            
+            // Debug output
+            std::cout << "Move made: " << move.toString() << std::endl;
+            std::cout << "Piece moved: " << piece << std::endl;
+            
+            return true;
+        }
+    }
+    
+    // Debug output for invalid move
+    std::cout << "Invalid move attempted: " << move.toString() << std::endl;
+    
+    return false;
+}
+
+// Make a move using algebraic notation
+bool ChessBoard::makeMove(const std::string& algebraic) {
+    Move move = algebraicToMove(algebraic);
+    return makeMove(move);
+}
+
+// Undo a move on the board
+void ChessBoard::undoMove(const Move& move, Piece capturedPiece) {
+    Piece piece = getPieceAt(move.toRow, move.toCol);
+    setPieceAt(move.fromRow, move.fromCol, piece);
+    setPieceAt(move.toRow, move.toCol, capturedPiece);
+    currentPlayer = (currentPlayer == WHITE) ? BLACK : WHITE;
+}
+
+// Minimax algorithm for AI
 int ChessBoard::minimax(int depth, bool isMaximizingPlayer) {
     if (depth == 0) {
         return evaluateBoard();
     }
 
-    std::vector<Move> moves = generateLegalMoves();
-    if (isMaximizingPlayer) {
-        int maxEval = -10000;
-        for (const Move& move : moves) {
-            makeMove(move);
-            int eval = minimax(depth - 1, false);
-            undoMove(move);
-            maxEval = std::max(maxEval, eval);
-        }
-        return maxEval;
-    } else {
-        int minEval = 10000;
-        for (const Move& move : moves) {
-            makeMove(move);
-            int eval = minimax(depth - 1, true);
-            undoMove(move);
-            minEval = std::min(minEval, eval);
-        }
-        return minEval;
-    }
-}
-
-// make move
-void ChessBoard::makeMove(const Move& move) {
-    std::cout << "Making move from (" << move.fromRow << ", " << move.fromCol 
-              << ") to (" << move.toRow << ", " << move.toCol << ")\n";
-    Piece piece = getPieceAt(move.fromRow, move.fromCol);
-    if (move.promotion != EMPTY) {
-        piece = move.promotion;
+    std::vector<Move> moves = generateLegalMoves(isMaximizingPlayer);
+    
+    if (moves.empty()) {
+        return isMaximizingPlayer ? -10000 : 10000;
     }
 
-    setPieceAt(move.toRow, move.toCol, piece);
-    setPieceAt(move.fromRow, move.fromCol, EMPTY);
-    printBoard(); // Print board after making a move
-}
-
-// undo move
-void ChessBoard::undoMove(const Move& move) {
-    std::cout << "Undoing move from (" << move.toRow << ", " << move.toCol 
-              << ") to (" << move.fromRow << ", " << move.fromCol << ")\n";
-    Piece piece = getPieceAt(move.toRow, move.toCol);
-    if (move.promotion != EMPTY) {
-        piece = (move.toRow == 0) ? BLACK_PAWN : WHITE_PAWN; // Replace with the original pawn
-    }
-
-    setPieceAt(move.fromRow, move.fromCol, piece);
-    setPieceAt(move.toRow, move.toCol, move.promotion); // Restore captured piece if any
-    printBoard(); // Print board after undoing a move
-}
-
-// Implement your move generation functions (e.g., generatePawnMoves, generateRookMoves, etc.)
-
-// Pawn moves
-void ChessBoard::generatePawnMoves(int row, int col, std::vector<Move>& moves) {
-    int direction = (board[row][col] == WHITE_PAWN) ? 1 : -1;
-
-    // Single move forward
-    if (board[row + direction][col] == EMPTY) {
-        if (row + direction == 0 || row + direction == 7) {
-            // Promotion moves
-            moves.push_back(Move(row, col, row + direction, col, WHITE_QUEEN)); // Default to queen
+    int bestValue = isMaximizingPlayer ? -10000 : 10000;
+    for (const Move& move : moves) {
+        ChessBoard tempBoard = *this; // Create a copy of the current board
+        tempBoard.makeMove(move);
+        int eval = tempBoard.minimax(depth - 1, !isMaximizingPlayer);
+        
+        if (isMaximizingPlayer) {
+            bestValue = std::max(bestValue, eval);
         } else {
-            moves.push_back(Move(row, col, row + direction, col));
-        }
-
-        // Double move forward if on initial row
-        if ((board[row][col] == WHITE_PAWN && row == 1) || (board[row][col] == BLACK_PAWN && row == 6)) {
-            if (board[row + 2 * direction][col] == EMPTY) {
-                moves.push_back(Move(row, col, row + 2 * direction, col));
-            }
+            bestValue = std::min(bestValue, eval);
         }
     }
-
-    // Capturing diagonally
-    if (col > 0 && board[row + direction][col - 1] != EMPTY && board[row][col] * board[row + direction][col - 1] < 0) {
-        if (row + direction == 0 || row + direction == 7) {
-            moves.push_back(Move(row, col, row + direction, col - 1, WHITE_QUEEN)); // Promotion
-        } else {
-            moves.push_back(Move(row, col, row + direction, col - 1));
-        }
-    }
-    if (col < 7 && board[row + direction][col + 1] != EMPTY && board[row][col] * board[row + direction][col + 1] < 0) {
-        if (row + direction == 0 || row + direction == 7) {
-            moves.push_back(Move(row, col, row + direction, col + 1, WHITE_QUEEN)); // Promotion
-        } else {
-            moves.push_back(Move(row, col, row + direction, col + 1));
-        }
-    }
-
-    // Add en passant logic here if needed
-
-}
-
-// Rook moves
-void ChessBoard::generateRookMoves(int row, int col, std::vector<Move>& moves) {
-    // Upwards movement
-    for (int i = row + 1; i < 8; ++i) {
-        if (board[i][col] == EMPTY) {
-            moves.push_back(Move(row, col, i, col));
-        } else {
-            if (board[row][col] * board[i][col] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, i, col));
-            break; // Blocked by a piece
-        }
-    }
-    // Downwards movement
-    for (int i = row - 1; i >= 0; --i) {
-        if (board[i][col] == EMPTY) {
-            moves.push_back(Move(row, col, i, col));
-        } else {
-            if (board[row][col] * board[i][col] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, i, col));
-            break; // Blocked by a piece
-        }
-    }
-    // Right movement
-    for (int i = col + 1; i < 8; ++i) {
-        if (board[row][i] == EMPTY) {
-            moves.push_back(Move(row, col, row, i));
-        } else {
-            if (board[row][col] * board[row][i] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, row, i));
-            break; // Blocked by a piece
-        }
-    }
-    // Left movement
-    for (int i = col - 1; i >= 0; --i) {
-        if (board[row][i] == EMPTY) {
-            moves.push_back(Move(row, col, row, i));
-        } else {
-            if (board[row][col] * board[row][i] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, row, i));
-            break; // Blocked by a piece
-        }
-    }
-}
-
-// Knight moves
-void ChessBoard::generateKnightMoves(int row, int col, std::vector<Move>& moves) {
-    // Possible moves for a knight in terms of row and column changes
-    const int knightMoves[8][2] = {
-        {2, 1}, {2, -1}, {-2, 1}, {-2, -1}, 
-        {1, 2}, {1, -2}, {-1, 2}, {-1, -2}
-    };
-
-    for (const auto& move : knightMoves) {
-        int newRow = row + move[0];
-        int newCol = col + move[1];
-        if (newRow >= 0 && newRow < 8 && newCol >= 0 && newCol < 8) { // Check board boundaries
-            if (board[newRow][newCol] == EMPTY || board[row][col] * board[newRow][newCol] < 0) {
-                moves.push_back(Move(row, col, newRow, newCol));
-            }
-        }
-    }
-}
-
-// Bishop moves
-void ChessBoard::generateBishopMoves(int row, int col, std::vector<Move>& moves) {
-    // Top-right diagonal
-    for (int i = 1; row + i < 8 && col + i < 8; ++i) {
-        if (board[row + i][col + i] == EMPTY) {
-            moves.push_back(Move(row, col, row + i, col + i));
-        } else {
-            if (board[row][col] * board[row + i][col + i] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, row + i, col + i));
-            break; // Blocked by a piece
-        }
-    }
-    // Top-left diagonal
-    for (int i = 1; row + i < 8 && col - i >= 0; ++i) {
-        if (board[row + i][col - i] == EMPTY) {
-            moves.push_back(Move(row, col, row + i, col - i));
-        } else {
-            if (board[row][col] * board[row + i][col - i] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, row + i, col - i));
-            break; // Blocked by a piece
-        }
-    }
-    // Bottom-right diagonal
-    for (int i = 1; row - i >= 0 && col + i < 8; ++i) {
-        if (board[row - i][col + i] == EMPTY) {
-            moves.push_back(Move(row, col, row - i, col + i));
-        } else {
-            if (board[row][col] * board[row - i][col + i] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, row - i, col + i));
-            break; // Blocked by a piece
-        }
-    }
-    // Bottom-left diagonal
-    for (int i = 1; row - i >= 0 && col - i >= 0; ++i) {
-        if (board[row - i][col - i] == EMPTY) {
-            moves.push_back(Move(row, col, row - i, col - i));
-        } else {
-            if (board[row][col] * board[row - i][col - i] < 0) // Capture opponent's piece
-                moves.push_back(Move(row, col, row - i, col - i));
-            break; // Blocked by a piece
-        }
-    }
-}
-
-// Queen moves
-void ChessBoard::generateQueenMoves(int row, int col, std::vector<Move>& moves) {
-    generateRookMoves(row, col, moves);  // Rook-like moves
-    generateBishopMoves(row, col, moves);  // Bishop-like moves
-}
-
-
-// King Moves
-void ChessBoard::generateKingMoves(int row, int col, std::vector<Move>& moves) {
-    // Standard king moves
-    const int kingMoves[8][2] = {
-        {1, 0}, {-1, 0}, {0, 1}, {0, -1}, 
-        {1, 1}, {1, -1}, {-1, 1}, {-1, -1}
-    };
-
-    for (const auto& move : kingMoves) {
-        int newRow = row + move[0];
-        int newCol = col + move[1];
-        if (newRow >= 0 && newRow < 8 && newCol >= 0 && newCol < 8) { // Check board boundaries
-            if (board[newRow][newCol] == EMPTY || board[row][col] * board[newRow][newCol] < 0) {
-                moves.push_back(Move(row, col, newRow, newCol));
-            }
-        }
-    }
-
-    // Castling logic (simplified, need to check if castling rights are valid)
-    if (board[row][col] == WHITE_KING && row == 0 && col == 4) {
-        if (board[0][0] == WHITE_ROOK && board[0][1] == EMPTY && board[0][2] == EMPTY && board[0][3] == EMPTY) {
-            moves.push_back(Move(0, 4, 0, 2)); // Queen-side castling
-        }
-        if (board[0][7] == WHITE_ROOK && board[0][5] == EMPTY && board[0][6] == EMPTY) {
-            moves.push_back(Move(0, 4, 0, 6)); // King-side castling
-        }
-    }
-
-    if (board[row][col] == BLACK_KING && row == 7 && col == 4) {
-        if (board[7][0] == BLACK_ROOK && board[7][1] == EMPTY && board[7][2] == EMPTY && board[7][3] == EMPTY) {
-            moves.push_back(Move(7, 4, 7, 2)); // Queen-side castling
-        }
-        if (board[7][7] == BLACK_ROOK && board[7][5] == EMPTY && board[7][6] == EMPTY) {
-            moves.push_back(Move(7, 4, 7, 6)); // King-side castling
-        }
-    }
+    return bestValue;
 }
