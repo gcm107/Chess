@@ -1,6 +1,7 @@
 #include "ChessBoard.h"
 #include <string>
 
+// Print all generated moves
 void printMoves(const std::vector<Move>& moves) {
     for (const Move& move : moves) {
         std::cout << "Move from (" << move.fromRow << ", " << move.fromCol 
@@ -8,6 +9,7 @@ void printMoves(const std::vector<Move>& moves) {
     }
 }
 
+// Parse player input in algebraic notation
 Move parseMove(const std::string& input) {
     int fromRow = 8 - (input[1] - '0');
     int fromCol = input[0] - 'a';
@@ -16,12 +18,33 @@ Move parseMove(const std::string& input) {
     return Move(fromRow, fromCol, toRow, toCol);
 }
 
+// Get the best move using Minimax
+Move getBestMove(ChessBoard& board, int depth) {
+    std::vector<Move> moves = board.generateLegalMoves();
+    int bestValue = -10000;
+    Move bestMove = moves[0];
+
+    for (const Move& move : moves) {
+        board.makeMove(move);
+        int moveValue = board.minimax(depth - 1, false); // AI is maximizing
+        board.undoMove(move);
+
+        if (moveValue > bestValue) {
+            bestValue = moveValue;
+            bestMove = move;
+        }
+    }
+
+    return bestMove;
+}
+
 int main() {
     ChessBoard board;
     board.initializeBoard();
     board.printBoard();
 
     while (true) {
+        // Player's move
         std::cout << "Enter your move (e.g., e2e4): ";
         std::string input;
         std::cin >> input;
@@ -42,9 +65,14 @@ int main() {
         }
 
         if (isValid) {
-            // Make the move using setter methods
-            board.setPieceAt(move.toRow, move.toCol, board.getPieceAt(move.fromRow, move.fromCol));
-            board.setPieceAt(move.fromRow, move.fromCol, EMPTY);
+            // Make the player's move
+            board.makeMove(move);
+            board.printBoard();
+
+            // AI's move
+            std::cout << "AI is thinking...\n";
+            Move aiMove = getBestMove(board, 3); // Depth 3 for Minimax
+            board.makeMove(aiMove);
             board.printBoard();
         } else {
             std::cout << "Invalid move. Try again.\n";

@@ -192,16 +192,32 @@ int ChessBoard::minimax(int depth, bool isMaximizingPlayer) {
     }
 }
 
-// Make a move on the board
+// make move
 void ChessBoard::makeMove(const Move& move) {
-    setPieceAt(move.toRow, move.toCol, getPieceAt(move.fromRow, move.fromCol));
+    std::cout << "Making move from (" << move.fromRow << ", " << move.fromCol 
+              << ") to (" << move.toRow << ", " << move.toCol << ")\n";
+    Piece piece = getPieceAt(move.fromRow, move.fromCol);
+    if (move.promotion != EMPTY) {
+        piece = move.promotion;
+    }
+
+    setPieceAt(move.toRow, move.toCol, piece);
     setPieceAt(move.fromRow, move.fromCol, EMPTY);
+    printBoard(); // Print board after making a move
 }
 
-// Undo a move on the board
+// undo move
 void ChessBoard::undoMove(const Move& move) {
-    setPieceAt(move.fromRow, move.fromCol, getPieceAt(move.toRow, move.toCol));
+    std::cout << "Undoing move from (" << move.toRow << ", " << move.toCol 
+              << ") to (" << move.fromRow << ", " << move.fromCol << ")\n";
+    Piece piece = getPieceAt(move.toRow, move.toCol);
+    if (move.promotion != EMPTY) {
+        piece = (move.toRow == 0) ? BLACK_PAWN : WHITE_PAWN; // Replace with the original pawn
+    }
+
+    setPieceAt(move.fromRow, move.fromCol, piece);
     setPieceAt(move.toRow, move.toCol, move.promotion); // Restore captured piece if any
+    printBoard(); // Print board after undoing a move
 }
 
 // Implement your move generation functions (e.g., generatePawnMoves, generateRookMoves, etc.)
