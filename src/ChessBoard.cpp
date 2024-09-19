@@ -49,6 +49,16 @@ void ChessBoard::printBoard() {
     std::cout << std::endl;
 }
 
+// Get the piece at a specific position
+Piece ChessBoard::getPieceAt(int row, int col) const {
+    return static_cast<Piece>(board[row][col]);
+}
+
+// Set a piece at a specific position
+void ChessBoard::setPieceAt(int row, int col, Piece piece) {
+    board[row][col] = piece;
+}
+
 // Function to generate all legal moves
 std::vector<Move> ChessBoard::generateLegalMoves() {
     std::vector<Move> moves;
@@ -146,9 +156,28 @@ bool ChessBoard::isInCheck(bool white) {
 // Pawn moves
 void ChessBoard::generatePawnMoves(int row, int col, std::vector<Move>& moves) {
     int direction = (board[row][col] == WHITE_PAWN) ? 1 : -1;
+
+    // Single move forward
     if (board[row + direction][col] == EMPTY) {
         moves.push_back(Move(row, col, row + direction, col));
+        
+        // Double move forward if on initial row
+        if ((board[row][col] == WHITE_PAWN && row == 1) || (board[row][col] == BLACK_PAWN && row == 6)) {
+            if (board[row + 2 * direction][col] == EMPTY) {
+                moves.push_back(Move(row, col, row + 2 * direction, col));
+            }
+        }
     }
+
+    // Capturing diagonally
+    if (col > 0 && board[row + direction][col - 1] != EMPTY && board[row][col] * board[row + direction][col - 1] < 0) {
+        moves.push_back(Move(row, col, row + direction, col - 1));
+    }
+    if (col < 7 && board[row + direction][col + 1] != EMPTY && board[row][col] * board[row + direction][col + 1] < 0) {
+        moves.push_back(Move(row, col, row + direction, col + 1));
+    }
+
+    
 }
 
 // Rook moves
@@ -264,9 +293,10 @@ void ChessBoard::generateQueenMoves(int row, int col, std::vector<Move>& moves) 
     generateBishopMoves(row, col, moves);  // Bishop-like moves
 }
 
-// King moves
+
+// King Moves
 void ChessBoard::generateKingMoves(int row, int col, std::vector<Move>& moves) {
-    // Possible moves for a king in terms of row and column changes
+    // Standard king moves
     const int kingMoves[8][2] = {
         {1, 0}, {-1, 0}, {0, 1}, {0, -1}, 
         {1, 1}, {1, -1}, {-1, 1}, {-1, -1}
@@ -279,6 +309,25 @@ void ChessBoard::generateKingMoves(int row, int col, std::vector<Move>& moves) {
             if (board[newRow][newCol] == EMPTY || board[row][col] * board[newRow][newCol] < 0) {
                 moves.push_back(Move(row, col, newRow, newCol));
             }
+        }
+    }
+
+    // Castling logic (simplified, need to check if castling rights are valid)
+    if (board[row][col] == WHITE_KING && row == 0 && col == 4) {
+        if (board[0][0] == WHITE_ROOK && board[0][1] == EMPTY && board[0][2] == EMPTY && board[0][3] == EMPTY) {
+            moves.push_back(Move(0, 4, 0, 2)); // Queen-side castling
+        }
+        if (board[0][7] == WHITE_ROOK && board[0][5] == EMPTY && board[0][6] == EMPTY) {
+            moves.push_back(Move(0, 4, 0, 6)); // King-side castling
+        }
+    }
+
+    if (board[row][col] == BLACK_KING && row == 7 && col == 4) {
+        if (board[7][0] == BLACK_ROOK && board[7][1] == EMPTY && board[7][2] == EMPTY && board[7][3] == EMPTY) {
+            moves.push_back(Move(7, 4, 7, 2)); // Queen-side castling
+        }
+        if (board[7][7] == BLACK_ROOK && board[7][5] == EMPTY && board[7][6] == EMPTY) {
+            moves.push_back(Move(7, 4, 7, 6)); // King-side castling
         }
     }
 }

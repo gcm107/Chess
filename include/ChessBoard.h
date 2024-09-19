@@ -32,7 +32,7 @@ struct Move {
 };
 
 class ChessBoard {
-public: // Make move generation functions public
+public:
     ChessBoard();
     void initializeBoard();
     void printBoard();
@@ -50,6 +50,10 @@ public: // Make move generation functions public
     void generateBishopMoves(int row, int col, std::vector<Move>& moves);
     void generateQueenMoves(int row, int col, std::vector<Move>& moves);
     void generateKingMoves(int row, int col, std::vector<Move>& moves);
+
+    // Public methods to get and set pieces on the board
+    Piece getPieceAt(int row, int col) const;
+    void setPieceAt(int row, int col, Piece piece);
 
 private:
     std::vector<std::vector<int> > board; // Add space between '>' characters
