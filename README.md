@@ -1,4 +1,4 @@
-# Chess Engine
+# Chess Engine -- (Under Development)
 
 This is a simple chess engine implemented in C++. It allows you to play against an AI opponent using a command-line interface.
 
