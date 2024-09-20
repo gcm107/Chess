@@ -34,8 +34,7 @@ class Board:
 
     def move_piece(self, move):
         # This is a move parser and executor for standard chess notation
-        # Assumes move is in the format '1.e4' or '2.Nc6'
-        move = move.split('.')[1]  # Split and take the move part
+        # Assumes move is in the format 'e2e4'
         start_col = ord(move[0].lower()) - ord('a')
         start_row = 8 - int(move[1])
         end_col = ord(move[2].lower()) - ord('a')
@@ -44,13 +43,13 @@ class Board:
         self.board[start_row][start_col] = None
         self.board[end_row][end_col] = piece
 
-    def generate_engine_move(self):
+    def generate_engine_move(self, color):
         # This is a very basic random move generator
         possible_moves = []
         for row in range(8):
             for col in range(8):
                 piece = self.board[row][col]
-                if piece and piece.color == 'black':
+                if piece and piece.color == color:
                     # Generate some random moves for the piece
                     for d_row in [-1, 1]:
                         for d_col in [-1, 1]:
@@ -63,10 +62,47 @@ class Board:
             self.board[move[2]][move[3]] = self.board[move[0]][move[1]]
             self.board[move[0]][move[1]] = None
 
+    def evaluate_position(self):
+        piece_values = {
+            'K': 0, 'Q': 9, 'R': 5, 'B': 3, 'N': 3, 'P': 1,
+            'k': 0, 'q': 9, 'r': 5, 'b': 3, 'n': 3, 'p': 1
+        }
+        white_score = 0
+        black_score = 0
+        for row in self.board:
+            for piece in row:
+                if piece:
+                    if piece.color == 'white':
+                        white_score += piece_values[str(piece)]
+                    else:
+                        black_score += piece_values[str(piece)]
+        if white_score > black_score:
+            return f"White is ahead by {white_score - black_score} points."
+        elif black_score > white_score:
+            return f"Black is ahead by {black_score - white_score} points."
+        else:
+            return "The position is equal."
+
+    def simulate_game(self, num_moves):
+        for _ in range(num_moves):
+            self.generate_engine_move('white')
+            self.generate_engine_move('black')
+            self.print_board()
+            print()
+
 if __name__ == "__main__":
     board = Board()
-    while True:
-        board.print_board()
-        user_move = input("Enter your move (e.g., e2e4): ")
-        board.move_piece(user_move)
-        board.generate_engine_move()
+    try:
+        while True:
+            board.print_board()
+            user_move = input("Enter your move (e.g., e2e4, 'simulate' to run a simulation, or 'evaluate' to evaluate the position): ")
+            if user_move.lower() == 'simulate':
+                num_moves = int(input("Enter the number of moves to simulate: "))
+                board.simulate_game(num_moves)
+            elif user_move.lower() == 'evaluate':
+                print(board.evaluate_position())
+            else:
+                board.move_piece(user_move)
+                board.generate_engine_move('black')
+    except EOFError:
+        print("\nGame ended.")
