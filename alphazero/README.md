@@ -1,3 +1,5 @@
+THIS IS FROM SOMEONE ELSE'S REPO, I JUST ADDED HELPER FUNCTIONS TO GET IT STARTED. -Cale
+
 # AlphaZero_Chess
 # From-scratch implementation of AlphaZero for Chess
 
