@@ -1,4 +1,15 @@
-THIS IS FROM SOMEONE ELSE'S REPO, I JUST ADDED HELPER FUNCTIONS TO GET IT STARTED. -Cale
+-- Side Note --
+
+THIS IS FROM [GEOCHRI'S REPO](https://github.com/geochri/AlphaZero_Chess), I JUST ADDED HELPER FUNCTIONS TO GET IT STARTED AND CHECK THAT THE GPU WAS UTLIZED. 
+
+
+
+1. I'm using Python 3.10 in my conda environment. 
+2. Install the correct version of PyTorch based on your CUDA version. I have CUDA 12.6 but i installed the pytorch cuda 11.8 version. Download the appropriate one [here](https://pytorch.org/get-started/locally/)
+3. Scroll down to How to Play and follow the instructions.
+
+
+---
 
 # AlphaZero_Chess
 # From-scratch implementation of AlphaZero for Chess
