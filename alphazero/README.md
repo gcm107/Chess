@@ -62,7 +62,7 @@ A full iteration pipeline consists of:
 # How to play
 1. ```pip install numpy matplotlib pandas torchvision torchaudio```
 
-2. From the alphazero directory, run ```run src/init_model.py``` to generate a random initialized alpha_net and save it to model_data/
+2. From the alphazero directory, run ```mkdir model_data``` then ```run src/init_model.py``` to generate a random initialized alpha_net and save it to model_data/
 
 AND THEN THE GOOD STUFF:
 ### Option 1:
