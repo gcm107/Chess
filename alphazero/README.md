@@ -60,8 +60,7 @@ A full iteration pipeline consists of:
 4) Rinse and repeat. Note that in the paper, all these processes are running simultaneously in parallel, subject to available computing resources one has.
 
 # How to play
-1. ```pip install torch numpy matplotlib pandas```
-(The torch version you install will depend on your cuda version, for example, I have CUDA 12.2, so I install torch 2.4.1)
+1. ```pip install numpy matplotlib pandas torchvision torchaudio```
 
 2. From the alphazero directory, run ```run src/init_model.py``` to generate a random initialized alpha_net and save it to model_data/
 
