@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+alphazero/src/__pycache__/visualize_board.cpython-37.pycZone.Identifier
+alphazero/src/__pycache__/MCTS_chess.cpython-310.pyc
+alphazero/src/__pycache__/MCTS_chess.cpython-37.pycZone.Identifier
+alphazero/src/__pycache__/evaluator.cpython-37.pyc
+alphazero/src/__pycache__/encoder_decoder.cpython-37.pycZone.Identifier
