@@ -107,10 +107,21 @@ class EvaluateWorker:
 
         :param str model_dir: directory path where model should be moved
         """
+        if not os.path.exists(model_dir):
+            logger.warning(f"Model directory {model_dir} does not exist. Skipping move operation.")
+            return
+
         rc = self.config.resource
         model_dir_name = os.path.basename(model_dir)
         new_dir = os.path.join(rc.next_generation_model_dir, "copies", model_dir_name)
-        os.rename(model_dir, new_dir)
+        try:
+            if os.path.exists(new_dir):
+                logger.warning(f"Destination directory {new_dir} already exists. Skipping move operation.")
+            else:
+                os.rename(model_dir, new_dir)
+                logger.debug(f"Moved model from {model_dir} to {new_dir}")
+        except OSError as e:
+            logger.error(f"Failed to move model: {str(e)}")
 
     def load_current_model(self):
         """
@@ -148,10 +159,26 @@ class EvaluateWorker:
             logger.info("There is no next generation model to evaluate")
             sleep(60)
         model_dir = dirs[-1] if self.config.eval.evaluate_latest_first else dirs[0]
-        config_path = os.path.join(model_dir, rc.next_generation_model_config_filename)
-        weight_path = os.path.join(model_dir, rc.next_generation_model_weight_filename)
+        config_path = os.path.join(model_dir, 'model_config.json')
+        weight_path = os.path.join(model_dir, 'model_weight.weights.h5')
+        
+        if not os.path.exists(config_path):
+            config_path = os.path.join(model_dir, rc.next_generation_model_config_filename)
+        if not os.path.exists(weight_path):
+            weight_path = os.path.join(model_dir, rc.next_generation_model_weight_filename)
+        
+        if not os.path.exists(config_path) or not os.path.exists(weight_path):
+            logger.warning(f"Model files not found at {config_path} or {weight_path}")
+            return None, model_dir
+
         model = ChessModel(self.config)
-        model.load(config_path, weight_path)
+        try:
+            model.load(config_path, weight_path)
+            logger.debug(f"Loaded model from {model_dir}")
+        except Exception as e:
+            logger.error(f"Error loading model from {model_dir}: {str(e)}")
+            return None, model_dir
+        
         return model, model_dir
 
 
