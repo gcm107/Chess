@@ -1,3 +1,5 @@
+*I (Cale) am using a conda python 3.10 environment. I insatall the tensorflow[cuda] so we can use gpu. This is the readme for the repo created by zeta36.*
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kmader/chess-alpha-zero/master?urlpath=lab)
 [![Demo Notebook](https://img.shields.io/badge/launch-demo_notebook-red.svg)](https://mybinder.org/v2/gh/kmader/chess-alpha-zero/master?filepath=notebooks%2Fdemo.ipynb)
 
