@@ -19568,3 +19568,1523 @@
 
 1. a4 e5 2. c4 b6 3. Nc3 Na6 4. b4 Bb7 5. Rb1 e4 6. d3 exd3 7. exd3 Nf6 8. Nce2 c5 9. b5 Nc7 10. h4 Qe7 11. a5 Bxg2 12. Bxg2 Qe3 13. axb6 Qxf2+ 14. Kxf2 axb6 15. Bd2 Ne4+ 16. dxe4 h6 17. Bf4 Rb8 18. Bh3 Ne6 19. Bd6 Be7 20. Kg3 Bxd6+ 21. e5 Ra8 22. h5 Be7 23. Qb3 O-O 24. Ra1 Bg5 25. Ra5 Rfe8 26. Ra6 Be7 27. Ra5 Bg5 28. Ra6 Be7 29. Ra5 1/2-1/2
 
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. a4 d5 2. b4 c6 3. Ra2 d4 4. Na3 Bd7 5. Nc4 Bh3 6. e4 b6 7. f3 f6 8. Kf2 Bd7 9. h4 Nh6 10. Na3 e6 11. g4 Bxb4 12. Ba6 e5 13. Kf1 Be7 14. Ke2 Kf7 15. Nh3 Ke6 16. f4 Re8 17. Nf2 Nf5 18. d3 Kf7 19. Bd2 Nxh4 20. Bb4 Nf5 21. Bxe7 Qxe7 22. c3 Rf8 23. Bb7 Qd8 24. cxd4 Ng3+ 25. Kd2 Nxe4+ 26. dxe4 exd4 27. Nc4 Qc8 28. Rf1 Bf5 29. Ke1 Ke8 30. Qc1 Qxb7 31. Nd3 Nd7 32. Rb2 Qc7 33. e5 Bxg4 34. Kf2 Be2 35. Nc5 Nxc5 36. Kxe2 Qf7 37. Kf3 Rc8 38. Qd2 Ke7 39. Kg2 Qe8 40. Rc1 Qf7 41. Re1 Qe8 42. Qb4 Qf7 43. Kf1 Qe8 44. Kf2 Qf7 45. Ke2 Qe8 46. Kf3 Qf7 47. Kg4 Qe8 48. Kf3 Rf7 49. Na3 Qf8 50. Kg4 a5 51. Rc2 d3 52. Rc4 Re8 53. Kf5 axb4 54. Rxb4 Nxa4 55. e6 g6+ 56. Kg4 c5 57. exf7+ Kd7 58. f5 cxb4 59. Re7+ Kxe7 60. Nc4 Kd7 61. Nd2 Nb2 62. Kg3 Ke7 63. Kf3 gxf5 64. Ne4 Kxf7 65. Kg3 Rxe4 66. Kf3 h5 67. Kg3 Re1 68. Kf3 Ke6 69. Kg2 Qg7+ 70. Kf2 Qh6 71. Kxe1 Kd7 72. Kf1 Kc6 73. Kg2 Kb7 74. Kf3 Ka7 75. Kg3 Qg6+ 76. Kf4 Ka6 77. Kf3 Na4 78. Ke3 Qg5+ 79. Kf3 b3 80. Kf2 Qg6 81. Ke3 Qg5+ 82. Kf3 Qg6 83. Ke3 Qg5+ 84. Kf3 Qg6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. a4 e5 2. Na3 h5 3. Nc4 Qe7 4. Nxe5 Qxe5 5. Ra2 Bc5 6. b3 Qe7 7. Ba3 Rh7 8. Bxc5 Qg5 9. Bb6 axb6 10. g3 Na6 11. Qb1 Kf8 12. Ra3 h4 13. Kd1 d5 14. b4 d4 15. g4 f5 16. e3 dxe3 17. Be2 Bd7 18. Qa1 exd2 19. Bc4 Bc6 20. c3 h3 21. f3 Qd8 22. Qa2 Qd5 23. Qb2 Qxc4 24. gxf5 Rh8 25. b5 Be8 26. Ra1 Bf7 27. f6 Qe4 28. fxg7+ Kxg7 29. fxe4 Nc5 30. c4+ Kh6 31. e5 Nd3 32. e6 Rb8 33. Qxh8+ Kg5 34. exf7 Nf6 35. Qd8 c5 36. Rb1 Nf4 37. Qxb6 Kh6 38. Rb4 Kh7 39. Rb1 N6h5 40. Kc2 Ng7 41. Nxh3 Nge6 42. Ng5+ Nxg5 43. Qd8 d1=B+ 44. Kb2 Bf3 45. Qc8 Kg6 46. Kc1 Kf6 47. Kd2 Nh7 48. Qd7 b6 49. Rbe1 Rf8 50. Re3 Ne6 51. Re5 Bxh1 52. Re2 Re8 53. Kc3 Bf3 54. Kd2 Bh1 55. Kc3 Rf8 56. Kd2 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 f6 2. g4 d5 3. exd5 Kf7 4. Be2 Qxd5 5. a4 b5 6. c4 Qf5 7. c5 Qxb1 8. g5 Bd7 9. axb5 a6 10. bxa6 Qf5 11. b4 Qe6 12. a7 Bc6 13. Ba3 Qa2 14. Qa4 Bb7 15. Qa6 Nxa6 16. Bg4 c6 17. Be6+ Kxe6 18. Rxa2 Rd8 19. Rb2 g6 20. a8=N Rd5 21. h4 Bg7 22. Rc2 Bc8 23. Rh2 Rd3 24. Rb2 Rd5 25. Rc2 Nc7 26. f4 Kd7 27. Nxc7 h6 28. Ne8 Bf8 29. Kf2 Rd4 30. Rc3 fxg5 31. Kf1 Kd8 32. hxg5 Rxd2 33. gxh6 Ra2 34. h7 Nf6 35. Re2 Ne4 36. Rh3 Kxe8 37. Bc1 Kf7 38. Ke1 Bg7 39. Rhe3 Bd7 40. Kf1 Ra6 41. Rd2 Ke8 42. Rde2 Bd4 43. Rd2 Ra8 44. Rde2 Rb8 45. Rd2 Ra8 46. Rde2 Rb8 47. Rd2 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nc3 e5 2. e4 d6 3. f3 Nh6 4. g4 Be7 5. Qe2 Nc6 6. Qd3 Bg5 7. Qd5 Nd4 8. Bd3 Nc6 9. Rb1 Rf8 10. Ba6 Ng8 11. Kf2 Bd7 12. Nd1 Nd4 13. Qxd4 Be3+ 14. Kxe3 h5 15. Qc5 d5 16. Ra1 hxg4 17. exd5 f5 18. Qa3 g5 19. d3 Ne7 20. Bd2 b5 21. Bxb5 Rh8 22. Bxd7+ Kf7 23. Bb5 Kg6 24. Ba6 Qxd5 25. f4 gxf4+ 26. Kf2 g3+ 27. Kf1 e4 28. Rb1 Rh7 29. c3 Kh5 30. Bxf4 Rh6 31. Nf3 Rf8 32. b4 c6 33. Kg2 Qa5 34. Nd2 Rfh8 35. Nxe4 Re8 36. h3 Rf8 37. Bxg3 Qxb4 38. cxb4 fxe4 39. dxe4 Ng6 40. Nb2 c5 41. bxc5 Re8 42. Bc4 Rxe4 43. Ra1 a6 44. Bb3 Re5 45. Rac1 Re3 46. Bg8 Ne7 47. Nc4 Rb3 48. Bd6 Rxa3 49. Rc3 Ra4 50. Ne3 Ra3 51. Rf1 Rg6+ 52. Kf3 Ra4 53. h4 Rd4 54. Bc7 Rf6+ 55. Nf5 Re6 56. Nxe7 Rxe7 57. Rd3 Rde4 58. Rd5+ Kg6 59. Re5 Ra4 60. Rg1+ Kh6 61. Rgg5 Rg7 62. Rg6+ Rxg6 63. Rf5 Rf6 64. Rxf6+ Kh5 65. Bd8 Rd4 66. a4 Re4 67. c6 Re7 68. Rf8 Re8 69. c7 Rxf8+ 70. Ke2 Rxd8 71. a5 Rd1 72. Kxd1 Kxh4 73. c8=Q Kg3 74. Bf7 Kf2 75. Qf8 Kg3 76. Bh5 Kg2 77. Bf7 Kg3 78. Bb3 Kg4 79. Qf7 Kh4 80. Qg6 Kh3 81. Bd5 Kh2 82. Kc1 Kh3 83. Bf7 Kh2 84. Kb1 Kh1 85. Qc6+ Kh2 86. Ka2 Kg1 87. Ka3 Kf2 88. Ka4 Kf1 89. Bg6 Kf2 90. Qd7 Kf1 91. Bd3+ Kf2 92. Qe6 Kg2 93. Be2 Kh1 94. Qf6 Kg1 95. Bh5 Kg2 96. Qe5 Kh1 97. Qe6 Kg1 98. Qf6 Kg2 99. Qe5 Kh1 100. Qe6 Kg1 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nh3 h6 2. d3 Nc6 3. Nd2 d5 4. c3 g6 5. Ng5 Be6 6. Nh7 Nd4 7. g3 b5 8. a3 a6 9. Rb1 Bg7 10. Bh3 Rxh7 11. Rg1 Qd6 12. c4 Qb4 13. Bf5 Rd8 14. axb4 gxf5 15. cxd5 Kd7 16. Nf1 Rc8 17. Bd2 c5 18. f4 Bf8 19. Rh1 a5 20. b3 c4 21. bxc4 axb4 22. Qb3 Bxd5 23. Qa4 bxa4 24. h3 e6 25. e4 Nc2+ 26. Kf2 Nf6 27. Kg2 Ng4 28. Rc1 Bxc4 29. Bc3 Nf2 30. Bd2 Ke7 31. Bc3 Bb5 32. Rh2 fxe4 33. Bd2 Nxd3 34. Rb1 Rc5 35. f5 Nce1+ 36. Rxe1 Nf2 37. Re3 Bd3 38. Be1 Rg7 39. Bxf2 Rc2 40. Rxd3 Rc3 41. Re3 Rg5 42. Be1 Rc2+ 43. Kg1 Kf6 44. Kh1 Rh5 45. Ree2 Rc3 46. Kg1 e3 47. Bf2 Kg7 48. fxe6 Kg6 49. Bxe3 f6 50. Rd2 Rb5 51. Rde2 Bc5 52. Kh1 Bf8 53. g4 Be7 54. Ng3 b3 55. h4 Rxe3 56. Reg2 Kg7 57. h5 Rc5 58. Nf5+ Kh7 59. Nxe7 Rd3 60. Nf5 b2 61. Ne7 a3 62. Nf5 Rg3 63. Rd2 Rc2 64. Rde2 Rc8 65. Rh3 Rd8 66. Rxg3 Rd1+ 67. Kg2 Rd5 68. e7 Rd1 69. Rc2 Rg1+ 70. Kxg1 Kh8 71. Rf2 a2 72. Rfg2 Kg8 73. g5 hxg5 74. Rc3 Kh8 75. h6 g4 76. Rc6 a1=Q+ 77. Kh2 b1=Q 78. Rc7 Qg1+ 79. Rxg1 Qd4 80. e8=Q# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 a6 2. g3 b5 3. Bd3 Nc6 4. Qh5 Bb7 5. Qf3 f5 6. h4 e5 7. Rh2 h5 8. Ke2 Kf7 9. c4 Bb4 10. g4 Na5 11. a4 hxg4 12. Qxg4 Bxe4 13. Nc3 Bxc3 14. f3 Nxc4 15. dxc3 Qf8 16. Qh3 a5 17. Bxe4 Qd6 18. Bd2 Kf6 19. Qg2 fxe4 20. Bf4 Qd1+ 21. Kxd1 d6 22. Bd2 c5 23. b4 Rh5 24. axb5 Rb8 25. Qf1 cxb4 26. cxb4 Ke7 27. bxa5 exf3 28. Bb4 Rh8 29. Rd2 Ke6 30. Nxf3 Ne3+ 31. Ke2 Nxf1 32. Nh2 Kd7 33. a6 Rd8 34. a7 Ke6 35. Rxf1 Ra8 36. Rc1 Kd7 37. Rc4 g6 38. h5 gxh5 39. Rc1 e4 40. Rcd1 h4 41. Ke3 Ke8 42. Ng4 Kf7 43. Kf4 e3 44. Ne5+ Kg7 45. Bc3 dxe5+ 46. Ke4 Rxa7 47. Rd3 e2 48. Kd5 h3 49. R3d2 h2 50. Rxe2 Ra8 51. Rg2+ Kf6 52. Rh1 Ra3 53. Bd2 Ra4 54. Bf4 Rd4+ 55. Kc5 exf4 56. b6 Rd1 57. Rxd1 f3 58. Rb1 fxg2 59. Rb5 g1=Q+ 60. Kb4 h1=Q 61. b7 Ke7 62. b8=Q Qgg2 63. Ka3 Kf7 64. Qd8 Qc1+ 65. Ka4 Qcf1 66. Rb8 Ne7 67. Kb4 Kg7 68. Qxe7+ Kh6 69. Ka3 Kg6 70. Rd8 Kh5 71. Qe8+ Kh4 72. Qg8 Rxg8 73. Rc8 Rd8 74. Rc7 Rd6 75. Rc8 Rd1 76. Rf8 Qff2 77. Ka4 Qxf8 78. Ka5 Qd6 79. Ka4 Qd4+ 80. Ka3 Qc4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. c4 e6 2. Nc3 h6 3. Nh3 e5 4. d4 Bb4 5. Bg5 Nf6 6. Qb3 Nd5 7. Rg1 Ne7 8. Bd2 g5 9. Bc1 b5 10. dxe5 Bxc3+ 11. Qxc3 bxc4 12. Qg3 Bb7 13. e6 Na6 14. Qg4 Qb8 15. Nf4 Nc5 16. exf7+ Kf8 17. Nh3 Ba6 18. Nxg5 Ng6 19. Qxc4 hxg5 20. Qc3 Bb5 21. Qxc5+ Kg7 22. a4 Ba6 23. Qd5 Nf8 24. h4 c6 25. Rb1 Nh7 26. Qb3 Kf8 27. e4 Qg3 28. hxg5 Rb8 29. g6 Rg8 30. gxh7 Rh8 31. Qxb8+ Ke7 32. e5 Bb7 33. fxg3 Rxh7 34. Qc8 Bxc8 35. Ra1 d5 36. g4 Ke6 37. Be3 Ke7 38. Rb1 Ke6 39. g5 Rh3 40. Rd1 Ke7 41. gxh3 Kd8 42. Rd2 Kd7 43. g6 c5 44. Bg2 a6 45. Bxd5 Bb7 46. Bxc5 Bc6 47. b4 Kd8 48. h4 Bb7 49. Rgg2 Ba8 50. h5 Bb7 51. Bf2 Kc8 52. Kf1 Bc6 53. Ke2 Bb7 54. Bc4 Bc6 55. Kf1 Bb7 56. a5 Bc6 57. Rd1 Bb7 58. Bb3 Ba8 59. Bb6 Kb8 60. g7 Bd5 61. Kf2 Ka8 62. Rxd5 Kb7 63. Bd4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. g4 Nf6 2. f3 e5 3. g5 g6 4. b4 d6 5. a3 Bd7 6. Bh3 Ng4 7. a4 Ne3 8. Bf1 c6 9. Ra3 a5 10. Bb2 axb4 11. dxe3 Bh3 12. Rb3 b5 13. axb5 Bg2 14. Bxg2 Qb6 15. e4 Qd8 16. c4 c5 17. Qc2 h6 18. Qd3 Qa5 19. Rxb4 h5 20. Nh3 Qa1 21. Qe3 Kd7 22. Nf4 Qa4 23. Kd2 Qxb4+ 24. Kc1 Rh6 25. Nc3 Kc7 26. Nxg6 fxg6 27. Rd1 Bg7 28. b6+ Kc6 29. h4 Bh8 30. f4 Bg7 31. Rd5 exf4 32. Nd1 Qxb2+ 33. Nxb2 Na6 34. Rxd6+ Kxd6 35. e5+ Bxe5 36. Qb3 Nb8 37. gxh6 Bd4 38. Bd5 Bg1 39. Qb4 Ra4 40. Qb3 Na6 41. Kd1 Ra3 42. Qf3 Rxf3 43. Kc1 Be3+ 44. Kb1 Ke5 45. Ka1 Bg1 46. Kb1 Kd4 47. exf3 Ke3 48. Ba8 Bh2 49. h7 Ke2 50. b7 Kf1 51. Ka1 Kf2 52. h8=Q Kg3 53. Qb8 Nxb8 54. Kb1 Kxh4 55. Ka1 Na6 56. Nd3 g5 57. Ne1 g4 58. Ng2+ Kh3 59. Nxf4+ Kg3 60. fxg4 hxg4 61. Nd5 Nb4 62. Ne3 Kf2 63. Nc2 g3 64. Na3 g2 65. b8=Q g1=Q+ 66. Kb2 Qg2 67. Kc1 Qg3 68. Kb2 Qg2 69. Kc1 Ke2 70. Kb2 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. a4 g6 2. Na3 d6 3. c4 f5 4. e4 Kf7 5. b4 Bg7 6. c5 Bf8 7. Be2 a6 8. Qb3+ e6 9. Nh3 Kg7 10. cxd6 Qxd6 11. Bd3 b5 12. axb5 Ra7 13. Kd1 Qf4 14. Nc4 Qf3+ 15. Be2 Nf6 16. Bxf3 Nc6 17. Rg1 Bd7 18. Bh5 gxh5 19. bxa6 h6 20. Ke1 Kh7 21. Ba3 Nxb4 22. e5 Nc6 23. Rd1 Kg6 24. Bd6 Rg8 25. Qd3 Ne7 26. Bxe7 Bxe7 27. Nf4+ Kh7 28. Qe3 c5 29. Ne2 Rg3 30. Rb1 Kh8 31. Qf3 Kg8 32. h4 Bd6 33. Kf1 Be7 34. Rh1 Rxg2 35. Rg1 Bc6 36. Ne3 Nd7 37. Rxg2+ Kh7 38. Nc2 Be4 39. Qf4 Rc7 40. Qh2 c4 41. Na3 Bxb1 42. Qh3 Ba2 43. Qc3 Bd8 44. Rg1 Kh8 45. Qxc4 Bxc4 46. Nxc4 Rxc4 47. Rg7 Rc2 48. Nf4 Nc5 49. Rf7 Kg8 50. Ke1 Kh8 51. Ke2 Kg8 52. Kf3 Rc1 53. Nxe6 f4 54. Nxc5 Rg1 55. Ne4 Rb1 56. Nc5 Rb3+ 57. Nxb3 Bb6 58. Rh7 Kxh7 59. e6 Kg6 60. e7 Ba7 61. e8=Q+ Kf5 62. Qe4+ Kf6 63. Ke2 Kf7 64. d4 Kf6 65. Kf3 Kf7 66. Qd5+ Kg7 67. Nd2 Bxd4 68. Ne4 Bxf2 69. Nxf2 Kh8 70. a7 Kh7 71. Qd8 Kg6 72. Qe7 Kf5 73. Qg7 Ke6 74. a8=Q Kf5 75. Qd5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. c4 c6 2. g4 Na6 3. Na3 g5 4. f4 h5 5. Qb3 Nc5 6. Bh3 Ne4 7. Bf1 gxf4 8. Qc2 e6 9. Qxe4 h4 10. Nb5 Qc7 11. Rb1 a6 12. Nh3 cxb5 13. Qg2 Bc5 14. d3 Rb8 15. Bd2 Bb6 16. Nxf4 Nf6 17. c5 Bxc5 18. Nxe6 Bb6 19. b4 Qf4 20. e4 Rh5 21. Nd8 Qxe4+ 22. dxe4 Rf5 23. gxf5 d5 24. Qg3 Nd7 25. Qg1 Kf8 26. Qc5+ Bxc5 27. h3 Bg1 28. exd5 b6 29. Kd1 Bb7 30. Bc4 Bd4 31. Rb3 Ke8 32. Ke1 Bf2+ 33. Ke2 Bxd5 34. Rc3 bxc4 35. Kd1 Bg3 36. Ke2 Bf2 37. Kxf2 Bxh1 38. a4 Nf6 39. Bf4 Nd7 40. Rc2 Nc5 41. Bxb8 Nd3+ 42. Kg1 Nxb4 43. Bc7 f6 44. Be5 Na2 45. Bc3 Nxc3 46. Rb2 Kxd8 47. Kxh1 Ne2 48. Rb1 Nf4 49. Kg1 Ke8 50. Kf1 Ke7 51. Ke1 Kf7 52. Kf1 Ke7 53. Ke1 Kf7 54. Kf1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. g4 g5 2. Bg2 a5 3. c4 b6 4. Qc2 Bh6 5. Qg6 Na6 6. Bf3 Nc5 7. Qe4 Na4 8. Qxa8 c5 9. Qa6 b5 10. Qe6 Bb7 11. Qd6 Bg7 12. Be4 Ba8 13. b3 Bc3 14. Bb7 Nh6 15. b4 cxb4 16. Nxc3 e6 17. Nxb5 Qc8 18. Rb1 Qxb7 19. e4 Qb8 20. Na7 Qd8 21. Qxe6+ fxe6 22. c5 Nb6 23. Bb2 a4 24. Bxh8 a3 25. Nc8 Qe7 26. h4 Nxc8 27. e5 Bg2 28. h5 d5 29. cxd6 Kd8 30. Bg7 Qd7 31. Rxb4 Qc6 32. Rb3 Ke8 33. d3 Qc2 34. Rb5 Kf7 35. Bh8 Qc5 36. Rb7+ Kf8 37. f4 Qb5 38. Kf2 Qb2+ 39. Kg3 Nxg4 40. Nf3 Ke8 41. Rg1 Kd8 42. Ne1 Qb4 43. Kxg4 Qxf4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. a3 a6 2. Nf3 c6 3. d3 a5 4. e4 Qc7 5. Be2 e5 6. Nbd2 c5 7. Rb1 Nf6 8. Nxe5 Nd5 9. c4 b5 10. Bg4 Ne7 11. Qf3 Qxe5 12. Rf1 d5 13. Bh5 Nbc6 14. Qg3 dxc4 15. Bg6 Ra6 16. dxc4 Qh5 17. h4 b4 18. Bxh5 bxa3 19. Bf3 Bf5 20. exf5 Kd7 21. Qb8 Nxb8 22. g3 a4 23. Be4 g6 24. f6 Ke8 25. fxe7 h6 26. Ba8 f5 27. Ne4 Rxa8 28. Kd1 Ra6 29. Bd2 Ra8 30. Kc2 axb2 31. Rfc1 g5 32. Re1 fxe4 33. Rh1 Na6 34. hxg5 Bxe7 35. g6 Nb4+ 36. Kxb2 a3+ 37. Kc1 Bh4 38. Rg1 Nc6 39. g4 Bxf2 40. Rh1 e3 41. Rg1 Nd8 42. Rh1 e2 43. Rf1 Rg8 44. Rxf2 Rc8 45. Rh2 Ne6 46. Bg5 hxg5 47. Kd2 a2 48. Ra1 Nf8 49. Ke1 Kd8 50. Rh4 Nxg6 51. Kxe2 gxh4 52. Kf2 Rh8 53. Kg2 Rf8 54. Rxa2 Nf4+ 55. Kf3 Re8 56. Ra8 Re2 57. Kxf4 Rc2 58. Ke4 Kc7 59. Kd5 Rxa8 60. Ke5 Rh8 61. Ke4 h3 62. Ke5 h2 63. Ke6 Kb8 64. Kd5 Ka7 65. g5 Rg2 66. Ke5 Rg3 67. Kd5 Rc3 68. g6 Rf3 69. Ke5 Rf5+ 70. Kxf5 Re8 71. Kf6 h1=Q 72. g7 Re3 73. Kf5 Rg3 74. g8=Q Qe4+ 75. Kxe4 Rg2 76. Kd5 Rf2 77. Ke5 Rh2 78. Qg7+ Ka8 79. Kd5 Rg2 80. Kxc5 Ra2 81. Qe7 Ra1 82. Qd7 Ra4 83. Kb5 Ra3 84. c5 Ra2 85. c6 Kb8 86. Kb6 Ka8 87. Qc8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. g3 b5 2. Nh3 g5 3. Na3 Nf6 4. c4 e5 5. e4 Nh5 6. Qf3 g4 7. Qd1 Bxa3 8. Nf4 Qf6 9. Qb3 Bb7 10. Qb4 Bd5 11. exd5 e4 12. Qxa3 Qc6 13. Qc3 Nxg3 14. Qe3 Rg8 15. Bd3 Qb7 16. b3 c6 17. Be2 Nh5 18. Rb1 Rg5 19. Bf1 Na6 20. a4 bxa4 21. Bb2 Nc5 22. Rg1 Qa6 23. Bh3 Ke7 24. Qxc5+ Ke8 25. Bf1 Rf5 26. Ba1 Rd8 27. Ng6 Rb8 28. Qf8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. c3 h6 2. e4 e6 3. d3 h5 4. a3 g5 5. Bd2 a6 6. Qg4 Be7 7. b4 Bf6 8. Qxe6+ fxe6 9. Ra2 h4 10. e5 Ke7 11. g4 Qf8 12. Ra1 c5 13. Bg2 d6 14. h3 Nh6 15. exd6+ Kd7 16. f3 Qxd6 17. Ne2 Qb6 18. Kf2 Qa5 19. Bf4 gxf4 20. Nd2 Ra7 21. Nf1 Be7 22. d4 Qb5 23. d5 Kd6 24. Rd1 Nc6 25. g5 Qd3 26. Ke1 Ng8 27. Rd2 Kc7 28. Kf2 Nd4 29. Nxf4 Nc6 30. dxe6 Bxg5 31. Rxd3 Nd8 32. Ne3 b5 33. Nc4 Ne7 34. Nh5 Nf7 35. f4 bxc4 36. exf7 Bh6 37. Ke2 Kb6 38. Be4 Bd7 39. Kf3 Rb7 40. Nf6 Bf5 41. Nh5 Kb5 42. Ke2 Bxe4 43. Rdd1 Rc7 44. Rhg1 Ng6 45. Ke3 Rf8 46. Rxg6 Rfxf7 47. Ke2 Rc6 48. Rgg1 Ka4 49. bxc5 Kb3 50. Kd2 Kxa3 51. Rb1 a5 52. Ra1+ Kb2 53. Rab1+ Ka3 54. Ra1+ Kb2 55. Rab1+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. d3 b6 2. b3 Bb7 3. e3 Bxg2 4. Nf3 c6 5. Nfd2 Bd5 6. Bh3 g5 7. Qf3 Bxf3 8. Bg2 a6 9. Kf1 Nh6 10. a4 Bd5 11. Nf3 e6 12. Ne1 Ra7 13. d4 Ra8 14. Bb2 Qc7 15. f3 a5 16. Na3 Qb7 17. Bc3 Na6 18. Bb2 Qa7 19. Nd3 c5 20. Rd1 Bxb3 21. cxb3 Kd8 22. Nf2 Bd6 23. Re1 Rf8 24. Bc3 Kc7 25. Bxa5 bxa5 26. Ke2 Rad8 27. Nd1 Ng4 28. Rhf1 cxd4 29. Kd3 Nf6 30. Nc4 Rde8 31. Nb6 Qxb6 32. Rf2 Rb8 33. Kc4 Bg3 34. Nc3 Ng4 35. Rb2 Be5 36. Rh1 Nxe3+ 37. Kd3 Rh8 38. Ne4 Nc5+ 39. Nxc5 d5 40. Nxe6+ fxe6 41. Rc2+ Kd8 42. f4 Qd6 43. h4 Ra8 44. hxg5 Qc7 45. Rg1 Qc3+ 46. Rxc3 Rf8 47. Rc2 Ra7 48. Rb2 Ng4 49. Bxd5 h5 50. fxe5 Ra6 51. Kxd4 Ra8 52. Rh2 Ra7 53. Rh3 Ke8 54. Rxh5 Nh2 55. Bc6+ Kf7 56. b4 axb4 57. Rf1+ Kg6 58. Bf3 Nxf3+ 59. Kc4 Nxe5+ 60. Kxb4 Kxh5 61. Rc1 Kg6 62. Kb3 Nf7 63. Kb4 Rc8 64. Kb3 Rxa4 65. Kxa4 Rd8 66. Kb5 Kxg5 67. Rh1 e5 68. Ka4 Rh8 69. Rf1 e4 70. Kb3 Ne5 71. Rc1 Nd3 72. Rd1 Nb4 73. Rh1 Rh3+ 74. Rxh3 Kf4 75. Kxb4 e3 76. Rxe3 Kxe3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 h5 2. h4 c5 3. c4 Qb6 4. a3 g6 5. Rh2 Qc7 6. e5 a5 7. Bd3 Qb6 8. Nc3 Na6 9. Qb3 g5 10. Nb1 Rh7 11. Ra2 Bg7 12. Rh3 Nb4 13. a4 Bh8 14. Bf5 d6 15. Qc3 dxe5 16. Na3 Bd7 17. d3 e6 18. Rh2 Rb8 19. Bd2 Nf6 20. Qc1 Kf8 21. Be4 Qa7 22. Nf3 Qa6 23. Kf1 Be8 24. Qe1 Ra8 25. Bxb7 g4 26. Be4 Rc8 27. Nxe5 Rg7 28. f3 g3 29. Bf4 Qa8 30. Qa1 Nfd5 31. Bxd5 gxh2 32. Nxf7 Kg8 33. Be5 Qb8 34. Bf4 Kxf7 35. Bd6 Qa8 36. d4 Qb8 37. Bxe6+ Kxe6 38. dxc5 Qa8 39. f4 Bf7 40. b3 Rd8 41. Rf2 Bg8 42. Qb2 Qc8 43. f5+ Kd7 44. Qa1 Qb7 45. Be7 Qc6 46. Bf8 Qc7 47. Qa2 Rg6 48. Qd2+ Kc6 49. Qe2 h1=Q# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. Na3 Nf6 2. b4 Nh5 3. g4 b6 4. c4 b5 5. Nc2 a5 6. e4 axb4 7. f4 Ng3 8. d3 Ra3 9. Bg2 f5 10. Bf1 Ba6 11. e5 Rg8 12. Qe2 Bb7 13. Bh3 Nc6 14. Qg2 d6 15. Bd2 Nd4 16. Rb1 Nc6 17. hxg3 Nxe5 18. fxe5 c5 19. e6 Qb8 20. Bg5 Bf3 21. Kf1 g6 22. Qe2 Ra5 23. Qg2 Qc7 24. gxf5 Qd7 25. Nxb4 Qc8 26. Rh2 cxb4 27. Qf2 Ra4 28. Qxf3 Ra6 29. Qe2 h5 30. Qc2 Ra8 31. fxg6 Qb7 32. Qf2 h4 33. gxh4 bxc4 34. Qg2 Ra3 35. Rb3 Bg7 36. Bh6 Rh8 37. Qd2 Bf6 38. Qf4 Qg2+ 39. Kxg2 d5 40. Bg4 Kd8 41. Qe5 Bxe5 42. Nh3 Bf4 43. Bf5 Bd2 44. Kg3 Bf4+ 45. Nxf4 cxb3 46. Bg4 Kc7 47. Bg5 d4 48. h5 Kc6 49. Ne2 Kb7 50. Kh4 Rf8 51. Bxe7 Rxa2 52. Bxf8 b2 53. Be7 Kc7 54. Bf5 Kb7 55. Rg2 Kb6 56. Rg4 Kb7 57. Bf8 Ra4 58. Rg5 Ka7 59. Rg1 Ra3 60. Rh1 Ra4 61. Rh3 Ra3 62. Re3 Ra4 63. Re4 Ka6 64. Bc5 Ka5 65. Kg5 Ra3 66. Nxd4 Ka4 67. Re3 Rxd3 68. Re4 b1=R 69. Nc2 Rbb3 70. Kh4 Rdc3 71. Re2 Kb5 72. Re1 Rb2 73. Ne3 Rf2 74. Kg3 Rg2+ 75. Kxg2 b3 76. Bf8 b2 77. Rf1 Kb6 78. Nd5+ Ka5 79. Rc1 Rc2+ 80. Kg3 Rxc1 81. Kh4 Rb1 82. Bc5 Ka6 83. Kg4 Kb7 84. Kh3 Ka8 85. Kg2 Kb7 86. Kh2 Ka8 87. Bf8 Rd1 88. Bc5 Kb8 89. Bf8 Rc1 90. Bc5 Ka8 91. e7 b1=Q 92. Nb4 Rxc5 93. Bd7 Rd5 94. Kh3 Rxd7 95. Nc6 Qf5+ 96. Kg2 Qc2+ 97. Kg1 Rd1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. c3 g5 2. d4 a5 3. e3 Bg7 4. Bc4 c5 5. Nf3 cxd4 6. exd4 Bf6 7. Kd2 h5 8. Bb3 Bxd4 9. Rg1 Qb6 10. Ba4 f6 11. Qf1 Kf8 12. Qe2 g4 13. Qd1 Qe6 14. cxd4 gxf3 15. h3 Qb3 16. gxf3 e6 17. Qxb3 Na6 18. Kd3 Nc5+ 19. dxc5 Rb8 20. Kc4 b6 21. Bg5 Ba6+ 22. Bb5 Nh6 23. Kd3 h4 24. Bxh6+ Rxh6 25. Qd1 Ke8 26. Qf1 Kf7 27. f4 Rg6 28. Qd1 Rgg8 29. Qc2 Rxg1 30. Nc3 Rb1 31. Qxb1 bxc5 32. Bxa6 Ke7 33. Qc2 Rb3 34. Bb5 Rb4 35. Rf1 Kd6 36. Re1 e5 37. Ne4+ Ke7 38. Bc4 Rb3+ 39. Qc3 Rb4 40. Bb3 a4 41. Bxa4 Rb6 42. b4 cxb4 43. Qc6 Kf7 44. Rd1 Kf8 45. Nc3 e4+ 46. Ke2 dxc6 47. Nxe4 Kf7 48. Rd8 Kg6 49. Nd6 Kg7 50. Bd1 b3 51. axb3 Rxb3 52. Nf7 Rb4 53. Rd7 Kg8 54. Kd2 f5 55. Ke1 Rb8 56. Ng5 Ra8 57. Ne6 Ra5 58. Rg7+ Kh8 59. Bf3 Ra3 60. Kf1 Ra2 61. Be2 Rc2 62. Kg2 Rc3 63. Bh5 Rc1 64. Bf3 Rb1 65. Be2 Re1 66. Bf1 Rc1 67. Kg1 Rb1 68. Kh2 Rc1 69. Be2 Ra1 70. Bf1 Ra2 71. Be2 Ra1 72. Bf1 Ra2 73. Be2 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Nf3 e6 2. Rg1 Nf6 3. Nc3 d5 4. b3 Bb4 5. Nb5 e5 6. Bb2 Nc6 7. Na3 Qe7 8. c4 a6 9. Nxe5 Bxa3 10. cxd5 Ng4 11. d6 Qh4 12. g3 Kf8 13. Bc3 Qf6 14. Qb1 Ncxe5 15. Qf5 a5 16. Qe6 Qg6 17. Qd5 cxd6 18. Bg2 Bd7 19. Kf1 Bf5 20. Rd1 Nf6 21. d4 Ned7 22. Qxd6+ Ke8 23. Rb1 Nb8 24. Bd2 b5 25. Bh6 Nfd7 26. Rc1 Qh5 27. Qa6 Qg5 28. d5 Bxc1 29. e4 Nxa6 30. Bh3 Qxh6 31. Rg2 Nac5 32. Rg1 Rd8 33. Rg2 Be6 34. g4 Rb8 35. g5 Qxg5 36. dxe6 fxe6 37. Rg1 Be3 38. Rh1 Kf8 39. Rg1 Bxf2 40. Rh1 Kg8 41. Ke2 Qe3+ 42. Kf1 h6 43. b4 Ra8 44. e5 Nb8 45. a3 Ne4 46. bxa5 Ng3+ 47. hxg3 Rh7 48. a6 Nxa6 49. Bf5 Rh8 50. Bg6 Rc8 51. Be4 Nc5 52. Bg6 h5 53. Rh2 Qg5 54. Be4 Qxe5 55. Kxf2 Qxe4 56. Kf1 Rh7 57. Rxh5 Qd3+ 58. Ke1 Qxg3+ 59. Ke2 Ra8 60. Rxh7 Kf7 61. Rxg7+ Kf8 62. Kd1 Ra6 63. Rf7+ Ke8 64. Rh7 Kd8 65. Rg7 Ra8 66. Ke2 Ra6 67. Rg6 e5 68. Rg7 Qg4+ 69. Kf2 Qf3+ 70. Ke1 Ra5 71. Rf7 Ra4 72. Rh7 Kc8 73. Rg7 Qe4+ 74. Kf2 Qb1 75. Ke2 Qe4+ 76. Kf2 Qb1 77. Ra7 Kb8 78. Rg7 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. h3 e5 2. e4 Bc5 3. d4 d5 4. a3 Qg5 5. Qg4 Qe3+ 6. fxe3 exd4 7. b4 f5 8. Bd2 h5 9. exd4 Bb6 10. Ne2 Kf7 11. Nf4 c5 12. dxc5 hxg4 13. hxg4 Rxh1 14. exd5 Na6 15. g3 Rh2 16. gxf5 Nxc5 17. Nc3 Be6 18. dxe6+ Nxe6 19. Bg2 g6 20. fxe6+ Kf8 21. Bd5 Nh6 22. Nxg6+ Ke8 23. Rb1 Rf2 24. Rd1 Rh2 25. Ba2 Rg2 26. Kf1 Bf2 27. Bc4 Nf7 28. Nb1 Bb6 29. Nf8 Nd8 30. Kxg2 Kxf8 31. Rg1 Kg7 32. Kh1 Kg8 33. Bg5 Rb8 34. g4 Kf8 35. Ba6 Kg7 36. e7 Kg8 37. Bd2 Be3 38. Bc3 Rc8 39. Be2 a6 40. Bg7 Rc7 41. Rf1 Kh7 42. Rc1 Ba7 43. c3 Kxg7 44. e8=N+ Kh7 45. Kg2 Kh8 46. Kg3 Kg8 47. Bd1 Kh8 48. Ba4 Kg8 49. Kh4 Kh8 50. Rd1 Kg8 51. Bb3+ Kh8 52. Rd5 Kg8 53. Bc4 Kh8 54. Rd6 a5 55. Rg6 Nc6 56. bxa5 Ne5 57. Rg7 Nxc4 58. a4 Rf7 59. Na3 Rxg7 60. Nxc4 b5 61. axb5 Rg8 62. a6 Rxe8 63. Kg5 Re2 64. Kg6 Kg8 65. g5 Rd2 66. Nxd2 Kh8 67. Ne4 Kg8 68. b6 Bxb6 69. Nd6 Kf8 70. c4 Ke7 71. c5 Bxc5 72. Kh6 Bb6 73. Nf5+ Kd7 74. g6 Ke8 75. Kh7 Bd4 76. g7 Kf7 77. Kh6 Kg8 78. Kg5 Bb2 79. Kg6 Bxg7 80. Nxg7 Kf8 81. Kh7 Ke7 82. a7 Kd7 83. a8=Q Ke7 84. Qb7+ Kf8 85. Kg6 Kg8 86. Qc8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. f4 c5 2. a4 Nc6 3. Nh3 Nb8 4. Ng1 a6 5. g4 e5 6. e4 Qg5 7. Nc3 Nc6 8. Rb1 g6 9. Ra1 Qd8 10. Ra3 Be7 11. Bc4 b5 12. axb5 d6 13. f5 Na7 14. Nd5 axb5 15. Rc3 Nh6 16. fxg6 Bg5 17. d4 exd4 18. Ne7 Bh4+ 19. Kf1 hxg6 20. Bb3 Bxg4 21. Nh3 Be2+ 22. Kxe2 Bg5 23. Rg3 Nc6 24. Nxg5 Qxe7 25. c3 Ra6 26. Nf3 Ne5 27. Rh3 Nhg4 28. Nxd4 Qf8 29. Nf3 f5 30. Be6 Rg8 31. Rh6 Rh8 32. Rh5 Qg8 33. Re1 g5 34. Qd5 Qf7 35. Qxe5 Qg6 36. Rh3 Rg8 37. Qxf5 Qxe6 38. e5 Qf7 39. Rh6 Nxh6 40. exd6 Qg7 41. Ne5 Ra8 42. Be3 Nf7 43. Nd7 Qh6 44. Qh7 Qxh7 45. Rf1 Qxh2+ 46. Kf3 Qe5 47. Bf2 Rb8 48. Kg2 Qg7 49. Be1 Kd8 50. Bf2 c4 51. Rc1 Kxd7 52. Kh3 Ke8 53. Rh1 Ne5 54. Rd1 Kf7 55. Rf1 Nd3 56. b3 Kf8 57. Kg2 g4 58. d7 Qd4 59. Bxd4+ Nf4+ 60. Kg3 Rc8 61. Rxf4+ Ke7 62. d8=N Rcxd8 63. bxc4 bxc4 64. Kh4 Rh8+ 65. Kg5 g3 66. Kf5 Rh7 67. Bf6+ Kf8 68. Kg6 Rd1 69. Be5+ Kg8 70. Bb8 Rh8 71. Be5 Rc1 72. Bb8 Rxc3 73. Rd4 Re3 74. Rxc4 g2 75. Rc7 g1=Q+ 76. Kf6 Qg2 77. Rg7+ Qxg7+ 78. Kf5 Re5+ 79. Bxe5 Qxe5+ 80. Kxe5 Kf8 81. Kd5 Rh7 82. Ke5 Kg7 83. Kf5 Kg8 84. Kg6 Rh3 85. Kf6 Rg3 86. Ke7 Rg1 87. Ke8 Rb1 88. Kd8 Kf8 89. Kc8 Ke8 90. Kc7 Ke7 91. Kc8 Kf6 92. Kd8 Ke6 93. Kc8 Rf1 94. Kb7 Rf5 95. Ka7 Rb5 96. Ka6 Rh5 97. Ka7 Rb5 98. Ka8 Rh5 99. Ka7 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 f6 3. b3 g5 4. Nd4 e6 5. Qg4 c4 6. Qxe6+ Ne7 7. Nf5 g4 8. Qb6 Ng8 9. Qxb7 g3 10. f4 Bd6 11. Qb6 Bxf4 12. Qb4 a6 13. Ba3 Be5 14. h3 Kf7 15. Qb7 Bxb7 16. Bxc4+ Kg6 17. Ne7+ Qxe7 18. Bxg8 Kh5 19. c4 Bd4 20. c5 Nc6 21. d3 Raxg8 22. b4 Qg7 23. Bb2 Rf8 24. Nc3 Re8 25. Kf1 Bc8 26. Ke1 Qg6 27. Kf1 Ref8 28. Ke1 a5 29. Nd5 Nxb4 30. Ke2 Nc6 31. e5 Qh6 32. Nc7 Nxe5 33. Bxd4 Qg5 34. Ke1 Bb7 35. Rb1 Re8 36. Rg1 Ref8 37. Rb4 Bc8 38. Bc3 Qf4 39. Bxe5 Qe3+ 40. Kf1 d5 41. Bxf6 Qe5 42. Rb3 Kh6 43. Rh1 Be6 44. h4 Rf7 45. Rg1 Kg6 46. Rc3 Rxf6# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. a4 a5 2. e3 g6 3. d4 Nc6 4. c3 b5 5. h4 d6 6. Bc4 Kd7 7. Qd3 h5 8. f4 Ne5 9. Kd1 Nxc4 10. d5 Bg7 11. Qe2 e5 12. g4 Rb8 13. Ke1 f6 14. Ra3 hxg4 15. Kd1 Ke7 16. fxe5 c6 17. axb5 f5 18. Ra1 Ke8 19. dxc6 dxe5+ 20. Kc2 e4 21. b3 Ne5 22. Qh2 Ne7 23. Nf3 gxf3 24. Ra4 Ra8 25. Rd4 f2 26. Bb2 Nd3 27. Ba3 Nb4+ 28. Kb2 Qxd4 29. Nd2 Qd3 30. Nxe4 Qxe4 31. Ka1 Nexc6 32. Qg1 Be6 33. Qf1 Bxb3 34. Qg2 Ne5 35. Qg4 Bd5 36. Qh3 Kf8 37. Rb1 Bh6 38. Rxb4 axb4 39. cxb4 Qf4 40. exf4 Nd3 41. Qxf5+ Ke7 42. Qxg6 f1=R# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. g4 h5 2. e3 e5 3. Bb5 Bb4 4. h3 c5 5. Bc6 h4 6. Bf3 d5 7. a4 e4 8. Qe2 Rh7 9. Bxe4 Kf8 10. Bf5 Bd7 11. c3 Qb6 12. Bxd7 Nc6 13. cxb4 Re8 14. Qf1 Qd8 15. Nc3 cxb4 16. Nxd5 Qa8 17. Qa6 Re7 18. Nxb4 Ne5 19. Qxa7 Nc6 20. Ne2 Rh5 21. Rg1 Nh6 22. Nf4 Nxb4 23. gxh5 Rxd7 24. Rg5 Nf5 25. Ke2 Re7 26. Rg6 Rc7 27. Ra3 Ke7 28. Rf6 Nxe3 29. Rxf7+ Kxf7 30. Qd4 Rc5 31. Rc3 g5 32. Qd7+ Kf6 33. Kxe3 Rb5 34. axb5 Qb8 35. Rc7 Qa8 36. Ne2 g4 37. Nf4 Qa3+ 38. b3 Nc6 39. Bxa3 Nd8 40. Be7+ Kg7 41. d3 Kh8 42. Bf8 b6 43. hxg4 h3 44. f3 Nb7 45. Ng6+ Kg8 46. Qh7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 f5 2. c4 f4 3. b3 b6 4. a3 h6 5. Nc3 Ba6 6. Nf3 g5 7. Be2 b5 8. e5 bxc4 9. e6 cxb3 10. g3 Rh7 11. Nd5 c6 12. Nh4 fxg3 13. Ra2 Bc4 14. Bh5+ Rf7 15. Bxf7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. b3 c5 2. g4 c4 3. Bg2 Na6 4. Nc3 d5 5. a3 Be6 6. bxc4 h5 7. Ra2 hxg4 8. cxd5 b6 9. dxe6 f6 10. Bd5 Rxh2 11. Rxh2 b5 12. Rh1 Qb6 13. Bb2 Rc8 14. Ne4 Nb4 15. a4 Qa5 16. axb5 Nxa2 17. Bxa2 Qb4 18. Bxf6 Rd8 19. Bxe7 Qxe7 20. Nd6+ Rxd6 21. Bc4 Rb6 22. Bb3 Rxb5 23. Rh3 a6 24. Rh6 Qxe6 25. Qb1 Qf6 26. c4 a5 27. cxb5 Ba3 28. Ba2 Be7 29. Kf1 g6 30. b6 g3 31. Kg2 Bd6 32. Kh3 g5 33. Qe1 Ke7 34. Rh7+ Kf8 35. Bb3 Bb8 36. Kg2 Ke8 37. f3 a4 38. Bxa4+ Kd8 39. Qf2 Qxf3+ 40. exf3 gxf2 41. Bb3 Be5 42. Ba2 Bd4 43. Ne2 Bb2 44. Rh1 Be5 45. Kh3 Ne7 46. Rf1 Ke8 47. Rc1 Ng8 48. Rb1 Bg3 49. Rd1 g4+ 50. Kg2 Be5 51. Bb1 Bf4 52. d4 Kf8 53. Rg1 Nf6 54. Rh1 Ke8 55. Rd1 Bd2 56. f4 Ke7 57. Kg3 Ne8 58. b7 Kf7 59. b8=Q Ng7 60. Qe5 Nf5+ 61. Kh2 g3+ 62. Nxg3 Nxg3 63. Kxg3 Be3 64. Kg4 f1=Q 65. Kh4 Kf8 66. Kg4 Qc4 67. d5 Ba7 68. Qc7 Qc3 69. d6 Qd4 70. Kh5 Qg7 71. d7 Qxd7 72. Qxd7 Kg8 73. Re1 Kh8 74. Qb5 Kg8 75. Qe8+ Kg7 76. Qg8+ Kxg8 77. Bf5 Kg7 78. Rf1 Kg8 79. Rc1 Kg7 80. Rc3 Kg8 81. Bd3 Kg7 82. Rc2 Kg8 83. Kg4 Kf7 84. Kh5 Kg7 85. f5 Kf6 86. Bb5 Be3 87. Bf1 Kxf5 88. Bg2 Kf6 89. Rc8 Ba7 90. Rb8 Be3 91. Rb6+ Bxb6 92. Bc6 Kg7 93. Be8 Kf8 94. Bg6 Kg7 95. Bb1 Kg8 96. Ba2+ Kg7 97. Kg5 Kh7 98. Kf5 Kh6 99. Kf6 Kh7 100. Kf5 Kh6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 Nf6 2. e5 h6 3. d4 d5 4. Qe2 Kd7 5. Qe4 a5 6. Be3 Nxe4 7. Nc3 g5 8. Bd3 Nd2 9. b3 Nxb3 10. Nf3 Na6 11. g3 c5 12. Bf1 b6 13. dxc5 bxc5 14. Bg2 Rg8 15. Nxg5 hxg5 16. Bh3+ e6 17. Kd1 Nd2 18. Bg2 c4 19. Nb1 Nc7 20. Nxd2 Bc5 21. Bf3 Nb5 22. h4 Ba6 23. Nb3 cxb3 24. Bxc5 b2 25. Bh5 f5 26. Ke1 g4 27. Rb1 Re8 28. Ra1 Kc8 29. Kf1 Kb7 30. Rd1 Qc8 31. Rg1 Qc6 32. Bd4 b1=N 33. Rxb1 Qc3 34. Rb3 Rec8 35. Bxc3 Rc5 36. Bb2 Kb8 37. Bd4 Rxc2 38. Bxg4 Kc7 39. Bc3 Nxc3+ 40. Rb5 Rh8 41. Bh3 d4 42. Rh1 Rd2 43. f4 Rf2+ 44. Kxf2 Bxb5 45. Kg2 Rg8 46. a3 Be2 47. Bxf5 exf5 48. e6 Bd3 49. Kf3 Ba6 50. Rc1 Kb8 51. Rxc3 Ka8 52. Kg2 Re8 53. Rc7 Rf8 54. Rc5 Kb8 55. Kh3 Rc8 56. Rd5 Rc4 57. Rd6 Ka8 58. h5 Bb7 59. h6 a4 60. e7 d3 61. Rg6 Bc6 62. Rg8+ Be8 63. Rg7 Rc1 64. Kh4 Rc2 65. g4 Rc1 66. g5 Bg6 67. Rxg6 Re1 68. Rc6 Kb8 69. Rb6+ Ka7 70. Rb7+ Ka6 71. Rc7 Rg1 72. Rb7 Ka5 73. g6 d2 74. Kh3 Rg3+ 75. Kxg3 d1=Q 76. Kh4 Qg4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. b3 c5 2. Bb2 a5 3. f4 g5 4. h4 Ra7 5. Kf2 h5 6. Kg3 Bg7 7. a4 d5 8. Ra2 Bd7 9. c4 Qb6 10. Ra3 Kf8 11. e3 e6 12. Rh2 Qb4 13. Bd3 Qb5 14. Be4 Rh7 15. Ra1 Qa6 16. Bxd5 Be5 17. fxe5 Nc6 18. Qf3 Ra8 19. d4 cxd4 20. Nh3 Nb4 21. Rh1 exd5 22. Bxd4 Be8 23. Qf1 Qe6 24. Rh2 dxc4 25. Bb6 Qh6 26. Nf2 Kg7 27. Kh3 Ra7 28. g4 Nc2 29. Qd3 Nf6 30. Qxc4 Nxg4 31. Nd2 f6 32. Qe2 Rh8 33. e4 Nxf2+ 34. Kg2 g4 35. Rf1 Na3 36. Rxf2 Bf7 37. Kg3 Bxb3 38. Rfg2 Kf8 39. e6 Bc2 40. Qd1 Qe3+ 41. Nf3 Bb1 42. Rf2 Ke8 43. Qd8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 Nh6 2. b4 e6 3. Bb5 Be7 4. Bc4 d5 5. exd5 Qxd5 6. Qe2 Kd7 7. Bb5+ Kd6 8. Qc4 c5 9. Qe2 a6 10. Qd1 Nd7 11. Nf3 Ng4 12. Bc4 h6 13. Rg1 Nde5 14. d4 Nxc4 15. dxc5+ Kd7 16. Ba3 Kd8 17. b5 Qd6 18. bxa6 Nxa3 19. Qd3 Ke8 20. Rf1 Nxb1 21. Qb3 b5 22. c6 Bd7 23. Qb4 g6 24. Qf4 Bxc6 25. Ng5 hxg5 26. Qe5 Qxe5+ 27. Kd1 Bb7 28. h3 Qf5 29. axb7 Rh6 30. b8=Q+ Kd7 31. Qb6 Bf6 32. a4 Ne3+ 33. Kc1 bxa4 34. Rh1 Ke7 35. Rxa4 Nf1 36. Qb7+ Kd6 37. Rf4 Qd3 38. cxd3 Rb8 39. Kxb1 Ng3 40. Rc4 Ke5 41. h4 Rxh4 42. Rb4 Ra8 43. Qd7 Ra3 44. f4+ gxf4 45. Rb5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. g3 c5 2. Bg2 g5 3. Bc6 e5 4. f3 Be7 5. f4 Bf8 6. Ba4 b5 7. Nc3 h5 8. Bxb5 Nf6 9. Bc6 Bb7 10. h3 Rh6 11. Bxd7+ Nbxd7 12. Rh2 e4 13. Nxe4 Rb8 14. fxg5 Bg7 15. b4 Bh8 16. Rf2 Qe7 17. Nxf6+ Kf8 18. Nxd7+ Ke8 19. Nf8 Be5 20. d4 cxb4 21. Bd2 h4 22. gxh4 Bg7 23. Rxf7 Bh1 24. Bf4 Rbb6 25. Qd2 Bxd4 26. Rg7 Qf7 27. Rc1 Qxg7 28. Nh7 Qg8 29. a3 Be4 30. g6 bxa3 31. Qc3 Rhxg6 32. e3 Kf7 33. Ra1 Bf6 34. Qc5 Bg2 35. Nf8 Bg7 36. Qxa3 Qxf8 37. Bc7 Rb5 38. Qa2+ Ke8 39. Qb2 a5 40. Qc1 Qf1+ 41. Kd2 Qxc1+ 42. Ke2 Qf1+ 43. Rxf1 Rh5 44. Re1 Rxh4 45. Bf4 Kf8 46. Kd3 Bd5 47. Bg3 Re6 48. Bxh4 Be4+ 49. Kc4 Re7 50. Rb1 Bc6 51. Rb5 Ke8 52. Rh5 Rxe3 53. Kc5 Re1 54. Nf3 Be4 55. Rh7 Kf7 56. Ng5+ Kg6 57. Kb6 Rg1 58. Rxg7+ Kxg7 59. Nf3 a4 60. Nd2 Bc6 61. Bg3 Bd7 62. Bh2 Bb5 63. Ka5 Rc1 64. Ne4 Rxc2 65. Nd2 a3 66. Kb4 Rxd2 67. Kc3 Ra2 68. Bd6 Kg8 69. Bf8 Rf2 70. h4 Rh2 71. Bc5 Rh3+ 72. Kb4 Kg7 73. Ka5 Rxh4 74. Bxa3 Rh2 75. Kb6 Rh3 76. Kxb5 Rh4 77. Ka6 Ra4+ 78. Kb6 Rxa3 79. Kb5 Ra2 80. Kc5 Ra3 81. Kd4 Rg3 82. Kc5 Rc3+ 83. Kd4 Re3 84. Kxe3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. d3 b5 2. c3 f6 3. Qb3 Bb7 4. e4 a5 5. Qxb5 Nh6 6. b3 g6 7. Qe5 Kf7 8. h4 f5 9. Qg3 e6 10. Qxg6+ Kxg6 11. f3 Qc8 12. Kf2 Be7 13. Bb2 Bg5 14. a4 Be7 15. h5+ Kg7 16. Be2 Kg8 17. c4 Qe8 18. Na3 Nc6 19. Nc2 Rc8 20. Nb4 Rd8 21. g3 Bh4 22. Nd5 Nd4 23. Ra2 fxe4 24. dxe4 exd5 25. Ba3 Nxe2 26. gxh4 Qf7 27. f4 dxe4 28. Nh3 e3+ 29. Kxe2 d5 30. cxd5 Kg7 31. Ng5 Bc8 32. Kxe3 Qe7+ 33. Kf3 Qf6 34. Be7 Bd7 35. Nh3 Qf5 36. d6 Rdg8 37. Kg3 Nf7 38. Rb2 Rc8 39. h6+ Kg8 40. Rg1 Ra8 41. Nf2 Rf8 42. Bf6 cxd6 43. Rh1 Qd5 44. Rg1 Nxh6 45. Rd2 Qc6 46. Bxh8 Kxh8 47. Rd5 Be6 48. Rh1 Bxd5 49. h5 Qc5 50. f5 Re8 51. Nd1 Re2 52. f6 Kg8 53. Nf2 Be4 54. Nxe4 Qc1 55. Nc3 Re4 56. Na2 Ng4 57. Rh3 Qf1 58. Rh1 Qh3+ 59. Rxh3 Rf4 60. Kh4 Kf7 61. Rg3 Nxf6+ 62. Kg5 Nxh5 63. Rg1 Rf3 64. Kh6 Ke7 65. Rd1 Ke6 66. b4 axb4 67. Rd2 b3 68. Rf2 bxa2 69. Rxf3 Kd5 70. Kxh7 Ng3 71. Re3 a1=Q 72. a5 Qd1 73. a6 Qh5+ 74. Kg8 Ne2 75. Kg7 Qf5 76. Rb3 Ke4 77. Rc3 d5 78. Rc2 d4 79. Rxe2+ Kf3 80. Rc2 d3 81. Rc6 d2 82. Kh8 Ke4 83. Kg7 Ke3 84. Kh8 Qe4 85. Kg7 Qa4 86. Rf6 Qd7+ 87. Kg6 Qe7 88. Kh6 Qd6 89. Rxd6 Ke2 90. Kg6 Kf1 91. a7 Kf2 92. a8=Q Kf1 93. Qb7 Kf2 94. Qb4 Kf1 95. Qb3 Kf2 96. Rd5 d1=R 97. Qa4 Rg1+ 98. Qg4 Rb1 99. Rd2+ Kf1 100. Kf7 Rb2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. b4 e5 2. d4 Bxb4+ 3. c3 Nf6 4. Bh6 exd4 5. Qd2 Qe7 6. a3 Kf8 7. Qc1 c5 8. cxb4 Ne4 9. Qc2 Qd8 10. Qxe4 Qb6 11. Qd5 Qa6 12. Qxd7 Nc6 13. Ra2 Qa4 14. e3 b6 15. Bd3 Qxb4+ 16. axb4 gxh6 17. Nd2 a5 18. Qd8+ Kg7 19. Ke2 Nxb4 20. Bc2 Nxa2 21. Ne4 Bb7 22. Ng3 dxe3 23. Be4 exf2 24. Nh5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e3 Nf6 2. Qf3 Na6 3. Qe2 e5 4. g4 Bc5 5. Bh3 e4 6. c3 Qe7 7. d4 d5 8. b4 Kd8 9. Ba3 Bb6 10. c4 g5 11. Bg2 Nxg4 12. cxd5 Ke8 13. b5 Be6 14. dxe6 Qxe6 15. Kf1 Qxa2 16. bxa6 Qxa1 17. axb7 Qc3 18. Nxc3 a5 19. Qc4 Rc8 20. Qa2 c5 21. Nge2 Rb8 22. Bxc5 Bxc5 23. Qb3 Bb6 24. Bxe4 Ba7 25. h4 f6 26. Nb5 a4 27. Qa2 h5 28. Qa3 gxh4 29. Bb1 Nxe3+ 30. Qxe3+ Kf8 31. Ke1 Rg8 32. d5 f5 33. Nc1 h3 34. Rg1 Rg2 35. Rxg2 hxg2 36. Qd3 a3 37. Nxa3 Kg7 38. Nc4 Re8+ 39. Ne5 Re7 40. d6 Rf7 41. Ng4 Re7+ 42. Kd2 Rf7 43. Nf6 Re7 44. f3 Bb6 45. d7 Kxf6 46. Kd1 h4 47. d8=Q Bf2 48. Qc8 Kg6 49. Qe2 Kh5 50. Qxf5+ Kh6 51. Kd2 g1=Q 52. Qxf2 Rf7 53. Bd3 Rg7 54. Qxg1 Rg6 55. b8=Q Rg7 56. Na2 Rg6 57. Qfxg6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. f3 a6 2. e4 Ra7 3. Ke2 Nf6 4. d3 Nd5 5. g3 f5 6. exd5 Nc6 7. Qe1 g6 8. Bh3 Nb8 9. Kd1 b6 10. Bg5 Rb7 11. Bh4 b5 12. d6 g5 13. dxe7 Nc6 14. Ne2 Qxe7 15. Nd2 a5 16. Rf1 g4 17. Bg5 Rb6 18. Bxe7 Ra6 19. Qf2 Nxe7 20. f4 h5 21. Nd4 gxh3 22. Nxb5 d5 23. Na3 d4 24. Re1 Rg8 25. Rf1 Rxg3 26. Re1 h4 27. Qxd4 Be6 28. Rf1 Kf7 29. Rc1 Bxa2 30. Qe5 Bh6 31. Re1 Rg4 32. Ndc4 Bxc4 33. d4 Kf8 34. b3 Nc8 35. Rf1 Ne7 36. Re1 Rg8 37. Qxe7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. h4 Na6 2. b3 d5 3. Bb2 Bh3 4. g3 c5 5. e3 Qc7 6. Bxa6 Qe5 7. Qf3 Bf1 8. Be2 b6 9. Bxe5 e6 10. a4 O-O-O 11. Qh5 Ne7 12. Qf3 f6 13. d4 cxd4 14. Qh5 Nc6 15. Ba6+ Kd7 16. Nf3 Bh3 17. Qxh7 Ba3 18. c4 Rxh7 19. Bd6 dxe3 20. Bxa3 Rdh8 21. Kd1 Ke8 22. g4 dxc4 23. fxe3 Kf7 24. g5 Re8 25. Nfd2 Rh5 26. Bd6 Rd8 27. bxc4 Kg8 28. gxf6 g6 29. Rf1 Rxd6 30. Ke2 Rxd2+ 31. Kxd2 Bg2 32. Ra2 g5 33. Rc1 Rxh4 34. Nc3 Rh2 35. Nb5 g4 36. Re1 Bh3+ 37. Kc3 Kf8 38. Kb3 Rb2+ 39. Rxb2 Ke8 40. Nc3 Nd4+ 41. exd4 Kf8 42. Ne4 Kf7 43. Ka3 Kg6 44. Rh2 Kh6 45. Nc3 Kg6 46. Bc8 Kxf6 47. Rxh3 g3 48. Reh1 g2 49. Rh6+ Ke7 50. Rg1 Kf7 51. c5 Kg7 52. Rxg2+ Kxh6 53. Rb2 bxc5 54. dxc5 Kg5 55. a5 Kh6 56. Rc2 Kg5 57. Ne4+ Kf4 58. a6 e5 59. Kb3 Kxe4 60. c6 Kd5 61. Rc1 Kd6 62. Bd7 e4 63. Re1 Ke5 64. Be6 e3 65. Ra1 e2 66. Ka2 e1=Q 67. Rxe1+ Kd4 68. Re4+ Kxe4 69. c7 Kd4 70. Bg8 Ke4 71. c8=Q Kf4 72. Qb8+ Ke4 73. Qd8 Kf4 74. Qc8 Ke4 75. Qb7+ Kd3 76. Qxa7 Kc3 77. Qf7 Kc2 78. a7 Kc1 79. Bh7 Kd1 80. Qg6 Kc1 81. Qg8 Kd1 82. Qg7 Kc1 83. Ka3 Kd1 84. Ka4 Kc1 85. Ka5 Kd1 86. a8=R Kc1 87. Qg6 Kd1 88. Qg1+ Kd2 89. Qh1 Ke3 90. Qg1+ Ke2 91. Qh1 Ke3 92. Qg1+ Ke2 93. Qh1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nf3 b5 2. Na3 c6 3. Ne5 b4 4. e3 g6 5. Ng4 g5 6. Ba6 Bxa6 7. Nf6+ Nxf6 8. d3 c5 9. h3 Nh5 10. f3 d5 11. Kf1 bxa3 12. b4 Qc8 13. h4 Nf4 14. h5 Qc6 15. c4 f5 16. Qa4 Kf7 17. Kg1 Nxd3 18. Qc2 Bc8 19. Rh2 Kf6 20. Bd2 dxc4 21. g4 Qd5 22. Kg2 Ne5 23. Re1 Nbd7 24. Qc1 Bg7 25. b5 Nxf3 26. h6 Bxh6 27. Rhh1 Qe4 28. Rd1 Rb8 29. Bc3+ Nd4+ 30. Kg3 Rg8 31. Bxd4+ Qxd4 32. Rh2 c3 33. exd4 Rg6 34. Kg2 Kf7 35. Qxc3 fxg4 36. Rb1 Kg7 37. d5+ Rf6 38. Rhh1 c4 39. Rhg1 Rxb5 40. Rb4 Rc5 41. Rb8 Ne5 42. Qb2 Bd7 43. Qc1 Re6 44. Kf1 Kg6 45. Rh8 a5 46. Rg3 Rb6 47. Kg2 Bf5 48. Qc3 Nd7 49. Kh1 Kh5 50. Kg2 Rd6 51. Kf2 Rc8 52. Rf3 Bg6 53. Rg3 Bc2 54. Kg2 Nf8 55. Qe3 Rg6 56. Qf2 e5 57. Qe1 Be4+ 58. Kh2 Ra8 59. Kg1 Kh4 60. Qf2 Bd3 61. Qh2# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. Nf3 Na6 2. Nc3 e5 3. e4 Ke7 4. Bc4 g6 5. Nb1 Kd6 6. Nd4 Nf6 7. Nf3 Nxe4 8. a3 Qh4 9. Ng5 c5 10. Ne6 Nxf2 11. c3 Nxh1+ 12. Kf1 Qxc4+ 13. Ke1 Qd3 14. c4 g5 15. Nxf8 Qc2 16. Nc3 Ke7 17. Ra2 Nb8 18. Kf1 Ng3+ 19. Ke1 Qxc3 20. h3 Qd3 21. Kf2 e4 22. Ke1 h5 23. Qe2 b6 24. Qf2 Na6 25. a4 Kxf8 26. Qd4 d6 27. a5 b5 28. Qxd3 Be6 29. Qd5 Nc7 30. Qc6 f5 31. Qxc7 Rb8 32. Kf2 d5 33. cxb5 c4 34. Qc8+ Kg7 35. Qxc4 Kh6 36. Qb4 Nf1 37. Ke1 Kg6 38. Kxf1 d4 39. a6 Kh7 40. Qe7+ Kg6 41. Kg1 Bb3 42. d3 f4 43. Bxf4 Bd5 44. Bxg5 h4 45. Bd2 e3 46. Qb4 Kf6 47. g3 Ra8 48. g4 exd2 49. Qa4 Rac8 50. Qxd4+ Kg6 51. Qxd5 Rc2 52. Qc6+ Kg7 53. b3 Rc1+ 54. Kh2 d1=Q 55. Ra3 Qg1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nc3 f5 2. a4 g5 3. a5 e5 4. g3 Bc5 5. Ra2 Bf8 6. Nb5 Bh6 7. Nd4 exd4 8. b3 Na6 9. Bb2 b5 10. c4 d3 11. cxb5 Nf6 12. Bg2 Qe7 13. Ra3 Ne4 14. Qa1 Nxf2 15. Bc6 Qd6 16. Kxf2 Kf7 17. b6 dxe2 18. Ke1 Qf6 19. Nxe2 d6 20. Bxf6 Bf8 21. h4 axb6 22. Bxh8 Nb8 23. Kf2 Nxc6 24. axb6 Bd7 25. bxc7 Na5 26. Ke1 Ke8 27. Qb1 Rd8 28. Rg1 Rb8 29. cxb8=R+ Ke7 30. b4 Nc6 31. d3 d5 32. b5 Kd6 33. Rd8 Ne7 34. Be5+ Kc5 35. Qa1 Nc8 36. Kf1 f4 37. Bh8 Bf5 38. Qb1 Bg6 39. Ke1 h5 40. Kf2 Bf7 41. Qe1 Be7 42. Kf3 Kb6 43. Qb4 Na7 44. Qb1 Be8 45. Ra1 Bf7 46. Nc3 Kc5 47. Kg2 Kb6 48. Qd1 Be8 49. Rb1 Bf7 50. Qc2 Be8 51. Nxd5+ Ka5 52. Ne3 Bc5 53. Nd1 Bb6 54. Kh2 Bf2 55. Qxf2 Nc6 56. g4 Na7 57. Qxa7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 c6 2. g3 h5 3. Qe2 Na6 4. a4 Nc5 5. Bg2 d5 6. Ra2 Rh7 7. d3 e5 8. g4 Qe7 9. Nc3 hxg4 10. Qxg4 Bd7 11. h3 Qf6 12. Qf3 Nb3 13. Bf4 exf4 14. exd5 Na5 15. Nce2 Qg5 16. c3 Rh5 17. Qg3 Rb8 18. c4 Qxg3 19. Nxg3 fxg3 20. h4 Nb3 21. Ra1 Bf5 22. Rb1 Bc5 23. Bh3 Rxh4 24. f3 Nd4 25. Rh2 Bxd3 26. Be6 Rxh2 27. b3 f6 28. Bxg8 Nxf3+ 29. Nxf3 Ke7 30. Rd1 Bb6 31. Rxd3 Rxg8 32. Nd2 Ke8 33. Kf1 c5 34. Nf3 Kf8 35. Re3 g6 36. Ne1 Ra2 37. d6 a6 38. d7 Ba7 39. a5 b5 40. axb6 g5 41. Re8+ Kf7 42. bxa7 Rh2 43. a8=Q Rg7 44. Ng2 Rxg2 45. Kxg2 Kg6 46. Rb8 f5 47. Kxg3 Kh5 48. Rc8 Rh7 49. Kh2 Kg4+ 50. Kg1 Rh2 51. Kf1 Rh3 52. Rb8 Rd3 53. Rf8 f4 54. Rf7 f3 55. Ke1 Kg3 56. Rf8 Kh3 57. Rf7 g4 58. Rf8 g3 59. Kf1 Rd1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. d3 g5 2. b4 a5 3. Nf3 Nc6 4. Nxg5 a4 5. c4 e6 6. g4 f5 7. Nd2 Bd6 8. Nb1 Ra5 9. Qxa4 Bc5 10. Qxc6 Ra4 11. Qxb7 e5 12. Nc3 Ra3 13. Qa8 Bb6 14. Bd2 Kf8 15. Qa7 Rxc3 16. b5 f4 17. Bg2 Qe8 18. Rb1 f3 19. d4 d5 20. Qa6 Bf5 21. Rf1 Be4 22. exf3 Nh6 23. a3 exd4 24. c5 Bc2+ 25. Be3 Bd3 26. Kd1 Bf5 27. cxb6 Bxg4 28. Qa4 Rg8 29. Re1 Rd3+ 30. Ke2 Qb8 31. fxg4 Rxe3+ 32. Kd2 Nf5 33. Nxh7+ Kg7 34. Ra1 Rc3 35. Rab1 Ne7 36. Bxd5 Qe8 37. Bf7 cxb6 38. Bg6 Qd8 39. Be8 Qb8 40. Ke2 Qa8 41. Rg1 Qb7 42. f4 Qb8 43. Qa6 Rxe8 44. Rh1 d3+ 45. Kf1 Nc6 46. bxc6 Re2 47. Rc1 Rxc1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. h3 h6 2. a4 e5 3. e4 Qh4 4. b3 Bc5 5. Bb2 Qxf2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Nh3 a6 2. Ng1 e6 3. e3 Nh6 4. Be2 Qh4 5. Bg4 Ra7 6. Nf3 Qg3 7. Qe2 Bc5 8. Kf1 Qxg2+ 9. Ke1 Qxh1+ 10. Qf1 Nc6 11. Nc3 Bb6 12. h3 Ra8 13. d4 Bc5 14. Ng5 Bb6 15. a4 Nxd4 16. Nb1 Nf3+ 17. Kd1 Kf8 18. Qxh1 Ra7 19. Na3 Ne1 20. Qxe1 Kg8 21. Ne4 Nxg4 22. c4 Ne5 23. Nd6 Kf8 24. e4 c5 25. Bh6 a5 26. Bc1 Ng6 27. h4 h5 28. Qb4 axb4 29. Bf4 Ke7 30. Nf5+ Kd8 31. Nc2 exf5 32. Nxb4 Ra5 33. Nd5 Rh6 34. exf5 Nxf4 35. b3 Re6 36. Nxb6 Re7 37. Nxc8 Nh3 38. f4 Ra7 39. Rb1 Ra8 40. Kc2 b6 41. Rf1 Nxf4 42. Rxf4 Re8 43. Na7 Kc7 44. f6 Rxa7 45. fxg7 Re2+ 46. Kb1 f5 47. Kc1 Rf2 48. Rxf2 Ra6 49. a5 f4 50. Rf1 Ra8 51. Rf2 b5 52. Kd1 Rg8 53. Ke2 Rxg7 54. cxb5 Rg8 55. Kd3 Rf8 56. Kc4 Rc8 57. Rf3 Rb8 58. Rg3 Kb7 59. Rf3 Ra8 60. Rg3 Kc7 61. Rf3 Rb8 62. Rg3 Kb7 63. Rf3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. f3 Na6 2. g4 Nc5 3. d4 e5 4. b4 b6 5. a4 Bb7 6. dxc5 b5 7. axb5 Bxc5 8. Bd2 Qh4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 b5 2. a3 a5 3. Nc3 Nh6 4. d3 c5 5. g4 d6 6. Qe2 Qd7 7. Ra2 Bb7 8. Qf3 Bxe4 9. Nh3 e5 10. dxe4 Nf5 11. Kd1 Ra6 12. Nb1 c4 13. Qg2 Rg8 14. gxf5 Qd8 15. Nf4 Be7 16. Ne6 Bf8 17. Be2 Qc7 18. Bf1 Ke7 19. Nxf8 Qb6 20. Ne6 Kd7 21. Ke2 fxe6 22. h4 h6 23. f4 exf5 24. Kd1 Nc6 25. Ke1 h5 26. Ra1 g6 27. exf5 Qc5 28. Bxc4 Rg7 29. Bb3 Qa7 30. Nc3 Qe3+ 31. Qe2 Rh7 32. Kf1 gxf5 33. Na4 Qa7 34. Qg2 Qb6 35. Bd5 Qb8 36. Bxc6+ Ke7 37. Be3 Kf8 38. Bf3 Rb6 39. Nc3 exf4 40. Ke2 Ra6 41. Qg4 Rd7 42. Qxh5 Ra8 43. Kd2 Qb7 44. Rhg1 d5 45. Ne2 a4 46. Bxf4 Re7 47. Nd4 Qa6 48. Be3 Re4 49. Nxf5 Rf4 50. Rg7 Rxf3 51. Rd1 b4 52. Qg5 Qa5 53. h5 bxa3+ 54. Ke2 Qc3 55. Rxd5 Qe1+ 56. Kxe1 axb2 57. Bd2 a3 58. h6 Ke8 59. Qe7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 c5 2. Qe2 b6 3. c4 Qc7 4. Kd1 a5 5. b3 Ba6 6. Na3 b5 7. g4 Qf4 8. h4 Qxe4 9. Qe3 f6 10. d4 Qxh1 11. Ke2 Qxg1 12. dxc5 Qxg4+ 13. Kd2 bxc4 14. bxc4 a4 15. Be2 Qg1 16. Rb1 Qg6 17. Nc2 Qh5 18. Bg4 Qxc5 19. Kd3 Kf7 20. Qe1 h5 21. Nd4 Qb4 22. Qe5 Qxb1+ 23. Nc2 Nh6 24. Qa5 d6 25. Ke2 Nxg4 26. f3 Qxc1 27. Na3 e6 28. Qb5 Bxb5 29. fxg4 Qf1+ 30. Kxf1 Ba6 31. Ke1 Kg8 32. g5 Nd7 33. g6 Ra7 34. Kf1 Rh7 35. gxh7+ Kf7 36. Ke1 g6 37. Kf2 Bc8 38. Ke3 Bg7 39. Ke4 Ke7 40. Kd4 Nb8 41. h8=N Bb7 42. Nxg6+ Kf7 43. Nf4 Ra5 44. Nxe6 Kxe6 45. Kd3 Bg2 46. Ke2 f5 47. Kf2 Na6 48. Ke3 Nc5 49. Kd2 Be4 50. Kc1 Bd5 51. cxd5+ Kf6 52. Kd2 Nd3 53. Ke2 Nc1+ 54. Ke3 Kg6 55. Kf4 Ba1 56. Nc2 Kf6 57. Ne3 Rc5 58. Kg3 a3 59. Kf4 Rxd5 60. Nc4 Rd4+ 61. Ke3 Rd3+ 62. Kf4 Ke6 63. Nb6 Ke7 64. Kg5 Bh8 65. Kxh5 Bg7 66. Kg5 Bc3 67. Kxf5 d5 68. h5 Kd6 69. Nd7 Kxd7 70. Kg6 Rg3+ 71. Kf7 d4 72. h6 Rg7+ 73. Kxg7 d3+ 74. Kf7 Kd6 75. h7 Bf6 76. Kg6 Ke5 77. h8=R Ne2 78. Kf7 Kd4 79. Kg6 Ke4 80. Rh2 Nf4+ 81. Kf7 Bc3 82. Rb2 d2 83. Rb5 Ne2 84. Rb6 Kd3 85. Ra6 Bb2 86. Rg6 Nc1 87. Rg1 Bf6 88. Rd1 Kc3 89. Kxf6 Kb2 90. Kg7 Kc2 91. Rxc1+ Kxc1 92. Kh8 d1=Q 93. Kg7 Qh5 94. Kf8 Kb1 95. Ke7 Qh6 96. Ke8 Qg7 97. Kd8 Qf8+ 98. Kd7 Qf5+ 99. Kd6 Qc2 100. Ke7 Qg2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 f6 2. Ba6 bxa6 3. f4 f5 4. d3 e6 5. Nf3 d5 6. g4 c6 7. Qd2 Bb4 8. Qxb4 fxg4 9. d4 Bb7 10. Qb3 g3 11. e5 g6 12. c4 Nf6 13. Qb6 gxh2 14. exf6 Rf8 15. Qxa6 Bxa6 16. Na3 g5 17. cxd5 Bf1 18. Bd2 gxf4 19. Kxf1 e5 20. dxe5 Nd7 21. Ng1 Nxf6 22. Nc4 Nxd5 23. Nb6 Qc8 24. Kf2 Qa6 25. Ke1 Nf6 26. Nh3 Kf7 27. Ng5+ Ke8 28. Nh3 axb6 29. a4 Nd7 30. Bc3 Kf7 31. Rd1 Ke8 32. Rd6 Kf7 33. Kf2 Ke7 34. Bd4 c5 35. Rc1 f3 36. Rxb6 cxd4 37. Rc4 Nxb6 38. Nf4 Nxc4 39. b4 Nb6 40. Ne2 Nc4 41. Nf4 Rab8 42. b5 Rg8 43. bxa6 Kd7 44. e6+ Kd8 45. a7 h6 46. Kf1 Ra8 47. Nd5 d3 48. Kf2 h5 49. Ke1 h1=Q+ 50. Kf2 Qh2+ 51. Ke1 Rxa7 52. Kd1 Rb7 53. Ke1 Qe2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. c4 e5 2. g3 Bb4 3. Nh3 Nh6 4. c5 g5 5. Ng1 Nf5 6. Nh3 Qf6 7. Na3 Kf8 8. Qa4 Ba5 9. g4 h5 10. b3 Qd6 11. Qb5 Nd4 12. Nb1 Qf6 13. Qc4 Ndc6 14. Nc3 Ne7 15. Nb1 Nd5 16. a3 Qxf2+ 17. Kxf2 Bb4 18. Bg2 b6 19. Nxg5 Bxc5+ 20. e3 b5 21. Ne6+ Kg8 22. Qa4 Bb6 23. Kg3 Nxe3 24. Nf8 h4+ 25. Kh3 Nxg4 26. Be4 Kxf8 27. Bg6 Ne3 28. Be4 bxa4 29. dxe3 d5+ 30. Bf5 a6 31. Bd7 Ke7 32. Rd1 Bc5 33. Be6 axb3 34. Bb2 Bxe6+ 35. Kg2 Bd6 36. Nc3 f6 37. e4 a5 38. exd5 f5 39. Rd2 Bd7 40. Ne2 e4 41. Ng3 hxg3 42. Rad1 a4 43. hxg3 Bb5 44. Kg1 c6 45. Ba1 e3 46. Re2 Ra6 47. Rc1 Bf4 48. Bb2 Rh7 49. Rce1 Ke8 50. Kf1 Bxg3 51. d6 Nd7 52. Ba1 f4 53. Bb2 Kf8 54. Ba1 Ra7 55. Bf6 Nxf6 56. Ra1 Ng4 57. Rc1 Rh6 58. d7 Ke7 59. Re1 Kf7 60. Kg2 Rxd7 61. Rf1 Re6 62. Rc2 Kf6 63. Rc3 Rde7 64. Rd1 Bd3 65. Rf1 Ba6 66. Rd3 Rg7 67. Rd5 Rg5 68. Rc1 Be2 69. Rc3 Kg6 70. Rd6 Kh5 71. Rdxc6 Bf3+ 72. Kxf3 Re7 73. Ke2 f3+ 74. Kxf3 Be5 75. Rxe3 Nf2 76. Ke2 Bd4 77. Re4 Reg7 78. Rxd4 Ng4 79. Rc1 Kh4 80. Ke1 Rc5 81. Rd2 Rgg5 82. Kd1 Nf2+ 83. Ke2 Rb5 84. Ke3 Ng4+ 85. Ke4 Nh2 86. Rh1 Kg4 87. Rdd1 Kg3 88. Rc1 Rb6 89. Rce1 Rc5 90. Rhg1+ Kf2 91. Rh1 Rc2 92. Rd1 Rc1 93. Kd5 Rd6+ 94. Kxd6 Rxd1+ 95. Ke7 b2 96. Kf8 b1=R 97. Ke7 Rxh1 98. Kf7 Rbg1 99. Ke7 Rg2 100. Kf8 Rg3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. d3 c6 2. Bd2 Na6 3. Bf4 Qc7 4. Bh6 c5 5. g3 e5 6. h4 Qb6 7. c4 Qb5 8. g4 Nxh6 9. Nd2 Nb8 10. Nb3 Qa6 11. a3 g5 12. hxg5 Qxa3 13. f3 b5 14. Qd2 Ba6 15. g6 Nc6 16. Nd4 Nxd4 17. Qg5 Qa4 18. Kd2 Rb8 19. Qh5 Kd8 20. e4 b4 21. Rc1 Nb5 22. Ra1 Rg8 23. Rb1 Rc8 24. Nh3 Qb3 25. Ke2 Qd1+ 26. Ke3 d6 27. Be2 Rh8 28. gxh7 Nd4 29. Qh4+ f6 30. Bxd1 Ne6 31. g5 fxg5 32. Nxg5 Nxg5 33. Qf2 Nxh7 34. Qh2 Nf5+ 35. Kf2 Nd4 36. Kg3 Nf5+ 37. Kg2 d5 38. cxd5 Ng3 39. Kf2 Nxh1+ 40. Kg2 Kd7 41. Qh6 Be7 42. Qh4 Ng5 43. Ba4+ Kd6 44. Qxg5 Bxg5 45. Kg1 Be3+ 46. Kf1 Bd4 47. Ke2 Ke7 48. b3 c4 49. dxc4 Rc7 50. Bb5 Kf6 51. Bxa6 Rb7 52. Kd3 Rc7 53. Bb5 Rh6 54. c5 Rb7 55. Bd7 Rg6 56. Kc4 Rg3 57. c6 Rb8 58. d6 Rh3 59. f4 Ra8 60. Kd5 Rg8 61. c7 Rhg3 62. Ba4 Rf8 63. Kc6 Rc8 64. Kd5 Rd3 65. Rc1 Kg6 66. d7 exf4 67. Bb5 Rxc7 68. Rxh1 Kf6 69. d8=R Rcc3 70. Rc8 Ke7 71. Rh5 a5 72. Re8+ Kf7 73. Rg8 f3 74. Rd8 Be3+ 75. Ke5 Rd7 76. Rg5 Rxd8 77. Rf5+ Ke7 78. Rxf3 Rd5+ 79. Kxd5 Rc5# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e3 Nf6 2. Qf3 d5 3. Bc4 h5 4. a4 Bf5 5. Nh3 b5 6. Qg3 Bd7 7. d4 e5 8. axb5 c5 9. b6 Qxb6 10. Qxg7 Qb3 11. Bxd5 Qa2 12. Bxf7+ Ke7 13. O-O e4 14. dxc5 Nd5 15. Nf4 Qa6 16. Qg4 Kd8 17. Kh1 Qxf1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e3 c5 2. b4 Nc6 3. Nf3 e6 4. d4 cxb4 5. Nfd2 Nce7 6. h4 b5 7. Qe2 Ng6 8. Qd3 Ba6 9. Kd1 Qa5 10. Bb2 Ke7 11. Nc4 f5 12. Nxa5 Rc8 13. Nc6+ dxc6 14. f4 Kd7 15. Kc1 Nxh4 16. g3 h6 17. c4 Nf3 18. cxb5 Nh4 19. Nc3 Ng6 20. Ne2 Rb8 21. Kd2 Rxb5 22. Nc1 Bd6 23. Bg2 Re5 24. Rh2 Ke8 25. Ke1 Rxe3+ 26. Qxe3 Bc8 27. Rh5 Ba6 28. Qg1 Bd3 29. Qe3 Bf8 30. Rh4 N8e7 31. Qf3 Rg8 32. Bf1 Bc2 33. g4 Bd1 34. Kxd1 Nxf4 35. Ba6 g5 36. Bf1 Rg7 37. d5 Nh3 38. d6 Rg6 39. Rh5 Kf7 40. dxe7 f4 41. Bg7 c5 42. exf8=Q# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 g5 2. Bc4 g4 3. Be2 a6 4. Bxa6 bxa6 5. Qe2 Nh6 6. f4 e5 7. c4 a5 8. Nc3 c6 9. b4 Qf6 10. Qf3 Ke7 11. Qg3 axb4 12. Qf3 Qg6 13. Kf1 Na6 14. a4 Rg8 15. Qf2 f6 16. Qh4 Qg7 17. a5 d6 18. Nge2 Nc5 19. Na2 g3 20. hxg3 Bb7 21. Qxf6+ Qxf6 22. Ba3 Na4 23. Rg1 bxa3 24. Rd1 Ba6 25. Nb4 Rg4 26. Rh1 Kd8 27. Nd3 Nf5 28. Rg1 Nxg3+ 29. Kf2 Nh1+ 30. Kf1 Rxf4+ 31. Ndxf4 Ng3+ 32. Nxg3 exf4 33. Ke2 Qe5 34. Rh1 h6 35. Rhf1 fxg3 36. Kd3 Nb2+ 37. Ke2 Rb8 38. Ke3 Ke7 39. Rf5 Qd4+ 40. Kxd4 Ke6 41. Rf6+ Ke7 42. Rb1 Bg7 43. c5 dxc5+ 44. Kxc5 Kxf6 45. Ra1 Rd8 46. Ra2 Nc4 47. d3 Ne5 48. d4 Nd3+ 49. Kb6 Kg6 50. Kc7 Bxd4 51. Rxa3 c5 52. Rc3 Nc1 53. Rf3 Bf2 54. Rb3 Rf8 55. Rf3 Rc8+ 56. Kd7 Kg5 57. Rxg3+ Bxg3 58. e5 Bxe5 59. g3 Bc4 60. g4 Rh8 61. Ke7 Ba6 62. Ke6 Bc7 63. Kf7 Bb8 64. Ke6 Rg8 65. Kf7 c4 66. Kxg8 c3 67. Kh7 c2 68. Kg8 Be5 69. Kf7 Bg3 70. Kg7 Bd3 71. Kf7 Be5 72. a6 Bg7 73. a7 Bd4 74. a8=Q Bf1 75. Qb7 Bc4+ 76. Qd5+ Kxg4 77. Kg6 Bxd5 78. Kh7 Kf4 79. Kxh6 Bb6 80. Kg7 Ke4 81. Kf6 Kd4 82. Ke7 Kd3 83. Kf8 Ke2 84. Ke7 Kf1 85. Kf8 Kf2 86. Ke7 Kg3 87. Kf8 Bb3 88. Ke7 Ba4 89. Kf8 Bd4 90. Kf7 Bb5 91. Kg6 Bf2 92. Kf7 Bc6 93. Kg6 Bb7 94. Kf7 Bc6 95. Kg6 Bb7 96. Kh6 Bc6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. d4 b6 2. c4 c5 3. dxc5 bxc5 4. Bg5 g6 5. e3 Na6 6. Nd2 Rb8 7. Qh5 Nf6 8. Qe2 Ng8 9. Ngf3 Nb4 10. Ng1 a5 11. Kd1 e6 12. a3 Bd6 13. Qf3 Na2 14. Ke1 Qb6 15. Qd1 Qc7 16. Qh5 f5 17. g3 e5 18. Qxh7 Rb7 19. Ngf3 Kf8 20. Bg2 Rxb2 21. Rxa2 Rc2 22. Ne4 fxe4 23. Nd2 Rxa2 24. Nxe4 Rxf2 25. g4 Ke8 26. Bf4 Qa7 27. Bh3 exf4 28. Kxf2 Bc7 29. Nf6+ Kd8 30. Ke2 Bd6 31. g5 Rxh7 32. Ne4 Be7 33. Nd6 Ba6 34. e4 Rh6 35. Nb7+ Kc8 36. Rb1 Qb8 37. Kf2 Bxg5 38. Kg2 Be7 39. Rd1 Bd6 40. Rb1 Ne7 41. Rd1 Qc7 42. Nxd6+ Kd8 43. Rd4 a4 44. Rd3 Rh8 45. Nb5 Qb6 46. Nc3 Nc8 47. Rd6 Bb7 48. Nd1 Ba8 49. Rf6 Rh4 50. Nc3 f3+ 51. Kh1 Ne7 52. Nd1 g5 53. Bf1 Qe6 54. Rf8+ Kc7 55. Rc8+ Nxc8 56. Ne3 Rxh2+ 57. Kxh2 d6 58. e5 dxe5 59. Kh1 Kb7 60. Bh3 Qc6 61. Kg1 Qc7 62. Kh1 Kb6 63. Nd1 g4 64. Bg2 Bd5 65. Nc3 fxg2+ 66. Kg1 e4 67. cxd5 g3 68. Nxe4 Qg7 69. d6 c4 70. Kxg2 Qd4 71. Nc3 Qe4+ 72. Kg1 Ne7 73. Kf1 Nc6 74. Nxe4 Ne5 75. d7 Ka7 76. Ke1 Kb7 77. Nf6 Kc7 78. Ne4 Kxd7 79. Nc5+ Kc8 80. Ne4 Kd8 81. Ke2 Kc7 82. Ke3 Nd3 83. Nd2 c3 84. Nb1 Kb6 85. Kxd3 Ka5 86. Nxc3 g2 87. Ne4 g1=Q 88. Nd2 Qg2 89. Nc4+ Ka6 90. Ke3 Qh1 91. Na5 Kb6 92. Kd4 Kxa5 93. Ke5 Qh7 94. Kd4 Qh6 95. Kc5 Qe6 96. Kd4 Qe7 97. Kc3 Kb6 98. Kb2 Ka5 99. Kc2 Qd7 100. Kb2 Qe7 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 b6 2. Nc3 h5 3. h3 g5 4. Qxh5 Nh6 5. Qf3 Bb7 6. Qxf7+ Kxf7 7. b3 Qc8 8. e5 Nf5 9. f4 Kg7 10. g4 Ba6 11. Kf2 Ng3 12. Kxg3 Qb7 13. Nce2 Nc6 14. a4 gxf4+ 15. Nxf4 d5 16. Ba3 Rb8 17. Bd3 e6 18. Bxf8+ Rbxf8 19. Be2 Nxe5 20. Nd3 Bc4 21. Rb1 Ba6 22. Nxe5 b5 23. axb5 Re8 24. Ng6 Rhg8 25. Rb2 Qa8 26. Nf4 Kh7 27. bxa6 Qb7 28. d3 Kh6 29. Nf3 e5 30. c4 dxc4 31. dxc4 Qc8 32. Kf2 exf4 33. Kg1 Qd7 34. Kg2 Qf5 35. Kh2 Qb1 36. Bf1 Qd1 37. Ne5 Rxe5 38. h4 Rxg4 39. c5 Qf3 40. Ra2 Re3 41. Ra5 Qxh1+ 42. Kxh1 Kh5 43. Be2 f3 44. Ra3 Rg3 45. c6 fxe2 46. Ra4 Rg2 47. Ra3 Rgg3 48. Ra4 Ref3 49. b4 Rh3+ 50. Kg1 Rh1+ 51. Kg2 Re1 52. Kxf3 Kxh4 53. Kg2 Rd1 54. Kf3 e1=Q 55. Kg2 Qe2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. d3 d5 2. Nd2 c5 3. e4 Qb6 4. d4 Qd8 5. dxc5 dxe4 6. Nc4 Qd4 7. Bd2 Bf5 8. Qb1 Nh6 9. Nf3 g6 10. a4 Qe5 11. Qd1 Kd7 12. Nd4 Rg8 13. Ne6 a5 14. h3 Kc8 15. Ne3 Rh8 16. Bxa5 Na6 17. Qe2 f6 18. Bb6 Nb8 19. Qb5 Bxe6 20. Be2 Nf5 21. Qe8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. c3 e6 2. Nf3 Ne7 3. d3 g5 4. h4 d6 5. g3 Nec6 6. Bd2 a5 7. Rh3 Be7 8. Bxg5 Qd7 9. Bxe7 f5 10. a3 Nb4 11. Nbd2 N8a6 12. Bf6 Kf7 13. Ne4 b5 14. Neg5+ Kg6 15. Rh2 Nc6 16. Bd4 Bb7 17. e3 Kh5 18. Be2 Rae8 19. Rb1 Kh6 20. Ba7 Kg7 21. Ng1 h5 22. b3 Nd8 23. Kf1 Rhg8 24. Qe1 Nc5 25. N1f3 Qf7 26. Qd1 Nd7 27. Rb2 Bd5 28. Qd2 Qg6 29. Bc5 dxc5 30. Kg2 Ref8 31. a4 Nf7 32. Nh3 Nf6 33. axb5 Qh6 34. Kg1 Ng4 35. Rg2 Qh8 36. e4 Bxe4 37. dxe4 e5 38. Nfg5 Kh6 39. Qd1 Rg7 40. c4 Nf6 41. Qc1 Re8 42. Bf3 Rb8 43. Qc3 Qg8 44. b6 cxb6 45. Kh2 Qf8 46. Qc1 Re8 47. Qc3 Nxe4 48. Bxe4 Kg6 49. Bd5 Kh6 50. Bxf7 Rd8 51. Qb4 axb4 52. g4 b5 53. f4 fxg4 54. Rge2 Rd4 55. Rbc2 bxc4 56. Rg2 c3 57. Bg6 exf4 58. Be4 Qf7 59. Bd5 Qg6 60. Nf3 Qa6 61. Bf7 Re4 62. Bxh5 Qa8 63. Nfg1 Qa3 64. Ng5 Kxh5 65. Nxe4 Qa2 66. Rcf2 Qc2 67. Nxc5 Kh6 68. Rxf4 Kh5 69. Rxc2 Rg6 70. Kg3 Rg5 71. Rb2 Rd5 72. Ra2 Rd1 73. Kf2 Kxh4 74. Kg2 Rd5 75. Rd2 Rxd2+ 76. Rf2 Rd8 77. Ne4 Rd3 78. Nd2 cxd2 79. Rf1 Rg3+ 80. Kf2 Rg2+ 81. Kxg2 Kg5 82. Kg3 Kh6 83. Rd1 Kg6 84. Kxg4 Kf6 85. Kh5 Kg7 86. Nf3 Kf7 87. Rxd2 Kg7 88. Ng5 Kg8 89. Rf2 Kg7 90. Re2 Kg8 91. Nh7 Kxh7 92. Rg2 Kh8 93. Rg4 Kh7 94. Rc4 Kg7 95. Rxb4 Kh7 96. Rb8 Kg7 97. Rd8 Kf6 98. Rc8 Ke7 99. Rb8 Kd6 100. Rd8+ Kc5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nf3 Nh6 2. h4 d5 3. c4 Nc6 4. Nc3 Ng8 5. b4 g6 6. Ne4 dxe4 7. Ba3 h6 8. Bb2 g5 9. Rh2 Bd7 10. Qb1 Be6 11. h5 b5 12. cxb5 Nxb4 13. g4 Na6 14. Bh3 Qc8 15. Qxe4 Bc4 16. bxa6 Bb3 17. axb3 f6 18. Nxg5 Qd8 19. Qb4 fxg5 20. Qc4 Qd6 21. d3 Qg3 22. Qc6+ Kf7 23. Qd7 c5 24. Kf1 Qf3 25. Bxh8 Nf6 26. Qa4 Rb8 27. e4 e5 28. Rd1 Be7 29. Rd2 Rb6 30. Rh1 Ng8 31. Qb4 Rc6 32. Rg1 Qxh3+ 33. Ke2 Qh1 34. Rb1 Rxa6 35. Qb8 Ra3 36. Bxe5 Ke6 37. Qxa7 Ra2 38. Qb7 Ra1 39. Qd5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. h4 f6 2. g3 Kf7 3. f3 e5 4. a4 g5 5. hxg5 Bb4 6. Ra3 Bxd2+ 7. Bxd2 Ke7 8. Bh3 e4 9. Bf4 exf3 10. Rxf3 Nh6 11. Bc1 fxg5 12. Rc3 Ng4 13. Rc5 h5 14. Na3 d5 15. Nb5 Ne5 16. g4 Bd7 17. Kd2 Rg8 18. c4 Na6 19. Rc6 h4 20. Nd4 bxc6 21. cxd5 Qb8 22. Ndf3 Kd6 23. Nxe5 Qxb2+ 24. Bxb2 c5 25. e3 Bxa4 26. Ne2 c6 27. Nd7 Rae8 28. Kc3 Rgf8 29. Qd2 Re6 30. Rb1 cxd5 31. Kd3 Rc8 32. Kc3 Rce8 33. Nf6 Bc2 34. Bc1 R8e7 35. Qd3 Rc7 36. Bd2 c4 37. Qxd5+ Ke7 38. Qd3 Bxd3 39. Nd7 Kxd7 40. Rb5 Nb8 41. Kb4 Kc6 42. Rb7 Be4 43. Rxa7 Rb7+ 44. Rxb7 Na6+ 45. Ka4 Nc7 46. Rb8 Rd6 47. Bc3 Rd4 48. exd4 Ne6 49. Rb5 Bf3 50. Rb8 Kd5 51. Bd2 Kc6 52. Rd8 Nf4 53. Ka3 Bg2 54. Bxg2+ Kb5 55. Bf3 Nh3 56. Rd7 Nf4 57. Nc3+ Ka6 58. Be3 Ka5 59. d5 Nh3 60. Rd6 Nf2 61. Bc1 h3 62. Bd2 Nd3 63. Bd1 h2 64. Ne2+ Nb4 65. Re6 h1=Q 66. Bc3 Qh4 67. Bg7 Qh5 68. Ng3 Qxg4 69. Bxg4 Nd3 70. Ka2 Kb4 71. d6 Ka5 72. Re8 Kb4 73. Ne2 Ne5 74. Ng3 Ng6 75. Kb2 c3+ 76. Kc2 Kc4 77. Rb8 Ne5 78. Bc8 Nf7 79. Nf5 Ne5 80. Ra8 Nf7 81. Ra3 Ne5 82. Ra5 Nf7 83. Kd1 Ne5 84. Ra6 Nf7 85. Kc2 Ne5 86. Ra5 Nc6 87. Bh8 Nd4+ 88. Bxd4 Kb4 89. Ra3 Kc4 90. Ra5 Kb4 91. Ra6 Kb5 92. Ra5+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 g6 2. b3 c6 3. Qh5 Nf6 4. d4 Bg7 5. Qb5 a6 6. Qc4 h6 7. f3 b5 8. Qxb5 cxb5 9. Bf4 Bb7 10. Nd2 h5 11. Bc7 Qxc7 12. h4 Nd5 13. exd5 Kf8 14. Rc1 Bh6 15. d6 Bc8 16. Bc4 Qd8 17. Kf2 Ke8 18. Bxb5 f5 19. dxe7 Bb7 20. exd8=Q+ Kxd8 21. Bxa6 g5 22. d5 Rxa6 23. Ra1 Ra8 24. Rc1 gxh4 25. f4 Ra6 26. Nf1 Ra8 27. c3 Nc6 28. Re1 Bg7 29. Rd1 Rc8 30. Nd2 Nb8 31. b4 Rc6 32. Rb1 Ra6 33. a4 Ra7 34. Nc4 Na6 35. Nb2 Bh6 36. Nf3 Nc5 37. Rhg1 Ra5 38. Ke3 Bxd5 39. bxc5 Rxa4 40. Kf2 Ra6 41. g3 Bg7 42. gxh4 Ra5 43. Rbd1 Ra3 44. Rh1 Ra7 45. Nh2 Re8 46. Rhe1 Rf8 47. Nf3 Ra6 48. Kg3 Bb3 49. Re2 Bxc3 50. Ra1 Ra5 51. Rc2 Bf6 52. Nc4 Bxc4 53. Ne5 Bxh4+ 54. Kxh4 Bf1 55. c6 Bc4 56. cxd7 Ra7 57. Rxc4 Rg8 58. Rcc1 Rg2 59. Kxh5 Ke7 60. d8=Q+ Kxd8 61. Ng6 Rxg6 62. Rh1 Ra4 63. Rab1 Rg8 64. Rb3 Rg2 65. Rg1 Ra3 66. Rf3 Rxf3 67. Rxg2 Kc7 68. Rg6 Re3 69. Rg1 Kd6 70. Re1 Ke6 71. Rxe3+ Kd5 72. Kh6 Kd4 73. Re7 Kc4 74. Rd7 Kb3 75. Rg7 Kc2 76. Rg5 Kc3 77. Rg6 Kd4 78. Rg5 Ke4 79. Rg6 Ke3 80. Rg5 Kf3 81. Rg6 Kxf4 82. Rc6 Ke4 83. Ra6 f4 84. Kg6 Ke5 85. Ra4 Kd6 86. Kf7 f3 87. Ra2 Ke5 88. Ra5+ Kd4 89. Rd5+ Ke4 90. Rd8 Kf5 91. Rg8 Kf4 92. Rg6 Ke4 93. Ke8 Ke3 94. Kf8 f2 95. Rg1 f1=Q+ 96. Ke7 Qf5 97. Rg7 Qe5+ 98. Kd7 Ke2 99. Kc6 Kf2 100. Rg6 Qg5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e3 a6 2. Qe2 g5 3. Na3 f6 4. Qh5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. c3 Nc6 2. g3 Nh6 3. Bh3 e5 4. Bg2 Nf5 5. a4 Nfd4 6. Qb3 b6 7. e4 Ne7 8. Kf1 Nxb3 9. f3 Ng6 10. h4 Ke7 11. Kf2 f5 12. Ke1 c5 13. h5 Ba6 14. Na3 Qb8 15. d4 Nxa1 16. hxg6 hxg6 17. Bf4 cxd4 18. Rh5 Kf7 19. Rh7 Qe8 20. Rxg7+ Bxg7 21. Bg5 Qe6 22. Kf2 fxe4 23. Bh4 Rxh4 24. Nh3 Ke7 25. a5 Bd3 26. gxh4 Re8 27. h5 bxa5 28. Ng5 Bh8 29. Nf7 exf3 30. Bf1 Be4 31. Nh6 g5 32. Bb5 Rf8 33. Nb1 Qd6 34. Kg3 a6 35. Bxa6 dxc3 36. Kg4 cxb2 37. Nd2 Ba8 38. Kxg5 Bg7 39. Nf5+ Ke6 40. Bd3 Rb8 41. Nh6 Bf6+ 42. Kg6 Rd8 43. Nxf3 e4 44. Bxe4 Qe5 45. Nxe5 d6 46. Bf5+ Ke7 47. Nd7 d5 48. Nf8 Rxf8 49. Bb1 Bh8 50. Nf5+ Kd8 51. Nh4 Rf7 52. Ng2 Rf8 53. Nf4 d4 54. Bf5 d3 55. Nh3 Be4 56. Bxe4 d2 57. Bg2 Rf5 58. h6 Rd5 59. Kf7 d1=Q 60. Bxd5 Qe2 61. Ng5 Qe8# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. d4 e6 2. Nc3 c5 3. g4 Nc6 4. Bd2 Ne5 5. b3 Nc4 6. Bf4 Qb6 7. h4 e5 8. h5 h6 9. Qc1 a6 10. Nf3 Be7 11. b4 exd4 12. Ng1 Bg5 13. b5 Be7 14. Bxh6 Qc7 15. bxa6 Na3 16. Kd1 Ra7 17. Ke1 Rxa6 18. Bg2 gxh6 19. Qb1 Kd8 20. Kd1 Qa5 21. Qb5 Ra7 22. Ke1 Qxc3+ 23. Kd1 Rh7 24. Rb1 f5 25. Ra1 Qxa1+ 26. Qb1 Ra6 27. Qxa1 f4 28. Qb1 Ra5 29. Qa1 Ra4 30. Bc6 Ra7 31. Bb5 Ra5 32. Rh2 Bh4 33. Nf3 Nc4 34. Nd2 Nxd2 35. a4 b6 36. Kxd2 Bf6 37. e3 dxe3+ 38. fxe3 d6 39. Rf2 Bd7 40. g5 Bxg5 41. Rg2 fxe3+ 42. Ke1 Ra7 43. Ke2 Be8 44. Qb1 Be7 45. Qd1 Ra5 46. Rg4 Bf7 47. Rg5 Bxg5 48. Kf3 Nf6 49. Qe1 Kc7 50. Qg1 Ne4 51. Qh1 Kb8 52. Kg2 Ba2 53. Qf1 Ka8 54. Kg1 Nf2 55. Qd1 Ka7 56. Qd3 Be7 57. Be8 Ne4 58. Bg6 Nf2 59. Qf5 Ka6 60. Qe6 Ka7 61. Qxe7+ Rxe7 62. Be4 Ka6 63. Kf1 Rd7 64. Bd5 Rd8 65. Ke1 Rb8 66. Bc6 Ka7 67. Ba8 b5 68. axb5 Raxb5 69. Bd5 Ne4 70. Ke2 R5b6 71. Kf3 Rb4 72. Ke2 Rb1 73. Bxa2 Rd1 74. Kxd1 Kb6 75. c3 Ng5 76. Kc2 Rd8 77. Kb2 Rh8 78. Bb1 Rh7 79. Bd3 Rb7 80. Ka2 Ra7+ 81. Kb3 Nf7 82. Kc4 Ra5 83. Be2 Ka7 84. Kb3 Ra2 85. Kxa2 Kb6 86. Bc4 Nd8 87. Bb3 Ka7 88. Bc4 Kb7 89. Bb3 Kc6 90. Bc4 d5 91. Bd3 e2 92. Bxe2 Kb7 93. Ka3 Kb6 94. Bd3 Kc6 95. Ka2 Kb7 96. Ka3 Nc6 97. Ka4 d4 98. Bg6 d3 99. Be4 Kc8 100. Bd5 Kb8 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. a4 h5 2. e4 c5 3. e5 g5 4. Nf3 Nc6 5. Rg1 f6 6. Bb5 Nxe5 7. a5 Rh6 8. Nxe5 fxe5 9. Bxd7+ Kf7 10. Ra3 c4 11. d4 Bxd7 12. Rh1 exd4 13. h3 h4 14. Ra4 c3 15. g3 Kf6 16. Qe2 Rg6 17. Qe6+ Bxe6 18. Na3 Bxh3 19. Rh2 Bf5 20. gxh4 d3 21. b4 Qb8 22. Rh3 e5 23. hxg5+ Kg7 24. f3 Bd7 25. Kf2 Bf5 26. Rg3 Be7 27. Rg1 Rh6 28. Rg3 Rh2+ 29. Kf1 Nf6 30. Ke1 Rg2 31. Kf1 Ng4 32. fxg4 a6 33. cxd3 Rxg3 34. gxf5 Qf8 35. Ke2 Rd8 36. Bf4 Rg2+ 37. Kf1 Qf7 38. Bxe5+ Bf6 39. Bxf6+ Qxf6 40. g6 Rxd3 41. Nc4 b5 42. Nd6 Rxd6 43. Ke1 Ra2 44. Ra3 Rf2 45. Ra1 Rf3 46. Rd1 Qxf5 47. Rc1 Rd4 48. Rd1 Rdd3 49. Rxd3 Qxd3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Na3 e5 2. e4 Na6 3. Bxa6 f6 4. c4 bxa6 5. Qf3 c5 6. Qg4 Qe7 7. b4 cxb4 8. Qh5+ Qf7 9. Qe2 Qe7 10. Bb2 Kd8 11. f3 g6 12. Bc3 d6 13. Kf1 Rb8 14. Rb1 h6 15. Qe3 Bg7 16. Bb2 b3 17. axb3 Bd7 18. Bxe5 Bf5 19. Qxh6 Bxh6 20. Bc3 Bg5 21. Nc2 Kc7 22. c5 dxc5 23. f4 Bh6 24. Bb4 Qf8 25. Bxc5 g5 26. e5 Kc8 27. Ba3 gxf4 28. d4 Kd7 29. Ke2 Qc8 30. g4 Bxg4+ 31. Kd2 a5 32. Ne1 a4 33. Nd3 axb3 34. Ra1 Qe8 35. Bc5 fxe5 36. dxe5 Be2 37. Re1 Bxd3 38. h3 Qf7 39. Kc3 Bf5 40. Rc1 b2 41. Rd1+ Kc8 42. Bd4 Be4 43. Ne2 Qh7 44. Bg1 Bxh1 45. Nc1 bxc1=Q+ 46. Rxc1 Kd8 47. e6 f3 48. Re1 Nf6 49. Bxa7 Ra8 50. Rf1 Rxa7 51. Rc1 Bg5 52. Rxh1 Be3 53. Rg1 Bf2 54. Rg5 Qb1 55. Rf5 Qxf5 56. Kd2 Ke7 57. Kc1 Bb6 58. Kb2 Ke8 59. Kc3 Rg8 60. Kd2 Nh5 61. Kc3 Rf8 62. Kd2 Bf2 63. Kc3 Bg3 64. Kd2 Ra6 65. Kc3 Rxe6 66. Kd2 Nf4 67. Kc3 Kd8 68. Kb2 Kc8 69. Kc3 Re5 70. Kd2 Rfe8 71. Kc3 Kd8 72. Kb2 Nd5 73. Ka2 Kc7 74. Ka3 R5e7 75. Ka4 Be5 76. Ka5 Bd4 77. Ka4 Rd7 78. Kb5 Kb7 79. h4 Re2 80. h5 Rh7 81. h6 Rf7 82. Ka4 Ka7 83. Ka5 Qe5 84. Kb5 Rd2 85. Ka5 Qe1 86. Kb5 Qe5 87. Ka4 Qe1 88. Kb5 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. b4 g5 2. g3 Na6 3. a4 b6 4. c4 Nc5 5. Nc3 g4 6. f4 c6 7. Nd5 a5 8. Rb1 d6 9. Ne3 Bb7 10. Bb2 e6 11. Bxh8 e5 12. b5 Qe7 13. Qc1 Kd8 14. Nh3 f5 15. Nxf5 Na6 16. c5 Nc7 17. Nd4 e4 18. Nxc6+ Ke8 19. Nf2 dxc5 20. Rg1 h5 21. Ba1 Qg5 22. Be5 Bd6 23. Qd1 Bc8 24. Bg2 Bf8 25. Bh3 Kf7 26. Rb4 Bd7 27. Rb3 Qxe5 28. Nb4 Ke8 29. f5 Kd8 30. Nd5 Qxd5 31. Nxg4 Rb8 32. Nf6 Ke7 33. Nxd7 Qa8 34. Nxf8 Nxb5 35. axb5 Qb7 36. Qc1 Qa6 37. bxa6 Rc8 38. Qa3 h4 39. g4 Rc7 40. Qb2 Rb7 41. Qa1 Ra7 42. Rb5 Rxa6 43. Nh7 Kd7 44. g5 Kc6 45. g6 Kxb5 46. Nf8 Ra8 47. Rg5 Nf6 48. d3 Kb4 49. Kf1 Nh5 50. Qc1 Rc8 51. Qd2+ Kb3 52. Rxh5 Rd8 53. f6 a4 54. Rh7 Rd4 55. Qc3+ Kxc3 56. Kg2 exd3 57. e3 Kd2 58. Rf7 a3 59. Bd7 a2 60. Kh1 Kxe3 61. Rh7 Re4 62. Bb5 Ke2 63. g7 c4 64. Rh6 Ke1 65. Rh7 Kd1 66. Ba4+ Ke2 67. Bb5 Ke1 68. Ba6 b5 69. Rxh4 Re6 70. Ng6 a1=Q 71. Rh5 Kf2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. c3 a6 2. e4 a5 3. c4 e5 4. Nc3 c6 5. Nf3 h5 6. Be2 Bd6 7. Ng5 Ba3 8. Nh3 h4 9. b3 Bd6 10. a4 b6 11. Rf1 Ba3 12. Ra2 Kf8 13. Rxa3 Nh6 14. Rg1 Bb7 15. c5 bxc5 16. Bf3 g5 17. d4 Bc8 18. Qd3 exd4 19. Nxg5 d5 20. Bb2 dxe4 21. Qe3 Nf5 22. Kd2 Nd7 23. Nxf7 Nh6 24. Rd1 Rg8 25. Raa1 Ra6 26. Bc1 Kxf7 27. Nd5 Rg5 28. Ba3 Qb6 29. Nxb6 Ra8 30. Be2 Kg7 31. Rac1 dxe3+ 32. Kc3 Ra6 33. Nc4 Ng8 34. Rd4 cxd4+ 35. Kb2 Nb6 36. Nd6 Nh6 37. Nxc8 Rb5 38. axb5 Nf5 39. bxa6 Nc4+ 40. Bxc4 Nh6 41. Rh1 Ng4 42. f3 exf3 43. Bc5 Nf2 44. Rd1 Kf6 45. Rf1 fxg2 46. Kc1 d3 47. Bf8 d2+ 48. Kb2 Kg5 49. Ra1 Kf6 50. Bc5 Ne4 51. Rf1+ gxf1=N 52. Ba3 d1=Q 53. b4 Kf5 54. Bg8 Qf3 55. Be6+ Kxe6 56. a7 Qh1 57. Kc2 Qxh2+ 58. Kb1 Qg2 59. Ne7 Kd6 60. Nf5+ Kc7 61. Nxe3 Kb7 62. Nxg2 axb4 63. Kc1 Nh2 64. Bb2 Ka6 65. Ne3 Nf2 66. Nd1 Nd3+ 67. Kd2 b3 68. Kxd3 Ka5 69. Nf2 Ka4 70. Ne4 Kb5 71. Ke3 Ka4 72. Bd4 Ka3 73. Bb6 Kb4 74. Kd3 Kb5 75. Nd6+ Ka4 76. Bc5 Nf1 77. a8=Q# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. g3 f5 2. h4 Nc6 3. Nc3 Nd4 4. b4 b5 5. Nxb5 Nxe2 6. Rh2 a5 7. Nh3 axb4 8. Nxc7+ Kf7 9. Rg2 e5 10. Qxe2 Bb7 11. Nxa8 Ke7 12. f3 h6 13. Qe4 Ke6 14. Qg4 e4 15. Ke2 Qb6 16. Nf4+ Ke7 17. h5 fxg4 18. Nc7 Qf6 19. Ke3 Rh7 20. fxg4 g5 21. Ng6+ Qxg6 22. Na6 Qxa6 23. Bc4 Qa8 24. Be6 Kxe6 25. Ba3 bxa3 26. Kf2 Bc5+ 27. Ke1 Qa7 28. Rg1 Qa5 29. Kf1 Ne7 30. Rc1 Qxd2 31. Ra1 Bd6 32. Rg2 Kd5 33. Rh2 Ke6 34. Rc1 Qe2+ 35. Kxe2 Bb4 36. c3 Bxc3 37. Rd1 Rg7 38. Re1 Rg6 39. Rf1 Rg7 40. Rh3 Nc6 41. Re1 Bxe1 42. Kxe1 e3 43. Kf1 e2+ 44. Ke1 d6 45. Rh4 Bc8 46. Rh3 Bd7 47. Rh1 Nd8 48. Rg1 Kf6 49. Rh1 Rg8 50. Rg1 d5 51. Kf2 Bb5 52. Kf3 Ba6 53. Rg2 Rf8 54. Rh2 Bc4 55. Rxe2 Ne6 56. Re1 Bd3 57. Re3 Bc2 58. Ke2 Bb3 59. axb3 Rc8 60. Kd2 Rd8 61. Ke1 d4 62. Re2 d3 63. Rd2 Nc5 64. Rf2+ Ke5 65. Rg2 Ra8 66. Kf1 Kd4 67. Kg1 Kc3 68. Kf2 Re8 69. Kg1 Re2 70. b4 Rd2 71. Kh1 Rc2 72. Rg1 d2 73. bxc5 d1=B 74. c6 Bxg4 75. c7 a2 76. c8=Q+ Kd2 77. Qd7+ Ke3 78. Qd2+ Kxd2 79. Rf1 Bxh5 80. Kg1 Ke3 81. g4 Bxg4 82. Rf7 Rc1+ 83. Kg2 Ke2 84. Kg3 a1=Q 85. Kxg4 Kd2 86. Rf5 Qa4+ 87. Kh3 Qd4 88. Rd5 Kc2 89. Rd6 Kb3 90. Rd7 Qd1 91. Kh2 Qf3 92. Rf7 Kc3 93. Rc7+ Kd3 94. Rb7 Ke2 95. Rb8 Rh1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. b3 a6 2. a3 Nc6 3. b4 e6 4. g4 Na7 5. f3 d5 6. Bh3 Bd7 7. Bg2 e5 8. e4 h5 9. Ra2 Nc6 10. Bf1 Nce7 11. h4 Nc8 12. Rh3 b6 13. b5 Ke7 14. bxa6 Bc6 15. Bg2 hxg4 16. h5 Bd7 17. Qe2 Rh6 18. Bb2 Bc6 19. Bd4 Kd7 20. c4 exd4 21. cxd5 Qf6 22. fxg4 Rxh5 23. Rh2 Qe6 24. Rh4 Rf5 25. dxc6+ Kxc6 26. gxf5 Qe7 27. Rc2+ Kd6 28. Rh3 d3 29. Rc4 c5 30. Bh1 Qe8 31. Nc3 Rb8 32. Rd4+ cxd4 33. Kf1 dxe2+ 34. Kg2 Kd7 35. Ncxe2 Bxa3 36. Nxd4 Qxe4+ 37. Kh2 Qxd4 38. Bb7 Bf8 39. Rg3 Kd6 40. d3 Ra8 41. Nh3 b5 42. Bxa8 Ke7 43. Nf4 Qe4 44. Rg4 g5 45. Ne6 Qc6 46. Nxf8 Qxa6 47. Kg3 b4 48. Rxb4 Ke8 49. Rb7 f6 50. Kf3 Qa7 51. Rg7 Kxf8 52. Be4 Kxg7 53. Bd5 Qg1 54. Ke2 Qc5 55. Ke1 Kh6 56. Bf7 Qe3+ 57. Kf1 Qxd3+ 58. Ke1 Qe4+ 59. Kf1 Qe5 60. Bg6 Qxf5+ 61. Bxf5 Nge7 62. Ke1 Kh5 63. Bd7 g4 64. Ke2 f5 65. Kd2 Nd5 66. Ke2 Nf6 67. Kd2 Ne4+ 68. Kd3 Nb6 69. Bxf5 g3 70. Bxe4 Kg4 71. Bd5 Nxd5 72. Ke2 Kh4 73. Kf3 Kg5 74. Kxg3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. b3 Nh6 2. c3 b5 3. e4 c6 4. Be2 Ng8 5. f4 Bb7 6. h4 e5 7. fxe5 c5 8. Nf3 Qxh4+ 9. Kf1 Qg4 10. e6 Nf6 11. Ba3 Nxe4 12. Bxb5 a6 13. Bb2 Bd6 14. Rh3 Kf8 15. exf7 g5 16. Nh4 Nf2 17. Ng6+ Kxf7 18. Rg3 Qe6 19. Ba4 hxg6 20. Qc2 Qf5 21. Rd3 Rh2 22. Ke1 Rxg2 23. Rxd6 Ne4 24. d3 Nf2 25. Kf1 Rg4 26. Rd5 Rg3 27. Qe2 Kg8 28. Na3 d6 29. Re5 dxe5 30. Qe3 Kf8 31. Qxg5 Rxd3 32. Qxg6 Qf6 33. Ke1 Qxg6 34. Kxf2 Qg7 35. Ke2 Rd7 36. Ke3 e4 37. Nb1 Qd4+ 38. Ke2 Qd3+ 39. Ke1 Ke7 40. c4 Qf1+ 41. Kxf1 Rd8 42. Nd2 Rh8 43. Kg2 e3+ 44. Nf3 Rc8 45. Rf1 Kd6 46. Bg7 Bxf3+ 47. Kg1 e2 48. Bh6 Kc7 49. Rf2 Rg8+ 50. Kh2 Rg2+ 51. Kh1 Kb7 52. Rxf3 Rg3 53. Rxg3 Kc7 54. Rg7+ Nd7 55. Rg3 Ne5 56. Kh2 Ng4+ 57. Rxg4 e1=Q 58. Kh3 Qc1 59. Kg3 Qd2 60. Kh3 Qe3+ 61. Kg2 Qe1 62. Rg3 Qd1 63. Rd3 Rg8+ 64. Bg5 Kc8 65. Rd5 Qh5 66. b4 Rxg5+ 67. Kf2 Rf5+ 68. Kg3 Qe2 69. Kh4 Qd2 70. Re5 Rxe5 71. Bd1 cxb4 72. Bh5 Re1 73. Bf7 a5 74. c5 Qd3 75. Bg6 Rg1 76. Be4 Qc3 77. c6 a4 78. Bd5 Rd1 79. c7 a3 80. Kg5 Rc1 81. Kf5 Qe1 82. Kg5 Qg1+ 83. Kf5 Qf2+ 84. Ke5 Kd7 85. c8=R Rc6 86. Rxc6 Qh2+ 87. Ke4 Qg3 88. Rc7+ Kd8 89. Kf5 Kxc7 90. Kf6 Qe5+ 91. Kf7 Kb8 92. Kf8 Qd4 93. Kf7 Qc4 94. Be6 Qd4 95. Bd5 Qc4 96. Kf6 Qd4+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. d3 Nc6 2. h3 g5 3. g3 Bg7 4. Bxg5 a6 5. a4 f5 6. g4 Nf6 7. Nd2 O-O 8. Nb1 Qe8 9. Nd2 e6 10. e3 Nh5 11. Ne2 Bd4 12. gxf5 Ng3 13. fxe6 Qh5 14. Ng1 Kh8 15. Bh6 Qe5 16. Qb1 Ne2 17. b3 Bxe3 18. Bxf8 Bg5 19. Qd1 Qxe6 20. c4 Qe7 21. Bxe2 a5 22. d4 Ra6 23. Rc1 b5 24. axb5 Qg7 25. Rc2 Qg8 26. bxa6 Qg7 27. Qb1 Qg8 28. Qa1 d6 29. h4 Bh6 30. Bf1 Bd7 31. Rc3 Nxd4 32. Rhh3 Bf5 33. Rc2 Qxf8 34. Rg3 Bg6 35. h5 Bxh5 36. Qa2 Nb5 37. Nh3 Nc3 38. Nf4 Na4 39. Nxh5 Qg8 40. Bd3 Qg5 41. Rh3 Qxh5 42. Qb1 d5 43. Rh4 Qxh4 44. Bxh7 Bxd2+ 45. Ke2 Kxh7 46. Kxd2 Qh2 47. Rb2+ Kg7 48. Ke2 Nc3+ 49. Ke3 Na4 50. cxd5 c5 51. Re2 Nb2 52. Rd2 Qb8 53. f3 Qe5+ 54. Qe4 Qd4+ 55. Ke2 Na4 56. Ke1 Kf6 57. Qxd4+ cxd4 58. Kf2 Kg7 59. Ke1 Nc3 60. Rf2 Na2 61. Re2 Kg8 62. Rd2 Nc1 63. Re2 Kf8 64. Kd1 Kg7 65. Rc2 Kg8 66. Rb2 Kf7 67. Kc2 Ke7 68. a7 Kd6 69. a8=Q Kc5 70. Qe8 d3+ 71. Kd2 Kxd5 72. Qd8+ Ke6 73. Qc8+ Kd5 74. Qe8 Kd4 75. Qd8+ Ke5 76. Rb1 Ne2 77. Qxd3 Nf4 78. Qe2+ Kd4 79. Qf2+ Ke5 80. Ke3 Kd6 81. Rg1 Kd5 82. Kxf4 Kd6 83. Ke3 Ke5 84. Rg2 Kd5 85. Kd2 Ke6 86. Qg3 Kd7 87. Qh3+ Kc6 88. Ke2 Kb6 89. Rg3 Kb5 90. Kf2 Kb6 91. f4 a4 92. bxa4 Kc5 93. Rg4 Kb4 94. Kg3 Kxa4 95. Kh4 Kb5 96. Qg3 Kb6 97. Qh3 Ka6 98. Qg3 Ka7 99. Qh3 Ka6 100. Qg3 Ka7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 Ne7 3. f4 a5 4. Kd2 Nbc6 5. Kd3 f6 6. Be3 Nb8 7. Nh3 Ng6 8. Qc1 b6 9. c3 Ba6+ 10. Kc2 Bb7 11. Bd3 a4 12. b3 axb3+ 13. Kxb3 h6 14. Kb2 Bc5 15. Kb3 O-O 16. Qd2 Ba3 17. d5 Re8 18. Bg1 Be7 19. Be3 exd5 20. Ng1 Kf8 21. Na3 dxe4 22. Rc1 Rxa3+ 23. Kc4 Ra4+ 24. Kb3 f5 25. Bc2 d6 26. Re1 Ra8 27. c4 Ne5 28. h3 Ng6 29. Qd4 Nxf4 30. h4 Nd7 31. g3 Rb8 32. Nh3 Ng2 33. Reg1 Kf7 34. Rd1 Kg8 35. Rd2 g6 36. Rc1 h5 37. Nf4 Rf8 38. Rcd1 Bc6 39. c5 Rb7 40. a3 bxc5+ 41. Kc3 g5 42. hxg5 Rb8 43. Kc4 h4 44. g6 Nxf4 45. gxh4 Bf6 46. Qxf6 Qe8 47. Qe5 Qxe5 48. Rb1 Rf7 49. Rb7 Rg7 50. Rf2 Kf8 51. Bb3 Nh5 52. Ra2 Rg8 53. Bg5 Qd4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. b4 f5 2. e3 Nc6 3. Be2 a5 4. Nh3 g6 5. b5 g5 6. Kf1 Ra7 7. Ke1 e5 8. Bf3 Nh6 9. Bg4 Nb8 10. Nc3 fxg4 11. Ba3 Bb4 12. f3 Qf6 13. b6 Qd6 14. Rb1 Ng8 15. bxa7 Na6 16. Nxg5 h5 17. Bxb4 Kd8 18. Kf2 Qxd2+ 19. Qxd2 axb4 20. Nd5 b3 21. Rbf1 b5 22. cxb3 Nc5 23. Nf6 gxf3 24. Qxd7+ Nxd7 25. Nfe4 Ba6 26. Rb1 fxg2 27. Rhf1 c5 28. Rbe1 Kc7 29. Nf3 Kb7 30. Rg1 Kc7 31. Nxc5 Nxc5 32. Rxg2 Nd7 33. Rg4 e4 34. Nd4 b4 35. a3 Bb7 36. Ke2 bxa3 37. Rg5 Bc8 38. Re5 Nc5 39. Re7+ Kb6 40. Nc6 Kxc6 41. Re8 Kd5 42. Kd2 a2 43. Rh1 Be6 44. a8=Q+ Nb7 45. Kc3 Nf6 46. Kb2 Ng4 47. Ka1 Bd7 48. Rxe4 Bc6 49. Rd4+ Kc5 50. Rd8 Nf2 51. Rd2 Nh3 52. Rb2 Kd6 53. Qxb7 Ke6 54. Re2 Ke5 55. Qb4 Kf6 56. Qe1 Ng5 57. Rf2+ Bf3 58. h4 Ne4 59. Qa5 Rf8 60. Rxf3+ Kg6 61. Qb4 Rf5 62. Qb5 Kf6 63. Qa6+ Kg7 64. Rg3+ Nxg3 65. Rg1 Rf4 66. Qe2 Ra4 67. Qg2 Kf7 68. bxa4 Ke6 69. Qd5+ Kxd5 70. Rxg3 Kc4 71. Rh3 Kd3 72. a5 Ke2 73. a6 Kf1 74. Rg3 Kf2 75. a7 Kxg3 76. a8=Q Kxh4 77. Qd8+ Kg4 78. Qc8+ Kg3 79. Qb8+ Kf3 80. Kxa2 Kg2 81. Qd8 Kg3 82. Qc8 Kf2 83. Qd7 Kf1 84. Qg7 Ke2 85. Qh6 Kf1 86. Qg6 Ke2 87. Ka1 Kf1 88. Qh6 Kf2 89. Qf4+ Kg1 90. Qf3 Kh2 91. Kb1 Kg1 92. Ka2 Kh2 93. Ka1 Kg1 94. Kb1 h4 95. Qd1+ Kh2 96. Qb3 Kg3 97. Ka1 h3 98. Qa3 h2 99. Qa7 h1=Q+ 100. Kb2 Kf2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. c4 d5 2. e4 h5 3. cxd5 Nf6 4. Qg4 Rg8 5. f4 hxg4 6. a4 b6 7. Bb5+ Bd7 8. e5 g5 9. d4 c5 10. Bd2 Bxb5 11. axb5 a5 12. d6 Nd5 13. Be3 Nb4 14. e6 cxd4 15. Nh3 gxf4 16. Na3 fxe3 17. exf7+ Kxf7 18. Nb1 e6 19. Ng5+ Kf6 20. Rg1 Ra7 21. Ne4+ Kg7 22. Nbc3 Rh8 23. O-O-O Ra6 24. Rh1 Qf6 25. Nd5 Nxd5 26. Rxd4 Qf5 27. Re1 Ra8 28. Kd1 Bxd6 29. Nc3 Nf6 30. Rf4 Qg5 31. h3 g3 32. Rg1 Qg4+ 33. hxg4 Bxf4 34. Ne2 Ne4 35. Nc1 Nf6 36. b3 Rh4 37. Rf1 Kh7 38. Na2 Rh6 39. Ke2 Rg6 40. Re1 Rxg4 41. Kf1 Na6 42. Ke2 Nc5 43. Rf1 Nfe4 44. Nb4 axb4 45. Rc1 Rd8 46. Rd1 Nc3+ 47. Ke1 Nb7 48. Rxd8 Rh4 49. Rg8 Rh5 50. Rg5 Kh6 51. Rf5 Rh1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. d4 a6 2. e3 d5 3. Nc3 Nd7 4. g3 b6 5. Bd3 g5 6. Rb1 f6 7. Bf1 Bh6 8. Bd2 g4 9. Bd3 Bg7 10. Qe2 Nf8 11. Bxa6 Nh6 12. Bc1 Ne6 13. Nb5 Nc5 14. dxc5 Rxa6 15. b3 Be6 16. e4 Bc8 17. Bd2 Bd7 18. Rd1 Rg8 19. Ra1 Nf7 20. a4 Qb8 21. Ra2 Bf5 22. exd5 Nd6 23. Ra3 Ra5 24. Nxd6+ Kf8 25. Bc1 Rh8 26. Nb5 Be6 27. Qd3 Ke8 28. Kd2 Bxd5 29. Nd4 Bg8 30. Qc3 b5 31. f3 h5 32. Ne6 Rh7 33. Nxg7+ Kf7 34. Qe3 Kf8 35. Ke2 Kxg7 36. Bd2 Bc4+ 37. Kd1 e5 38. bxc4 Kh8 39. axb5 c6 40. Ra4 f5 41. Qf4 e4 42. fxg4 e3 43. gxf5 exd2 44. Ke2 Rc7 45. h3 Kg8 46. Ra2 Kh8 47. Qe4 Qxb5 48. g4 Qb6 49. g5 Rb7 50. g6 Qb4 51. f6 Rh7 52. gxh7 Qb8 53. Rb2 d1=B+ 54. Kd2 Bf3 55. Qd5 Be4 56. Qd8+ Qxd8+ 57. Kc3 Ra2 58. Rb3 Qb8 59. Rb5 Qa8 60. Rb8+ Qxb8 61. h4 Ra7 62. Nh3 Ra6 63. Ng5 Ra8 64. Nf7+ Kxh7 65. Nh6 Qd8 66. Kb2 Qd4+ 67. Kb3 Qd7 68. Nf5 Qxf5 69. Rg1 Qxf6 70. Rh1 Qg6 71. Rg1 Ra1 72. Rf1 Ra4 73. Rc1 Ra3+ 74. Kxa3 Qg3+ 75. c3 Qxc3+ 76. Rxc3 Kg8 77. Rc2 Kg7 78. Rb2 Kf6 79. Rc2 Bxc2 80. Ka2 Ke6 81. Ka3 Ke5 82. Kb2 Kd4 83. Kxc2 Ke4 84. Kb2 Kf4 85. Ka2 Ke4 86. Ka3 Kf4 87. Ka4 Ke4 88. Ka5 Kf4 89. Ka6 Ke4 90. Ka5 Kd4 91. Kb4 Ke4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. a4 e5 2. d3 h5 3. Nd2 Nc6 4. e4 Ba3 5. Rxa3 Nf6 6. c4 Kf8 7. b4 Rg8 8. a5 a6 9. Nh3 Qe8 10. Rg1 g5 11. Nf4 gxf4 12. g4 hxg4 13. Bh3 g3 14. hxg3 Ng4 15. Nb3 Nf6 16. Bb2 Nh7 17. Bxd7 Rg5 18. Kf1 Nxb4 19. Bxe5 Bxd7 20. Bc3 Qxe4 21. Bd2 Rc8 22. d4 Bb5 23. Qc1 Bc6 24. Qb2 Rf5 25. d5 Qd3+ 26. Kg2 f3+ 27. Kh2 Qc2 28. Raa1 Rh5# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 Nc6 2. Ke2 d5 3. exd5 Nh6 4. Nh3 a5 5. Qe1 g6 6. Nc3 Nd4+ 7. Kd3 g5 8. Nf4 Ra6 9. h3 Be6 10. Nxe6 Ne2 11. Kc4 b5+ 12. Kb3 Rg8 13. Qxe2 Ng4 14. g3 Qxd5+ 15. Qc4 Nxf2 16. Ng7+ Rxg7 17. Qxd5 b4 18. Qg2 a4+ 19. Nxa4 Nd1 20. d4 Nxb2 21. Qb7 c6 22. Bxb2 e5 23. dxe5 Ra8 24. Qc7 c5 25. h4 gxh4 26. gxh4 Rc8 27. Be2 f5 28. e6 Rg3+ 29. Bf3 Ra8 30. Nxc5 Bd6 31. e7 h5 32. Qc8+ Kxe7 33. Rh2 Rg2 34. Rc1 Bxc5 35. Qf8+ Ke6 36. Rh3 Rf2 37. Qe7+ Kxe7 38. Rh2 Rb8 39. a4 Rf1 40. Bc6 Ra8 41. Bb5 Ke6 42. Re1+ Kd6 43. Rg2 Rd8 44. Rg3 Rxe1 45. Bg7 f4 46. Bc4 Rg1 47. Rh3 Rf8 48. Bf6 Re8 49. Rh1 Rxh1 50. Bb5 Rf8 51. Be7+ Kxe7 52. Kc4 f3 53. Kxc5 Ra1 54. Kc6 Rxa4 55. Kb7 Kf7 56. Bc6 Ra3 57. Bxf3 Rfa8 58. Bxh5+ Kg7 59. c3 Rf8 60. cxb4 Rc8 61. Bf7 Rh8 62. Bh5 Re8 63. b5 Re2 64. Kb6 Re1 65. Be8 Kg8 66. h5 Kh7 67. Kc6 Kg8 68. h6 Kh7 69. b6 Kg8 70. b7 Kh7 71. Kc7 Kg8 72. h7+ Kxh7 73. Kd6 Kg8 74. Kd5 Ra4 75. Kd6 Kf8 76. Kd7 Re2 77. Bg6 Kg7 78. Bd3 Ree4 79. Bc2 Reb4 80. Be4 Ra3 81. Bg6 Ra2 82. Bd3 Ra6 83. Bg6 Rh4 84. Bd3 Rah6 85. Bg6 Rh2 86. Bd3 Rg6 87. Bxg6 Rg2 88. Bd3 Rg6 89. Ke8 Rg5 90. Ke7 Rf5 91. Bxf5 Kh6 92. b8=Q Kg5 93. Qd8 Kxf5 94. Ke8 Ke6 95. Qb6+ Kd5 96. Qd4+ Kxd4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. c3 d6 2. e4 Nd7 3. Bc4 a5 4. d3 g6 5. Bb3 Ra7 6. g3 c5 7. d4 f5 8. Bd2 c4 9. Bg5 cxb3 10. Bxe7 fxe4 11. g4 Bg7 12. Bxd8 bxa2 13. Bb6 Kf7 14. f4 Ndf6 15. g5 Ng4 16. c4 Nxh2 17. Rxa2 Ke7 18. Qh5 Nf6 19. Qxh7 Rxh7 20. Nc3 Nd7 21. Nge2 Nxb6 22. Nb1 Bg4 23. Kf2 Nc8 24. Na3 Nf3 25. Kg2 Kf7 26. Kg3 b6 27. Rh2 Nxg5 28. Rh5 Bxh5 29. f5 Bxd4 30. f6 Bf2+ 31. Kxf2 Ra6 32. Kg2 Kf8 33. Kg1 Bxe2 34. Kf2 Rd7 35. Kg2 Bf1+ 36. Kh2 Bxc4 37. Nxc4 Ne7 38. fxe7+ Kg7 39. e8=N+ Kh6 40. Ng7 Ne6 41. Nf5+ Kh5 42. Ncxd6 Re7 43. Rxa5 Rxa5 44. Kg3 Rd7 45. Kh2 Rc5 46. Nf7 Rxf5 47. Kh3 Nf4+ 48. Kh2 Rd2+ 49. Kh1 Rf2 50. Nd6 g5 51. Kg1 Rf1+ 52. Kxf1 Rf8 53. Ke1 e3 54. Nb5 Rd8 55. b4 Rd5 56. Nc3 Rd4 57. Ne4 Rxe4 58. b5 Kh4 59. Kd1 Nh5 60. Ke1 Kh3 61. Ke2 Ng7 62. Kd1 Rb4 63. Kc2 e2 64. Kc1 Ne8 65. Kd2 Nd6 66. Ke1 Kg2 67. Kxe2 Re4+ 68. Kd3 Rf4 69. Ke3 Ne8 70. Kd2 Rh4 71. Kc3 Nf6 72. Kc2 g4 73. Kb2 Rh2 74. Ka2 g3 75. Ka1 Nh5 76. Kb2 Rh3 77. Ka2 Kf3 78. Ka1 Ng7 79. Kb1 Rh2 80. Ka1 Re2 81. Kb1 g2 82. Kc1 Ne8 83. Kd1 Ng7 84. Kc1 Ne8 85. Kb1 Ng7 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. d3 e5 2. e3 d5 3. g3 a5 4. Ke2 g6 5. f3 Bb4 6. Bd2 Be7 7. Nc3 Kf8 8. h4 Nf6 9. g4 c6 10. a4 Kg7 11. b3 Qc7 12. Rh3 Be6 13. Bc1 Ne8 14. Ra3 Na6 15. Rg3 Bg5 16. d4 h5 17. Rh3 Nc5 18. f4 exd4 19. Ra1 Bc8 20. Nf3 Nxb3 21. hxg5 Qe5 22. Bd2 Rh7 23. Rb1 Ra7 24. Kd3 Bf5+ 25. gxf5 gxf5 26. g6 Kxg6 27. Qe2 Ra8 28. cxb3 Kh6 29. Be1 Qe7 30. Rh1 Qf6 31. Ng5 Qg6 32. Rh2 b6 33. Ra1 c5 34. Bh4 Nf6 35. Nb5 Ra7 36. Qc2 Qg8 37. Rf2 Ra6 38. e4 dxe4+ 39. Kc4 Qc8 40. Qb2 Ne8 41. b4 Kg7 42. bxc5 Kg8 43. Ra3 Qb7 44. Qc3 Ra8 45. Qc2 bxc5 46. Ra1 Ng7 47. Qb2 Qa6 48. Nf3 Qe6+ 49. Kxc5 exf3 50. Kxd4 Rb8 51. Qd2 Re8 52. Qb2 Qb6+ 53. Kd3 Qxf2 54. Qc1 Qxf1+ 55. Qxf1 Rb8 56. Qf2 Rh6 57. Re1 Rd8+ 58. Ke3 Rf6 59. Rg1 Kf8 60. Rg5 Rg6 61. Qxf3 Re6+ 62. Qe4 Kg8 63. Rg6 fxg6 64. Qe5 Rxe5+ 65. fxe5 Kh7 66. Na3 Kg8 67. Nc4 Kh7 68. Bxd8 Kg8 69. e6 Kh7 70. Kd2 Nxe6 71. Ke3 Kh6 72. Kf2 g5 73. Bf6 f4 74. Kf3 g4+ 75. Ke4 Nc5+ 76. Kxf4 h4 77. Bd4 g3 78. Bxc5 Kg7 79. Ke4 Kf6 80. Kd5 Kg7 81. Ke5 g2 82. Ke6 Kg6 83. Bf2 h3 84. Ne3 g1=R 85. Kd5 Kf6 86. Ng4+ Kg7 87. Bxg1 Kg6 88. Ke5 Kh5 89. Ke6 Kxg4 90. Bf2 h2 91. Kd5 Kf4 92. Bd4 Kg4 93. Bb6 Kg3 94. Ke5 h1=Q 95. Bd4 Qg2 96. Ke6 Qe4+ 97. Be5+ Qxe5+ 98. Kf7 Qe4 99. Kf6 Qe5+ 100. Kxe5 Kg4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. h3 Nf6 2. c4 c5 3. Nf3 a5 4. Qc2 d5 5. g3 a4 6. e3 Qb6 7. g4 Bxg4 8. Qg6 Bf5 9. Qh5 Qb5 10. Qxh7 Bxh3 11. cxd5 Nc6 12. Bg2 Nxd5 13. Qe4 Nb6 14. Nc3 Nc4 15. d4 N4e5 16. Rxh3 Rxh3 17. Ne2 Qxb2 18. Bd2 Nxf3+ 19. Kf1 g6 20. Qe5 Nb4 21. Qf5 Bh6 22. Qf4 g5 23. Bxb4 Kd7 24. Qxf3 Qxd4 25. Re1 b6 26. Qc6+ Kd8 27. Nc3 Qxc3 28. Ba3 Ra5 29. Rb1 Rh2 30. Qd5+ Ke8 31. Qb3 Rxg2 32. Qc4 Ra6 33. Bb2 Rxf2+ 34. Kxf2 Qd4 35. Bxd4 Bf8 36. Qb3 axb3 37. axb3 cxd4 38. exd4 Ra4 39. Kg2 Ra3 40. Kf3 e6 41. Ra1 Rxa1 42. Ke3 Bd6 43. b4 Kd7 44. Ke4 Ke8 45. b5 e5 46. dxe5 Re1+ 47. Kd4 Rc1 48. e6 Bg3 49. e7 Rc5 50. Ke4 Rc2 51. Kd5 f6 52. Ke6 f5 53. Kxf5 Kxe7 54. Kxg5 Kd7 55. Kf5 Be5 56. Kxe5 Kc7 57. Kd5 Kd8 58. Ke5 Kc7 59. Kf5 Rh2 60. Ke5 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 g6 2. b3 c6 3. g4 e5 4. Qf3 g5 5. Na3 Ne7 6. h3 Bh6 7. Qe2 Nf5 8. Qe3 Ke7 9. Qe2 Nd4 10. Nc4 Bg7 11. Qe3 Rg8 12. a3 Qf8 13. Rb1 Nf5 14. Be2 Nd4 15. Bd3 f6 16. Qe2 Nxe2 17. Kf1 d5 18. Nxe5 c5 19. Ra1 dxe4 20. Nxe2 Bxg4 21. Bb2 Bxe2+ 22. Kxe2 Nc6 23. Nxc6+ bxc6 24. Rhg1 Kd6 25. Rh1 exd3+ 26. Kxd3 Kd7 27. Ke4 Qe8+ 28. Kd3 Qe1 29. Rb1 Rab8 30. Kc4 Qe7 31. a4 Kd6 32. Ra1 Rgf8 33. f4 gxf4 34. d4 Rfc8 35. c3 Qe6+ 36. Kd3 Qg8 37. Bc1 f5 38. Rb1 Qe6 39. Bd2 h5 40. d5 Qe4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. h3 Nf6 2. b3 g5 3. Na3 a5 4. Rh2 c5 5. c4 Ra7 6. g3 Nd5 7. e3 d6 8. Nb5 f6 9. a4 Bd7 10. Qh5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. c4 h6 2. Qa4 a6 3. f3 b5 4. e4 Ra7 5. Na3 Nf6 6. Qxb5 Nh7 7. Ne2 Rb7 8. Qxb7 f6 9. Kd1 Bxb7 10. f4 Bc6 11. h3 e5 12. Nb1 g6 13. Na3 d5 14. exd5 Ke7 15. Rh2 Bb5 16. Nc2 Kd7 17. g4 Nc6 18. d3 Ne7 19. Bd2 h5 20. b4 Qc8 21. a3 Ke8 22. d4 Qf5 23. Ra2 h4 24. Ng3 c6 25. Rh1 Kd7 26. Ne1 Qe4 27. Rg1 Qxf4 28. d6 c5 29. Be2 Qxg3 30. Bf4 cxd4 31. cxb5 g5 32. Bxg3 Kxd6 33. bxa6 Kd5 34. Bb5 Nc8 35. Bf1 Kd6 36. Rd2 Kd7 37. Rh1 d3 38. Rb2 e4 39. Bc7 Bc5 40. Rg1 Bf2 41. Rh1 Nf8 42. Be5 Rg8 43. Be2 Bg1 44. Bf1 Ke8 45. Rxg1 e3 46. Rd2 Kd7 47. Rxd3+ Ke7 48. Ng2 Kf7 49. Bb2 Ng6 50. Ke2 Ne5 51. Bxe5 f5 52. Rd5 Kg6 53. Bf4 gxf4 54. Rd6+ Kg5 55. Rh1 f3+ 56. Kxe3 Nxd6 57. Nxh4 Ne8 58. Ng2 Nc7 59. a7 Nd5+ 60. Kxf3 Nf4 61. Kg3 Nd3 62. Rh2 Ne5 63. gxf5 Nc4 64. Kf3 Kh5 65. a4 Nb6 66. Rh1 Nd7 67. Ba6 Rh8 68. Rf1 Nb8 69. a8=Q Nd7 70. Re1 Ne5+ 71. Kg3 Nf7 72. Rf1 Rh6 73. Qd8 Nxd8 74. Rf4 Kg5 75. Re4 Kh5 76. a5 Nf7 77. Rc4 Re6 78. Kf3 Re7 79. Rc1 Nd8 80. Rd1 Rd7 81. Re1 Re7 82. h4 Rg7 83. b5 Re7 84. Re6 Rf7 85. Rc6 Re7 86. Nf4+ Kxh4 87. b6 Rf7 88. b7 Rxf5 89. Rc7 Rd5 90. Ng6+ Kh3 91. Rc8 Nxb7 92. Nf4+ Kh4 93. Ng6+ Kh3 94. Nf4+ Kh2 95. Ng6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 Nh6 2. d3 b6 3. Nd2 Ba6 4. f3 Nf5 5. Nb3 Bb7 6. h4 Bc8 7. h5 Ba6 8. c4 Ne3 9. Be2 Nc6 10. g4 d6 11. Kf2 Ng2 12. Kxg2 Rb8 13. g5 e6 14. Kh3 Qf6 15. gxf6 Rg8 16. Bd2 Kd7 17. Ba5 e5 18. a4 Re8 19. Kg3 g6 20. Qc1 Nxa5 21. Rh2 b5 22. Bf1 d5 23. axb5 dxc4 24. Qc3 Rc8 25. Qxc4 Be7 26. Bh3+ Ke8 27. Qb4 Bxb5 28. Rxa5 Ba6 29. Qd4 exd4 30. f4 Bxf6 31. Ra3 Be5 32. Rg2 Ra8 33. Kh4 Bxf4 34. Nf3 gxh5 35. Nfd2 Rg3 36. Rxg3 f6 37. Be6 Bxg3+ 38. Kxg3 Rb8 39. Rxa6 Rb5 40. Nc5 Ke7 41. Kh4 c6 42. Ra5 Rb6 43. Bg4 hxg4 44. b4 Kd6 45. Ra3 h6 46. Ncb3 Kd7 47. Nc5+ Kc8 48. Kxg4 Kb8 49. Kf5 a6 50. Ra1 a5 51. bxa5 Rb2 52. e5 fxe5 53. a6 Ka8 54. Nf3 Kb8 55. Nxe5 Ka7 56. Rh1 Rc2 57. Nb3 Kxa6 58. Nd7 Ka7 59. Nf8 Ka6 60. Kg6 Rf2 61. Rg1 Rf1 62. Rg3 Kb7 63. Rf3 Rc1 64. Kf6 Rb1 65. Rh3 Rxb3 66. Re3 Kc8 67. Re4 c5 68. Ke7 Kb7 69. Kd7 Rxd3 70. Ke6 c4 71. Re1 Rd2 72. Rf1 Kc7 73. Rf6 Rf2 74. Kf7 Rf1 75. Ng6 Rc1 76. Kg7 d3 77. Nf4 Kd7 78. Ng6 Ke8 79. Rf3 Kd8 80. Rxd3+ Kc7 81. Rd8 Kb7 82. Rg8 Kc7 83. Rb8 Kxb8 84. Kf7 c3 85. Nh4 Rb1 86. Ng2 Ka7 87. Nf4 c2 88. Ng6 c1=Q 89. Nh8 Qb2 90. Kf8 Ka6 91. Ke7 Ka5 92. Ke8 Ka4 93. Kd8 Ka3 94. Kc8 Qa2 95. Kd8 Rb3 96. Kc8 Qb2 97. Kd7 Rc3 98. Kd8 Rf3 99. Kc8 Qa2 100. Kb8 Ka4 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. c4 Nh6 2. b4 g6 3. b5 d5 4. b6 Ng8 5. cxd5 f6 6. a4 g5 7. e4 cxb6 8. f4 Kd7 9. Bb2 Kc7 10. Ba6 e5 11. h3 bxa6 12. Qc1+ Bc5 13. Nf3 g4 14. Nh4 Qd7 15. Ra3 g3 16. Rxg3 f5 17. Qxc5+ Kb7 18. Qxb6+ Kxb6 19. Rd3 Qe8 20. Nc3 Bd7 21. Ba1 Kc7 22. Ne2 h5 23. Bxe5+ Qxe5 24. Rf1 Qd4 25. Nc3 Qxe4+ 26. Nxe4 Bc6 27. Ng5 Kd6 28. g3 Nd7 29. Rff3 Rb8 30. Ng2 Rb3 31. Kd1 Rb4 32. Rde3 Bb5 33. Re8 Rh6 34. Ne3 Nf8 35. Re7 Rf6 36. Rxa7 Ng6 37. a5 Rd4 38. Rf7 Re4 39. Kc1 h4 40. Kb2 hxg3 41. Ra7 Be2 42. Rc7 Bb5 43. Rc5 Kxc5 44. Rxg3 Rxe3 45. Rxe3 Kxd5 46. Ne6 Kc6 47. Rc3+ Bc4 48. Kc2 N6e7 49. Nf8 Kc5 50. Kb2 Kd6 51. Kc2 Kd5 52. Kc1 Rh6 53. Kb1 Ba2+ 54. Kxa2 Re6 55. Rc2 Rh6 56. Rb2 Rg6 57. Rb1 Rh6 58. Ra1 Re6 59. Rd1 Rh6 60. Kb1 Rxh3 61. Ka1 Ke4 62. d4 Rh2 63. d5 Rh3 64. d6 Rh2 65. Nh7 Nd5 66. Rh1 Nxf4 67. Rg1 Ke3 68. Rh1 Ne7 69. Rxh2 Neg6 70. Kb1 Kd3 71. Ka1 Ne7 72. Ka2 Nc8 73. Nf8 Ne2 74. Ka3 f4 75. Ka4 f3 76. Rh1 Nf4 77. Rf1 Ne2 78. d7 Ng1 79. d8=Q+ Kc4 80. Rc1# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. a3 Na6 2. d3 e5 3. Nd2 Bb4 4. c3 d5 5. f3 f6 6. cxb4 Qe7 7. Ne4 Qd6 8. Qd2 g5 9. g4 Qe7 10. Nc5 Qd6 11. h4 h5 12. b5 Qb6 13. b4 Rb8 14. a4 Bd7 15. Nxd7 Qxb5 16. Nh3 d4 17. Qd1 Rh7 18. Rb1 Qxa4 19. Nb6 Qa2 20. Rg1 Kf8 21. Nc4 Re8 22. Rh1 Ree7 23. Qa4 Qa3 24. Qb5 f5 25. Qxa6 c6 26. Kd2 Rd7 27. Ne3 Qa2+ 28. Kd1 Rdg7 29. Qxb7 Qc2+ 30. Kxc2 hxg4 31. Nd1 gxh4 32. Qb8+ Ke7 33. fxg4 Rh5 34. Kd2 Nf6 35. gxf5 Rgg5 36. Nxg5 c5 37. Ra1 cxb4 38. Nf7 Nd5 39. Qd6+ Ke8 40. Nh6 e4 41. dxe4 Nb6 42. Qf8+ Kxf8 43. Rb1 Ke7 44. Rh2 Rxf5 45. Nxf5+ Ke8 46. e5 Kf8 47. e6 Nd5 48. Ne7 Kxe7 49. Bh3 d3 50. exd3 Nb6 51. d4 a5 52. Nb2 Kf6 53. Kd1 Nc8 54. Be3 Ke7 55. Ra1 Kd6 56. Rb1 Ke7 57. Ra1 Kd6 58. Rb1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Nh3 b6 2. c3 g5 3. Na3 a5 4. Nc4 Ba6 5. b4 Nf6 6. Na3 axb4 7. cxb4 Bg7 8. e4 h6 9. Rg1 Rh7 10. Bd3 h5 11. Nf4 gxf4 12. Qa4 Qc8 13. Qb3 Nd5 14. exd5 f5 15. Bb1 Qb7 16. Kd1 e5 17. Qb2 h4 18. g3 b5 19. d3 Bf8 20. Kc2 fxg3 21. hxg3 Qc8 22. Qb3 c6 23. Bb2 Qc7 24. Kc3 e4 25. Kd2 f4 26. Rg2 Ke7 27. g4 f3 28. Qc4 Qa5 29. Qb3 Kd8 30. Bc1 Be7 31. Bb2 fxg2 32. bxa5 Rf7 33. Kc3 d6 34. Kc2 cxd5 35. Bd4 Nd7 36. Kb2 Ra7 37. Bb6+ Ke8 38. dxe4 Rf5 39. exf5 Kf7 40. Nxb5 Rb7 41. a4 Kg7 42. Qc2 Bf6+ 43. Bd4 Rb8 44. Qe2 Rc8 45. Qe3 Rh8 46. f4 Nf8 47. Qg1 h3 48. Ra3 Bc8 49. Bd3 Bd7 50. Kc2 Rg8 51. Qf2 Be6 52. Nxd6 Kh8 53. Qd2 Bg7 54. Qf2 Bxd4 55. Qxd4+ Kh7 56. f6+ Rg6 57. Qa1 Kg8 58. Rc3 Kh7 59. Kb1 Kg8 60. Bxg6 Nxg6 61. Rc7 Nf8 62. Ra7 d4 63. Kb2 Bxg4 64. Ka2 Be2 65. Rc7 g1=N 66. Rc8 Kh7 67. Qb1+ Bd3 68. Qa1 h2 69. Qb2 Bb1+ 70. Qxb1+ Ng6 71. f5 Nf4 72. Ka3 h1=Q 73. Nb5 d3 74. Qa2 Qe4 75. Nc3 Qxa4+ 76. Kb2 Qxa2+ 77. Kxa2 Nh5 78. a6 Nxf6 79. Ne2 dxe2 80. a7 Nf3 81. a8=Q Nd7 82. Rb8 Nxb8 83. f6 Nh2 84. Qa5 Kg6 85. Qa6 Nc6 86. Qa5 Nd8 87. Qa6 Nc6 88. Qa5 Nd8 89. Qa6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. b3 h5 2. Bb2 g6 3. a3 g5 4. b4 Na6 5. Be5 f5 6. Bd6 Bh6 7. d4 cxd6 8. g4 Qb6 9. f3 Qc6 10. c4 e5 11. e4 Nb8 12. Be2 h4 13. Qa4 Qb5 14. Qxb5 Rh7 15. Kd2 Kd8 16. Kd3 Re7 17. Nd2 b6 18. Nh3 f4 19. Qc6 Na6 20. c5 dxc5 21. Ra2 exd4 22. Qe6 dxe6 23. Nf1 b5 24. Nxg5 Bb7 25. Nh7 Kc7 26. Rd2 e5 27. bxc5 Bg7 28. Rb2 Nxc5+ 29. Kd2 Bh8 30. Rc2 Rg7 31. Bc4 Bc6 32. Nf8 Nd7 33. Bb3 Rg5 34. a4 Nh6 35. axb5 Nxg4 36. Bf7 Rxf8 37. bxc6 Ne3 38. Rb2 Ng2 39. Rc2 Rg3 40. Rc3 Rgg8 41. Rc1 Rg4 42. Rb1 Rg3 43. Be6 Rxf3 44. Kc2 h3 45. Bxd7 d3+ 46. Kc1 Ra8 47. Rb4 Rb8 48. Rb7+ Rxb7 49. Be6 Rb8 50. Bf7 Bg7 51. Nd2 Rg3 52. Bb3 Ra8 53. hxg3 f3 54. Bf7 Ne3 55. Bb3 Nc2 56. Bf7 Nd4 57. Kd1 Ne6 58. Bg6 Re8 59. Rf1 Rd8 60. Bf5 Rb8 61. Re1 Nd8 62. Rf1 Rc8 63. Re1 a6 64. Nb1 Bh6 65. Bg6 Nxc6 66. Nc3 Nd8 67. Re2 Kb6 68. Na2 Bg7 69. Rf2 Nc6 70. g4 Na7 71. Rxf3 h2 72. Rxd3 h1=Q+ 73. Kd2 Nb5 74. Bf7 Rc6 75. Rd4 Rc2+ 76. Ke3 Qh3# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. f4 f6 2. d3 Kf7 3. Nf3 h6 4. Kf2 e6 5. Kg3 c5 6. Kg4 a6 7. h4 Qe7 8. Ne1 d6 9. Kh3 Ke8 10. Bd2 Qf7 11. d4 Be7 12. Qc1 Nc6 13. g3 Rb8 14. a4 Bd7 15. g4 Qg6 16. Kg3 Qxc2 17. b4 Ne5 18. Rh2 Bc8 19. Na3 Bf8 20. Be3 Rh7 21. Qd2 Be7 22. Nc4 Qxd2 23. Nxe5 dxe5 24. Bxd2 b6 25. dxc5 Kf7 26. Bc3 Rh8 27. Rb1 bxc5 28. b5 Rxb5 29. Rh1 Bd6 30. axb5 e4 31. h5 Bd7 32. Nd3 axb5 33. Kh4 Bf8 34. Ne1 c4 35. Bg2 Be7 36. Bxe4 f5+ 37. Kg3 Be8 38. Bxg7 Bh4+ 39. Kg2 Nf6 40. Bd5 Rg8 41. Nd3 Rxg7 42. Bxe6+ Kf8 43. Bd5 Rg6 44. Ne1 Bg3 45. Rxb5 Bd7 46. Bxc4 Rg5 47. Nf3 Rxh5 48. Rd5 Bxf4 49. Re5 Nxg4 50. Rg1 Rh2+ 51. Nxh2 Nxh2 52. Rf1 Be6 53. Bxe6 Bxe5 54. Kh1 Nf3 55. Rg1 Nh2 56. Rc1 Ba1 57. Ba2 Ng4 58. Rb1 Ke8 59. Kg1 Nf6 60. Kh1 Kf8 61. Rxa1 Ke8 62. Kg1 Nd7 63. Kh2 Ke7 64. Bb1 Ke8 65. Bxf5 Ke7 66. Bh7 Kf7 67. Bg6+ Ke7 68. Be4 Kf7 69. Bd5+ Kg7 70. Bb3 Nc5 71. Bc4 Kg6 72. Bb3 Na4 73. Kg1 Kh5 74. Kf1 Kg6 75. Ke1 Kh5 76. Kf2 Kg6 77. Kf3 Kh5 78. Kg3 Nb2 79. Kf3 Kg6 80. Ra7 Kh5 81. Ba4 Kg6 82. Bb5 Kh5 83. Ra6 Kg5 84. Ra7 Kg6 85. Ra6+ Kh5 86. Ra7 Kg6 87. Ra6+ Kh5 88. Ra7 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. c4 Nf6 2. a4 e6 3. Nc3 d5 4. c5 Na6 5. a5 Ke7 6. Na4 g5 7. Rb1 Qe8 8. Nf3 Bd7 9. Qc2 h6 10. Qf5 b5 11. c6 bxa4 12. Rg1 Bc8 13. Qxd5 g4 14. Qd7+ Nxd7 15. b4 Ne5 16. Nxe5 f6 17. Nd7 a3 18. Nb6 Kf7 19. e4 Kg8 20. e5 Kh7 21. Rb3 a2 22. d4 Be7 23. Bd3+ Kg8 24. Nc4 Bd7 25. Bf5 h5 26. d5 Nc5 27. Ra3 Qb8 28. cxd7 a6 29. Nd2 Bd6 30. Bh7+ Kf8 31. b5 Bxe5 32. Rxa2 exd5 33. Nb3 g3 34. Bd2 gxh2 35. Rh1 Na4 36. Kf1 h4 37. Bf4 Qd8 38. Rg1 Bd4 39. Rh1 Nb2 40. Rxb2 Rb8 41. Bc2 axb5 42. Ke2 Bb6 43. axb6 Rxb6 44. Kf3 Rg8 45. Rd1 Kg7 46. Bg6 Rh8 47. Bxc7 Qxc7 48. Rbb1 f5 49. Rd3 f4 50. Rxd5 Qc3+ 51. Ke2 Qe1+ 52. Kf3 Rg8 53. Be4 Kf8 54. Rh5 Qxb1 55. Rh7 h1=Q 56. d8=Q# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. f3 Nh6 2. h4 Ng8 3. Nh3 h5 4. Ng5 Rh7 5. Ne4 Nh6 6. Rg1 Nf5 7. c4 b6 8. g3 Bb7 9. Nf2 Ne3 10. Nc3 Nxf1 11. b3 a5 12. Kxf1 g5 13. b4 Na6 14. f4 e6 15. Rb1 axb4 16. Rh1 Ke7 17. g4 Nb8 18. Nd3 Bg7 19. Rb3 gxh4 20. Ke1 Ke8 21. Nb5 Bh6 22. Kf2 Na6 23. g5 c6 24. Rf1 Kf8 25. Na3 bxa3 26. g6 fxg6 27. Kg1 Ra7 28. e4 Nb8 29. Kg2 Na6 30. Rb2 Nb8 31. Rg1 b5 32. Rb3 Rf7 33. c5 Rf6 34. Bxa3 Qb6 35. Rc3 Rxa3 36. Ne1 d6 37. cxb6 Ra5 38. Nd3 Bc8 39. Qc2 Rxa2 40. e5 Ra1 41. exf6 Bd7 42. Rh1 c5 43. f7 d5 44. Rg1 g5 45. Ne1 gxf4 46. Kf3 Ra7 47. bxa7 Nc6 48. Ng2 Bg7 49. Ne3 c4 50. Qa2 fxe3 51. Rxc4 dxc4 52. dxe3 e5 53. Rxg7 Nd4+ 54. Kg2 Kxg7 55. Qb2 b4 56. Qc1 Bf5 57. Kg1 Ne6 58. a8=Q Bc2 59. Qd5 Kh8 60. e4 Nf8 61. Qxe5+ Kh7 62. Qf5+ Kh8 63. e5 b3 64. e6 Kg7 65. e7 Ng6 66. Qf6+ Kxf6 67. Qb2+ Kxf7 68. Kg2 Kxe7 69. Qc1 Kf7 70. Kh3 Ke7 71. Kh2 Kd7 72. Kg2 Kc6 73. Kh3 Kb7 74. Qd2 Ka6 75. Qf4 Ka7 76. Qf3 Nf8 77. Qg3 Kb7 78. Qxh4 Ka6 79. Qxh5 Ka7 80. Kg3 Nd7 81. Qd5 Bd3 82. Kf3 Ne5+ 83. Ke3 Ka6 84. Qxe5 Bf1 85. Kd4 b2 86. Qe4 Ka7 87. Kc3 Ka6 88. Qd5 Ka7 89. Kd2 Be2 90. Qe5 Bg4 91. Qc3 Ka6 92. Qc2 Ka7 93. Qb1 Ka8 94. Ke1 c3 95. Qa2+ Kb7 96. Qa3 Kc8 97. Qa2 Kb8 98. Kf2 b1=Q 99. Qa3 Qa2+ 100. Kf1 Qb2 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nf3 Nc6 2. Na3 b5 3. c3 g6 4. Ng1 a5 5. Nf3 d5 6. d4 Bh3 7. g3 e5 8. Nh4 Ra6 9. dxe5 Bb4 10. cxb4 h5 11. Qxd5 Rb6 12. Kd1 axb4 13. Bxh3 Qg5 14. Bd2 Nf6 15. Nb1 Rf8 16. exf6 Qe5 17. Be1 Qxg3 18. Qd2 Qg4 19. f3 Qxh4 20. Qd3 Qg5 21. Qd7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. d3 a5 2. Nd2 c5 3. Nc4 e5 4. e4 b6 5. Na3 Ra6 6. Bf4 h6 7. Be3 g5 8. c4 Be7 9. Bc1 g4 10. b4 Bd6 11. Bb2 Bb7 12. f4 Bc8 13. Be2 b5 14. Rc1 axb4 15. Kf2 Nc6 16. Bxe5 Qb6 17. Nxb5 Kf8 18. Nxd6 Nd8 19. f5 Qa7 20. f6 Ra3 21. Kf1 Rxd3 22. Qxd3 Qa4 23. Bd1 Qa3 24. Qe2 Qc3 25. Nxf7 Rh7 26. Nxh6 Nxf6 27. Bxc3 g3 28. Bb2 gxh2 29. Nf3 Rxh6 30. e5 Rg6 31. e6 Nb7 32. Qe1 Kg8 33. exd7 Kh7 34. Bxf6 Bxd7 35. Qe2 Bc6 36. Bh8 Kg8 37. g3 Rxg3 38. Qd3 Rg6 39. Nxh2 Rg3 40. Qd2 Rg6 41. Bb3 Rh6 42. Qf2 Rg6 43. Qf7+ Kxh8 44. Qxg6 Be4 45. Qxe4 Kg7 46. Rb1 Kf8 47. Qe5 Kf7 48. Ke1 Kf8 49. Qg3 Ke7 50. Ng4 Ke6 51. Qh3 Kd6 52. Nf6 Kc6 53. Nh7 Kc7 54. Qe6 Kb8 55. Rh6 Na5 56. Kf2 Nc6 57. Rh5 Ka8 58. Kf1 Nd8 59. Kg2 Kb8 60. Qe7 Ka8 61. Kh1 Kb8 62. Kg1 Ka8 63. Qf8 Kb7 64. Kf1 Kc7 65. Ke1 Kb7 66. Kf1 Kc7 67. Ke1 Kd7 68. Kf1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. h4 g5 2. Nh3 Nc6 3. Na3 g4 4. Nb1 Na5 5. Ng5 h5 6. Ne4 d6 7. c4 b6 8. Nec3 Qd7 9. e4 b5 10. c5 Rh6 11. Na3 Re6 12. Qc2 a6 13. b3 Qd8 14. Kd1 Bd7 15. d4 Bc6 16. Bg5 Rb8 17. Bc4 b4 18. Rb1 dxc5 19. Bf1 cxd4 20. Bxe7 Bxe7 21. Bxa6 Ra8 22. Nc4 Bf8 23. Ke1 Ra7 24. Ne2 f6 25. a3 Ba8 26. Rd1 Raxa6 27. Qb2 Nxc4 28. Qa2 bxa3 29. bxc4 d3 30. Qa1 dxe2 31. Rxd8+ Kf7 32. Qa2 Ra5 33. Kxe2 Ra4 34. Rg1 Bb4 35. Qa1 Ke7 36. Qb1 Bc6 37. Rc8 Bxe4 38. Qd1 a2 39. Qa1 Kd6 40. Qxa2 c5 41. Rxg8 f5 42. Rg7 Ra3 43. Qd2+ Rd3 44. Qxd3+ Ke5 45. Ke3 Bd5 46. Qxd5+ Kf6+ 47. Kf4 Re5 48. Qf7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 a5 4. e5 Ne4 5. h3 Ba3 6. b3 Kf8 7. Nxe4 b6 8. Bb2 Bc5 9. Nf3 Nc6 10. b4 h6 11. Nh2 f6 12. a3 Na7 13. Qe2 Ke7 14. g4 Bd6 15. Nc5 g6 16. Na6 Bc5 17. Qe4 Kf7 18. bxa5 Kg7 19. O-O-O h5 20. Nxc7 h4 21. Qxg6+ Kxg6 22. Na6 Qc7 23. f3 Bb7 24. Bc3 Rh6 25. Be2 f5 26. axb6 Rc8 27. bxa7 Bxa6 28. g5 Kh5 29. Ng4 Bxa3+ 30. Bb2 Bf8 31. Nf2 Qxc4+ 32. Kb1 Qb3 33. d3 Bxd3+ 34. Ka1 Ra8 35. gxh6 Rxa7+ 36. Ba3 Kg6 37. h7 Bxe2 38. h8=R Rxa3# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. g4 f6 2. Bg2 a5 3. Be4 d6 4. Bf5 Bxf5 5. c3 Bg6 6. g5 Kf7 7. Qc2 fxg5 8. Qd1 e5 9. Na3 Bh5 10. Nc4 Qc8 11. Nxa5 Bf3 12. Nxf3 Kg6 13. O-O Kf7 14. Rb1 Ne7 15. Kg2 Qg4+ 16. Kh1 Nbc6 17. Re1 h5 18. Nxg5+ Kg6 19. Qc2+ Nf5 20. Rf1 Ra6 21. Rg1 Qc4 22. b3 Ne7 23. a3 Qf4 24. Nc4 Rc6 25. e4 Ng3+ 26. Rxg3 b6 27. Nxe5+ Qxe5 28. Qd3 Qe6 29. a4 Nc8 30. Rh3 Be7 31. Qc2 Bxg5 32. Rxh5 Qe7 33. Rh7 Rxc3 34. Bb2 c5 35. Re1 Kf7 36. d3 Re8 37. Bxc3 Ke6 38. Re2 Qf7 39. Rxg7 Qxg7 40. Qb2 Qe7 41. Be5 dxe5 42. f4 Bxf4 43. Qc2 Kd6 44. Qb1 Qg5 45. Rc2 Bg3 46. hxg3 Qh4+ 47. gxh4 Na7 48. h5 Rf8 49. Rf2 Kc6 50. Rb2 b5 51. axb5+ Kxb5 52. h6 Ka6 53. Kg2 Rc8 54. h7 Nb5 55. b4 Kb7 56. h8=Q Rxh8 57. bxc5 Re8 58. c6+ Kc8 59. Kh3 Nd4 60. Rb5 Rh8+ 61. Kg4 Rf8 62. Kh3 Rf3+ 63. Kg4 Nxc6 64. Rb6 Na5 65. Qb4 Nc4 66. dxc4 Kc7 67. Rg6 Rf1 68. Qb3 Rf2 69. Rf6 Rf1 70. Rxf1 Kc6 71. Qf3 Kc5 72. Kf5 Kd4 73. Qg3 Kc5 74. Qh4 Kd4 75. Re1 Kd3 76. Qg3+ Kd2 77. Rf1 Ke2 78. Rc1 Kd2 79. Re1 Kc2 80. Rf1 Kd2 81. Kg6 Ke2 82. Kf7 Kxf1 83. Qf3+ Ke1 84. Qg3+ Kd1 85. Qf3+ Kc1 86. Qg3 Kb2 87. Qxe5+ Kc1 88. c5 Kb1 89. Qf5 Kc1 90. Kg6 Kb1 91. e5+ Ka1 92. Kf7 Kb2 93. Kg6 Ka1 94. e6 Kb2 95. Kg7 Kc1 96. e7 Kb2 97. Qf6+ Ka2 98. c6 Ka3 99. c7 Ka2 100. Kg6 Kb1 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Nh3 Nf6 2. d4 b5 3. Nc3 Ng4 4. b4 d6 5. Nd5 e5 6. g3 Qf6 7. Ng5 Nxh2 8. f4 Qf5 9. e3 Ng4 10. Qf3 Qxc2 11. Bd2 Qxa2 12. Nxf7 a5 13. Bg2 exd4 14. Nc3 Qxf7 15. O-O-O c6 16. Nd5 Qd7 17. bxa5 g5 18. Nb6 Qg7 19. Kb1 Bd7 20. Qf2 Nxe3 21. a6 Bc8 22. a7 h5 23. Nc4 Bd7 24. Rdg1 h4 25. Nxd6+ Bxd6 26. Re1 c5 27. gxh4 gxf4 28. Bxa8 Bf5+ 29. Ka1 d3+ 30. Bc3 Qf8 31. Rhg1 Ke7 32. Qg2 Nc6 33. Qf3 d2 34. Rd1 Kd7 35. Bb2 Be4 36. Rxd2 Kd8 37. Rh2 Bd5 38. Qh3 c4 39. Bc3 Nf1 40. Kb2 f3 41. Rgh1 Kc7 42. Kc1 Rg8 43. Bb2 Qf4+ 44. Rd2 c3 45. Bxc3 f2 46. Qe6 Rh8 47. Qxd5 Qh2 48. Re2 Qg2 49. Rxf2 Rc8 50. Qd2 Rb8 51. Qxd6+ Kc8 52. Qf6 Nd8 53. Qg7 Qg6 54. h5 Qxg7 55. Rfxf1 Rxa8 56. Rf2 Kb7 57. Kd2 b4 58. Bxb4 Qf6 59. Be7 Qxe7 60. h6 Qf7 61. Kd3 Kc6 62. Rxf7 Ne6 63. Ke2 Rxa7 64. Kf2 Ra4 65. Kg2 Ra3 66. Ra1 Ra2+ 67. Rxa2 Nd8 68. h7 Kb5 69. Rf1 Kb4 70. Rb2+ Kc3 71. Rc1+ Kxb2 72. Re1 Kc2 73. Re6 Nb7 74. Rd6 Nxd6 75. h8=Q Nb5 76. Qb8 Nd4 77. Kg1 Nb5 78. Qd8 Nd4 79. Qc8+ Kb3 80. Qd7 Kb4 81. Qxd4+ Kb5 82. Qe4 Kb6 83. Qd5 Ka6 84. Qc5 Kb7 85. Qd5+ Ka7 86. Qe5 Kb7 87. Qb8+ Ka6 88. Qc8+ Ka7 89. Qb7+ Kxb7 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. b4 a6 2. Nc3 Nf6 3. Nh3 a5 4. f4 axb4 5. a3 bxa3 6. g4 e6 7. Ng5 a2 8. Nxf7 Ra7 9. d4 Kxf7 10. e3 Be7 11. Bd2 h5 12. Bg2 c6 13. h4 d6 14. Kf2 Nxg4+ 15. Kg3 Nxe3 16. Bf3 Kg8 17. Rg1 Ng4 18. Bxg4 Ra5 19. Rb1 Rf5 20. Bxh5 e5 21. Bf7+ Kh7 22. Kf3 Rf6 23. Rh1 d5 24. Qe1 Rd6 25. Ne4 Qa5 26. f5 Re6 27. Nc3 Re8 28. Qd1 Qa3 29. Ra1 exd4 30. Bg6+ Rxg6 31. Qe1 Kg8 32. Qf1 Rf6 33. h5 Bd7 34. Qg2 dxc3 35. Be1 Bc5 36. Qg4 Kf7 37. Qg5 Qb2 38. Rxa2 Rh8 39. Qc1 Qxc1 40. Rf1 Na6 41. Kg2 Bb6 42. Bf2 Rh7 43. Rxc1 d4 44. Rh1 Ba7 45. Rf1 b6 46. Kg1 Rxh5 47. Ra3 Ke7 48. Ra4 Rfh6 49. Be1 Bxf5 50. Bf2 Nc5 51. Rxa7+ Ke6 52. Rc7 Rh2 53. Rxc6+ Ke7 54. Bg3 Rg2+ 55. Kxg2 d3 56. Bc7 Re6 57. Rxe6+ Bxe6 58. cxd3 Kd7 59. Rf8 Kc6 60. Rd8 Bd5+ 61. Kh3 Bc4 62. dxc4 c2 63. Kg3 c1=Q 64. Kh4 Qd2 65. Bxb6 Kxb6 66. Ra8 Kc6 67. Kg3 Qe3+ 68. Kh2 Qb3 69. Kh1 Kc7 70. Kh2 Kc6 71. Kh1 Qa3 72. Ra5 Kd6 73. Ra7 Ke6 74. Rc7 Ke5 75. Ra7 Kf4 76. Rb7 Nd3 77. c5 Nxc5 78. Rc7 g5 79. Ra7 Qa2 80. Rb7 Ke5 81. Kg1 Kd4 82. Ra7 g4 83. Kh1 g3 84. Kg1 Kd3 85. Kf1 Kc2 86. Kg2 Kd3+ 87. Kxg3 Kc2 88. Kh4 Kc1 89. Rb7 Kd2 90. Rf7 Qc4+ 91. Kh5 Qb3 92. Rf1 Qb2 93. Rf4 Ne6 94. Rb4 Nd8 95. Rb8 Qc2 96. Rxd8+ Ke1 97. Rc8 Qxc8 98. Kg6 Ke2 99. Kf7 Qd7+ 100. Kg6 Qf5+ 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. c3 Nc6 2. g4 f6 3. a4 g5 4. d3 a5 5. Bd2 b6 6. h3 h6 7. Bg2 Ra6 8. Bf1 Rh7 9. Qb3 e5 10. e4 Qe7 11. Qe6 Qxe6 12. Bg2 Nb8 13. Na3 Qd5 14. Ke2 b5 15. axb5 Bc5 16. Rb1 Ba7 17. b6 cxb6 18. Kf1 Qb7 19. Rd1 d5 20. Bxg5 f5 21. gxf5 Qg7 22. Nf3 dxe4 23. Ke1 hxg5 24. dxe4 g4 25. Kd2 gxh3 26. Bxh3 Bb7 27. Nc4 Kd7 28. Ke1+ Kc6 29. Nfxe5+ Kb5 30. Kf1 Ne7 31. Ne3 Nd7 32. Nxd7 Qg6 33. fxg6 Rh8 34. Ke1 Rg8 35. Nxb6 Rxb6 36. Bf1+ Ka4 37. e5 Nc6 38. Bg2 Rg7 39. Bxc6+ Bxc6 40. c4 Ra6 41. Rd4 Bg2 42. b4 axb4 43. Rg1 Bf3 44. Rh4 Rgxg6 45. Nd1 Rh6 46. Rf4 Rag6 47. e6 Rg2 48. Rxg2 Bc5 49. e7 Ba8 50. Rfg4 Bd4 51. Kf1 Re6 52. c5 Rh6 53. Rf4 Bg7 54. Rg1 Re6 55. Rxg7 Rxe7 56. Rc4 Rxg7 57. f4 Rg5 58. fxg5 Kb5 59. g6 Kxc4 60. Nc3 bxc3 61. Ke2 c2 62. Kd2 Kb4 63. Kxc2 Ka3 64. c6 Bb7 65. cxb7 Ka2 66. g7 Ka1 67. g8=Q 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 b5 2. c3 c5 3. d4 Bb7 4. e5 Nc6 5. b4 d5 6. dxc5 Bc8 7. g3 g6 8. Ke2 a6 9. a4 Bh3 10. Bxh3 Qb8 11. Qd3 h5 12. Bb2 Bg7 13. Na3 f5 14. Qxf5 a5 15. Nc4 g5 16. Ke1 Qc8 17. Qf6 Qd8 18. Ba3 Qd7 19. bxa5 h4 20. Be6 Nb8 21. h3 Nxf6 22. axb5 Na6 23. b6 Ne4 24. Bxd5 Naxc5 25. Bc6 Qxc6 26. Nd2 Kf8 27. e6 Nd3+ 28. Kf1 Re8 29. Nxe4 Rc8 30. a6 Qxb6 31. Ne2 Bd4 32. cxd4 Rg8 33. Bd6 Kg7 34. gxh4 Nb4 35. hxg5 exd6 36. g6 Qb7 37. Kg1 Qxa6 38. Nf4 Qa2 39. h4 Qa6 40. Rxa6 Rc1+ 41. Kg2 Nc2 42. h5 Na3 43. f3 d5 44. Nc5 Rf8 45. h6+ Kg8 46. Rxc1 Kh8 47. Rc3 Nc2 48. Rxc2 Rf5 49. Kf1 Rh5 50. Nxh5 Kg8 51. Ke1 Kf8 52. Kf2 Ke8 53. h7 Ke7 54. Raa2 Ke8 55. Ne4 dxe4 56. fxe4 Kf8 57. Kg2 Ke7 58. h8=Q Kxe6 59. Kg1 Ke7 60. Rcb2 Ke6 61. Qa8 Ke7 62. Rb3 Kd6 63. Qa4 Ke6 64. Raa3 Ke7 65. Ra2 Ke6 66. Raa3 Kd6 67. Qa7 Ke6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 Nf6 2. e5 Ne4 3. Nh3 e6 4. g4 g6 5. f3 Na6 6. Nf2 Bb4 7. Nd3 Nb8 8. Na3 O-O 9. Nxb4 b5 10. Nd3 g5 11. Ke2 Re8 12. Bg2 Kf8 13. fxe4 Na6 14. Bf3 Bb7 15. Ke1 Bxe4 16. b3 Rb8 17. Be2 f5 18. Nc4 Bf3 19. Nb6 axb6 20. Bxf3 fxg4 21. Kf2 Rb7 22. Qe1 Re7 23. Ke3 Qb8 24. Qf2 Qd8 25. Nb2 g3 26. Qe1 d6 27. Bd5 h5 28. Bc4 gxh2 29. Kd3 Re8 30. a4 Kf7 31. axb5 Re7 32. Ra2 Kg6 33. bxa6 Rg7 34. axb7 Qf8 35. Nd1 g4 36. Qf2 dxe5 37. Qg2 Qf7 38. Bd5 Qf6 39. Bc6 h4 40. Ke3 Kh6 41. c4 Qg6 42. Ra3 Qh5 43. Qxh2 g3 44. Qg1 Qf5 45. Qh2 Qc2 46. Bd7 Rg5 47. Qe2 Kg6 48. Qg2 Kh5 49. Bxe6 h3 50. Qf3+ Rg4 51. Qxg3 h2 52. Ra1 e4 53. b4 c5 54. Qh3+ Rh4 55. Qg2 Kh6 56. Bb2 Rh5 57. Qg3 Qb1 58. Qc7 Rf5 59. d3 b5 60. d4 Qd3# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Na3 b5 2. Nh3 Ba6 3. g3 g5 4. c3 e6 5. Nc2 Ne7 6. Nb4 e5 7. g4 Qc8 8. a3 Bb7 9. Nd5 a5 10. Nxe7 b4 11. Nc6 Nxc6 12. cxb4 axb4 13. Qb3 Ra4 14. Qd3 Kd8 15. Rb1 Na7 16. Rg1 h5 17. Qxd7+ Qxd7 18. Nf4 Rxa3 19. Ng6 Bg7 20. f3 Bf6 21. Bh3 c6 22. Rh1 fxg6 23. bxa3 bxa3 24. Bg2 Ke7 25. Kf1 Rc8 26. h4 hxg4 27. hxg5 Ba8 28. Ke1 Ke8 29. Rh4 Kf7 30. Ra1 gxf3 31. Bxa3 fxg2 32. gxf6 e4 33. Bc5 Qf5 34. Ra6 Qf2+ 35. Kxf2 Rh8 36. Kxg2 Rf8 37. Kg3 g5 38. Kg2 gxh4 39. Bd6 Rc8 40. e3 Bb7 41. Bc7 Re8 42. Ra5 Rf8 43. Bb6 Rc8 44. Kf1 Ke8 45. Ke2 Kf7 46. Bd4 Ke8 47. Rg5 Kd8 48. Kf2 Nb5 49. Ke1 Nxd4 50. Rg6 Ba8 51. Kf2 Ke8 52. Ke1 Nb5 53. Kf2 Kd8 54. Kg2 Nd4 55. Kh2 Kc7 56. Rg1 Ne6 57. Rg7+ Nxg7 58. fxg7 Kb8 59. Kh3 c5 60. d4 cxd4 61. exd4 e3 62. Kxh4 e2 63. Kh5 e1=Q 64. Kh6 Qd1 65. d5 Rf8 66. d6 Re8 67. Kg5 Re5+ 68. Kf6 Qc1 69. d7 Qd2 70. Kxe5 Qc2 71. Kd6 Qg2 72. d8=Q+ Kb7 73. Qf6 Kb6 74. Ke7+ Kc7 75. Qf3 Qg3 76. Qxg3+ Kb7 77. Kf8 Ka7 78. Qh3 Bb7 79. g8=Q Ka6 80. Ke7 Kb6 81. Qd8+ Ka6 82. Ke8 Ka7 83. Qhc8 Bxc8 84. Ke7 Bb7 85. Ke8 Ka6 86. Qc7 Ka7 87. Qd8 Ba8 88. Qd6 Bb7 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nf3 Nc6 2. Ng1 Nf6 3. g4 Ne5 4. d3 b5 5. a4 e6 6. Bd2 Bb7 7. b4 Ke7 8. Bg5 bxa4 9. Be3 Ng6 10. c4 a5 11. g5 axb4 12. Nd2 Nd5 13. Rb1 Nh4 14. Bh3 c5 15. Qxa4 Nxe3 16. f4 d5 17. f5 Nexf5 18. e4 h5 19. Qa7 Ng2+ 20. Kf1 Nd4 21. Ndf3 Nh4 22. g6 dxe4 23. Bg2 fxg6 24. dxe4 Qa5 25. Ke1 Kf7 26. Qb6 Qa6 27. Qc7+ Kf6 28. Rxb4 Qa1+ 29. Kf2 g5 30. Kg3 Ndxf3 31. Rxb7 Qc3 32. Qxg7+ Bxg7 33. Bxf3 Qe3 34. Rb5 Ra4 35. Rb8 Qc3 36. Ne2 Rxb8 37. Nxc3 Bh6 38. Nxa4 Rh8 39. Nxc5 Kg6 40. Nb3 Nxf3 41. Kxf3 Kf6 42. Ke3 h4 43. h3 e5 44. Nd2 Kg6 45. Nf3 g4+ 46. Ng5 gxh3 47. Kf2 Kh5 48. Kf1 Rd8 49. Nh7 Rd5 50. exd5 e4 51. Nf6+ Kg5 52. Rg1+ Kf4 53. d6 Kf3 54. Rg7 Bxg7 55. Ke1 Bxf6 56. c5 Kg3 57. Kf1 h2 58. Ke2 e3 59. Kf1 h1=B 60. Ke1 Ba8 61. Ke2 Kh2 62. Kxe3 Kg1 63. Ke2 Kg2 64. Kd2 Kg3 65. Ke1 h3 66. Kf1 h2 67. Ke2 Kh3 68. Kd3 Kg3 69. Ke3 Bd8 70. Kd2 Bg2 71. Kc3 h1=Q 72. Kd2 Bb7 73. Kc3 Qh4 74. Kd2 Qd4+ 75. Ke1 Qe4+ 76. Kf1 Qe5 77. c6 Bxc6 78. Kg1 Qd4+ 79. Kf1 Bb7 80. Ke1 Qe4+ 81. Kf1 Qc6 82. Ke1 Qc7 83. dxc7 Be7 84. c8=Q Ba8 85. Qb8+ Bd6 86. Qd8 Bf4 87. Qc8 Bb7 88. Qb8 Ba8 89. Qe5 Bb7 90. Qa5 Kh2 91. Kf1 Bf3 92. Ke1 Kg2 93. Qa6 Ba8 94. Ke2 Bb7 95. Qg6+ Kh1 96. Qh6+ Bh2 97. Qd6 Kg1 98. Qd4+ Kh1 99. Kf1 Bc8 100. Qd5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. f4 Nh6 2. a4 a5 3. d4 Nc6 4. h4 d5 5. Ra2 Nb4 6. Qd2 c5 7. dxc5 Rg8 8. Kf2 b5 9. axb5 Qc7 10. Ra1 Qe5 11. Ke1 f6 12. c4 Bd7 13. Kf2 Ng4+ 14. Kf3 Bf5 15. c6 Qd6 16. Nc3 Rb8 17. e3 h5 18. Qc2 Nxc6 19. b4 Nxb4 20. Qa2 e6 21. Qb3 Be4+ 22. Kg3 Qa6 23. Qb1 Bg6 24. Nce2 f5 25. Qc2 Nf2 26. Bb2 Bd6 27. Bc1 Na2 28. Kh2 Bb4 29. g3 Bh7 30. Bd2 Bf8 31. Qxf5 Kd7 32. Qg4 Bd3 33. Qh3 a4 34. bxa6 Be4 35. Bb4 g5 36. Ba5 d4 37. Nxd4 Bg7 38. Rb1 Rxb1 39. Qxe6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. h4 b5 2. g4 d6 3. c3 h5 4. a3 b4 5. Bh3 f6 6. Qa4+ Bd7 7. Qxd7+ Kf7 8. Bg2 Nc6 9. Qxd6 bxa3 10. c4 Rb8 11. Bf1 a6 12. Qb4 e6 13. bxa3 Bxb4 14. e3 a5 15. Ke2 g6 16. a4 Qc8 17. Ke1 Bf8 18. Ba3 Ke8 19. Nc3 Nh6 20. Rc1 Bc5 21. f3 Nb4 22. Be2 Bd4 23. Na2 Qd7 24. Rd1 Kf8 25. Kf1 Nf5 26. Rb1 Ra8 27. c5 Nxa2 28. Ra1 Rh7 29. gxh5 Qc6 30. exd4 Qb7 31. Rc1 Qb4 32. hxg6 Rg7 33. h5 Qb3 34. Bb5 Ke7 35. d3 Qb2 36. Be8 Kxe8 37. Rd1 Qb8 38. Kg2 Kf8 39. Ne2 Ke7 40. Rdf1 Nc1 41. h6 Qd8 42. Rfg1 Rxg6+ 43. Kh2 Qd5 44. Nc3 Qd8 45. f4 c6 46. Ne2 Nxd3 47. Re1 Nf2 48. Ref1 Ra7 49. Rxf2 Qb8 50. Bb2 Qb5 51. axb5 Ra6 52. bxa6 Rg3 53. Bc3 Kf8 54. Ba1 Ne7 55. Nxg3 Kf7 56. a7 Ke8 57. Rg1 Kd8 58. Nf5 exf5 59. Rg3 Nc8 60. Kh3 Kc7 61. Bc3 a4 62. Rg1 Nxa7 63. Bb2 a3 64. Bxa3 Kb7 65. Rg3 Nb5 66. Rgf3 Kc7 67. Bc1 Kb8 68. Bd2 Ka8 69. Rg3 Kb7 70. Rgf3 Kc7 71. Re3 Nxd4 72. Rg2 Nb5 73. Rg1 Nc3 74. Kg3 Nd5 75. Kg2 Kd7 76. Rf1 Kc8 77. Kg1 Kb7 78. Ree1 Kc7 79. Kh1 Nc3 80. Kg1 Kb7 81. Bxc3 Ka7 82. Re2 Ka8 83. Re7 Kb8 84. Re8+ Ka7 85. Kg2 Kb7 86. Ba1 Ka7 87. Kg1 Kb7 88. Be5 Ka7 89. Bd6 Kb7 90. Ra8 Kxa8 91. Rc1 Ka7 92. Rd1 Ka8 93. Rd5 Kb7 94. Re5 fxe5 95. fxe5 Ka7 96. h7 Kb7 97. Kf2 Ka7 98. Kg3 Kb7 99. Kf4 Kc8 100. Kxf5 Kb7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. b3 b5 2. g4 Nc6 3. Bb2 h5 4. Bh3 d5 5. Bg2 a5 6. Ba3 hxg4 7. Qc1 Nd4 8. h4 e6 9. Nc3 Bc5 10. e4 Ra7 11. Nd1 Nh6 12. Qb2 Bb6 13. Qc3 Bd7 14. Qb2 Qc8 15. Qxd4 Ra6 16. Rh2 Ba7 17. h5 Bc5 18. Qxc5 g5 19. Nf3 c6 20. Ke2 a4 21. Qe3 b4 22. Nxg5 Qc7 23. Rh4 d4 24. Qg3 Rg8 25. bxa4 Rh8 26. Qd6 Ra7 27. Qh2 g3 28. Nh7 gxh2 29. Kd3 f5 30. exf5 bxa3 31. f6 Nf5 32. Rh3 Qd6 33. h6 Bc8 34. Rh4 Qc5 35. Rh3 Ng7 36. fxg7 Rxh7 37. Nb2 Kf7 38. Rg3 Ke8 39. Ke2 Kd7 40. Rb1 Qb5+ 41. Kf3 Ba6 42. Rg4 Kc8 43. g8=Q+ Kd7 44. Qg7+ Kc8 45. c4 Raxg7 46. Ke2 Qb6 47. Rxg7 Qb4 48. d3 Rh8 49. Rd1 Re8 50. Kf3 c5 51. Kf4 Qxc4 52. dxc4 Rf8+ 53. Kg3 e5 54. Nd3 e4 55. Ne1 d3 56. Kh3 Rf5 57. Rc7+ Kxc7 58. Kg4 Bc8 59. h7 Bd7 60. a5 Bc6 61. Bh3 Rd5 62. h8=Q Bb7 63. Qg7+ Kb8 64. Qe5+ Ka8 65. f4 Bc6 66. f5 Bb7 67. Qb8+ Kxb8 68. f6 d2 69. Nf3 Rg5+ 70. Nxg5 e3 71. Nf3 h1=Q 72. Bg2 Qf1 73. Nd4 Qf2 74. Nb3 Qf1 75. a6 Qf2 76. Bd5 Ba8 77. Bf7 Qf1 78. Bd5 Qf2 79. Bf7 Qf1 80. Bd5 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. h4 f6 2. Nh3 a5 3. Rg1 f5 4. g3 Nf6 5. Na3 h5 6. b3 Rh7 7. f4 e6 8. e4 Qe7 9. Nf2 Qb4 10. Qg4 Qxa3 11. Nd1 Rh8 12. Qh3 Nd5 13. Ne3 Nb6 14. Bxa3 c5 15. Ba6 Rxa6 16. Kf1 Ra8 17. Kg2 Rg8 18. Bc1 Ra6 19. Bb2 Kf7 20. d3 Nc6 21. Rgf1 Ne7 22. Qxf5+ Nxf5 23. a4 Na8 24. Bf6 Ke8 25. Nxf5 Be7 26. Be5 g6 27. Ra2 Bf8 28. Kf2 b6 29. Bf6 exf5 30. Ra3 Be7 31. Ke2 Bb7 32. Kd2 Bxf6 33. e5 Bg7 34. Rfa1 Bh6 35. Rd1 Kf8 36. Ke2 d5 37. d4 Bg7 38. Kd2 Ke8 39. Ra2 Bh8 40. Ke1 Kf7 41. dxc5 Bxe5 42. Kf2 Bg7 43. Rxd5 Rh8 44. Re5 Rf8 45. Rxf5+ Ke8 46. Re5+ Kd8 47. Rf5 Bc3 48. Rb2 Bd4+ 49. Ke2 Ra7 50. c3 Kc8 51. Rd5 Rf7 52. cxd4 Rg7 53. Rd6 Be4 54. Kf1 Ra6 55. Ke1 Bc6 56. Kf2 Bb7 57. c6 Kc7 58. Kg1 Bc8 59. Kf1 Ra7 60. Ke1 Bf5 61. Kf2 Bc2 62. Kg1 Kxd6 63. Kf2 Rad7 64. cxd7 Be4 65. Ke3 Kxd7 66. Kxe4 Ke7 67. Ra2 Ke8 68. Ra3 Ke7 69. Kd5 Kd7 70. Ra2 Ke7 71. Rd2 Ke8 72. Ke6 Kd8 73. Re2 Rg8 74. Rc2 Rg7 75. Rc8+ Kxc8 76. Kd6 Kb7 77. g4 Kc8 78. g5 Nc7 79. Kc6 b5 80. axb5 Kb8 81. b6 Nb5 82. d5 Nd4+ 83. Kd6 Nxb3 84. b7 Nc1 85. Kc6 Rg8 86. Kd7 Kxb7 87. d6 Kb6 88. Ke7 a4 89. d7 Ka5 90. Kf7 Kb4 91. Kxg8 a3 92. d8=Q a2 93. Kf7 a1=Q 94. Kf8 Qa4 95. Ke7 Qb3 96. Ke8 Qb2 97. Qf6 Kc5 98. Kf8 Kd5 99. Ke7 Ke4 100. Kf7 Qb5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. c4 b5 2. d4 b4 3. b3 d5 4. h4 Nd7 5. Bh6 Nb6 6. e3 e6 7. Bxg7 dxc4 8. Bxc4 Nh6 9. Bxe6 Qd5 10. g3 Qb7 11. Nd2 Bxg7 12. a4 Qf3 13. Qxf3 f5 14. Rb1 a5 15. Qg2 Bxe6 16. Rh3 Bg8 17. Ne4 Bxb3 18. Kf1 Bd5 19. Re1 O-O 20. Rh2 Be5 21. Nf6+ Kh8 22. dxe5 Rfb8 23. Ng8 Kxg8 24. Ke2 Bxg2 25. Rb1 Ng4 26. Re1 h6 27. Rh3 Ra7 28. Kd3 Ra6 29. Rb1 Raa8 30. Rd1 Bd5 31. Rh2 Rf8 32. Nf3 Ba2 33. Rd2 Bc4+ 34. Kd4 Ra7 35. Ra2 Kf7 36. e6+ Kxe6 37. Kc5 Rf6 38. Rh3 Bxa2 39. Rh1 Ke7 40. Ne5 Kd8 41. f3 Rg6 42. Nxg4 Nc8 43. e4 fxg4 44. Rf1 Rg5+ 45. Kc6 Ne7# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 e5 2. f3 Nf6 3. Nc3 a5 4. Nge2 d5 5. exd5 Bg4 6. d3 Nh5 7. g3 Bd7 8. d6 Bxd6 9. b3 O-O 10. Rg1 Re8 11. Ba3 Bb5 12. Bg2 Nf4 13. Bh1 Nd7 14. Bb2 Ng6 15. a4 Ba6 16. Ra2 Bc4 17. bxc4 Nf4 18. Qb1 Nc5 19. gxf4 Qd7 20. Kd2 f6 21. Rxg7+ Kxg7 22. Ne4 Be7 23. Qe1 Ra7 24. h3 Kf8 25. Qf2 c6 26. h4 Qxd3+ 27. Ke1 Kf7 28. c3 Rb8 29. Ra1 b6 30. fxe5 Qb1+ 31. Rxb1 Nd3+ 32. Kf1 Ke8 33. Qxb6 Rbb7 34. exf6 Bc5 35. Rc1 Bxb6 36. Re1 Rd7 37. Ng1 Nf2 38. Nxf2+ Kf7 39. Re3 Kxf6 40. Re1 c5 41. Bg2 Kg7 42. Ne4 Kg8 43. Nxc5 Rf7 44. Ne4 Bxg1 45. c5 Rf8 46. Bh3 Kg7 47. Nd2 Rc8 48. f4 Rd7 49. c6 Re7 50. Bg2 Rec7 51. Bd5 Re8 52. Kxg1 Ree7 53. Kh2 h5 54. Kg1 Re5 55. Kf2 Kg6 56. Kg1 Kf5 57. Ba1 Rxd5 58. c4 Rdd7 59. Kg2 Re7 60. Bh8 Red7 61. cxd7 Rxc4 62. Rb1 Kxf4 63. Nb3 Ke4 64. Kh1 Rc2 65. Rg1 Ra2 66. Re1+ Kf4 67. Re7 Ra1+ 68. Nxa1 Kf3 69. Kg1 Kf4 70. d8=R Kg3 71. Re5 Kxh4 72. Rb5 Kg3 73. Kh1 h4 74. Rbb8 h3 75. Rg8+ Kh4 76. Rg7 h2 77. Rbb7 Kh5 78. Rg3 Kh6 79. Ra7 Kh5 80. Rh3+ Kg5 81. Rg3+ Kf5 82. Nc2 Ke6 83. Rgg7 Kd5 84. Ne1 Ke4 85. Ng2 Kd5 86. Rac7 Kd6 87. Rc8 Kd5 88. Ne3+ Kd6 89. Nd1 Kd5 90. Nb2 Kd6 91. Rf8 Ke6 92. Kg2 Kd6 93. Nc4+ Ke6 94. Nxa5 Kd6 95. Nb7+ Kd5 96. a5 Ke4 97. a6 h1=Q+ 98. Kg3 Qg2+ 99. Kxg2 Ke5 100. Kh3 Kd4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. Nh3 c5 2. a3 d6 3. Rg1 h5 4. c4 Rh6 5. Qb3 Qd7 6. Nf4 g6 7. f3 Na6 8. Nxh5 b6 9. a4 Rb8 10. Kf2 f5 11. Qa3 g5 12. b3 Rxh5 13. a5 b5 14. e3 e5 15. e4 Qf7 16. Bb2 Ra8 17. Bxe5 Bd7 18. g3 Qg7 19. f4 gxf4 20. Nc3 Nh6 21. cxb5 Qe7 22. Rd1 f3 23. bxa6 Be6 24. Kxf3 Ng4 25. Bd3 Qc7 26. exf5 Rh4 27. Ke2 Bd7 28. Rh1 Bxf5 29. gxh4 Bc8 30. Bg7 Bd7 31. Bxf8 Bb5 32. Rdf1 Bxa6 33. Rf5 Bxd3+ 34. Ke1 Qb8 35. Ne4 Bf1 36. Kxf1 Qb4 37. Qa2 Qd4 38. Re5+ Kd7 39. Re6 d5 40. Rg1 Kc7 41. Ke1 dxe4 42. b4 e3 43. b5 Nf2 44. Bh6 Qe4 45. Rg4 Kb8 46. h3 Qa4 47. dxe3 Ne4 48. h5 Ng3 49. Rg7 Nf5 50. Kf2 Nxg7 51. Ke2 Nxe6 52. Qb1 Nd8 53. e4 Nb7 54. a6 Qa2+ 55. Kd3 Nd6 56. Kc3 Qb2+ 57. Kd3 Qa2 58. Qb2 Qa1 59. e5 Ne8 60. Kc4 Qxb2 61. Bg7 Nxg7 62. b6 Qxe5 63. bxa7+ Kc8 64. Kd3 Qe7 65. h6 Rb8 66. hxg7 Qc7 67. Kc4 Ra8 68. Kd5 c4 69. Ke4 Kd7 70. Kd4 Ke7 71. Kd5 Kf7 72. Ke4 Qxa7 73. Kf5 Kxg7 74. Ke5 Kh6 75. Kd5 Kg6 76. Ke5 Qxa6 77. Kd5 c3 78. Ke5 Ra7 79. Ke4 c2 80. Kd5 Kh6 81. Ke5 c1=Q 82. Kd5 Kg6 83. Ke5 Kh5 84. Kd5 Qd2+ 85. Ke5 Qc2 86. Kd4 Qc1 87. Kd5 Qah6 88. Ke5 Qg1 89. Ke4 Qg2+ 90. Kd4 Qhd2+ 91. Kc5 Qd7 92. Kb6 Rb7+ 93. Ka5 Qdc6 94. h4 Qgd5# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 g5 2. Bb5 h5 3. Nf3 Nc6 4. Qe2 Nd4 5. h4 c5 6. Qd3 Nb3 7. Qxb3 a5 8. Bc6 dxc6 9. Nxg5 b6 10. Kf1 Nf6 11. d3 Qd4 12. Bf4 Ra7 13. Rh2 Bf5 14. Ne6 Ng4 15. Ke2 Qxf2+ 16. Kd1 Qxc2+ 17. Qxc2 Ne5 18. Nd2 Bg7 19. Rb1 Bg4+ 20. Kc1 Ng6 21. Nf3 Rd7 22. Ne1 Rb7 23. Nf3 Nxf4 24. Qc3 Rh6 25. Ng1 c4 26. Nxg7+ Kd8 27. Nf3 f6 28. dxc4 Nxg2 29. a3 Rh7 30. Nd4 Kc7 31. Qb4 c5 32. Ndf5 Ra7 33. Qxb6+ Kxb6 34. Ne6 Nf4 35. Kd2 Nh3 36. Nf4 Rh6 37. Kd3 Ka6 38. e5 Bxf5+ 39. Kd2 Nxf4 40. Kc3 Nd3 41. Rc2 Bg6 42. Kb3 Rb7+ 43. Ka4 Be8# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. f4 Nf6 2. Nh3 g5 3. Rg1 b5 4. e4 Ng8 5. f5 Bb7 6. f6 h5 7. Nxg5 Nh6 8. Qxh5 Bg7 9. fxg7 a5 10. gxh8=R+ Ng8 11. h4 Bc8 12. Qxf7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. f3 b5 2. b3 g5 3. e3 e5 4. Bxb5 f6 5. Bb2 Bc5 6. Nc3 Kf8 7. Qb1 Bb7 8. h4 Bb6 9. f4 d5 10. hxg5 Bc8 11. d3 Qd7 12. e4 Qe7 13. Nf3 Bg4 14. exd5 h6 15. f5 Qd6 16. Kf1 Na6 17. Ke1 Nc5 18. Ne4 Qc6 19. Kd2 Qe8 20. Rc1 Qf7 21. Kc3 Re8 22. g6 Ne7 23. Nfd2 Bh5 24. Rh1 Qg7 25. Nc4 Rh7 26. g3 Ba5+ 27. b4 Rc8 28. g4 Bxb4+ 29. Kxb4 Nxg6 30. Rxh5 Qh8 31. Ned6 Rd8 32. Bd4 Nh4 33. g5 Rc8 34. Ka5 Re8 35. g6 Rd8 36. c3 Na4 37. Bc5 Nxg6 38. Rxh6 Kg7 39. Rh2 Nxc5 40. Qe1 cxd6 41. fxg6 Rb8 42. a4 Ra8 43. Ba6 Rd8 44. gxh7 Rb8 45. Rh1 Nb3# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 Nc6 2. Nf3 e5 3. c4 Qg5 4. g4 Qxg4 5. Qc2 a6 6. Ng1 Qf4 7. Qb3 Ba3 8. Kd1 d6 9. Nf3 Kd8 10. Nxe5 Bb4 11. Nd3 b5 12. Nc5 dxc5 13. a4 Bxd2 14. Qb4 Ra7 15. cxb5 Be6 16. h3 Qh2 17. Bxd2 Qg1 18. Bh6 Ra8 19. Na3 Nxb4 20. Bxg7 Rb8 21. e5 Qg4+ 22. Be2 Ke8 23. bxa6 Qf4 24. a7 Qe3 25. Bxh8 Qxf2 26. Ra2 Nc2 27. Kxc2 Ra8 28. Kd1 Qg3 29. Bd3 Qxd3+ 30. Ke1 Rb8 31. h4 c4 32. Rh3 c6 33. Kf2 Qe3+ 34. Kxe3 Rb7 35. h5 Rxa7 36. Ra1 Kf8 37. Ke2 Ra6 38. Nxc4 Ra8 39. Rhh1 Rb8 40. Rab1 h6 41. Ra1 Ke7 42. Rhf1 Ke8 43. Kd2 Kf8 44. Rab1 Bxc4 45. Rh1 Ke8 46. Rbe1 Ba6 47. Rh3 Bb7 48. Rhe3 Kf8 49. Rh3 Bc8 50. Kd3 Bxh3 51. Re2 Rxb2 52. Rc2 Ra2 53. Ke4 Bf5+ 54. Kf4 Bxc2 55. a5 f5 56. e6 Rb2 57. Ke5 Nf6 58. Kxf6 Be4 59. a6 Rc2 60. Ke5 Ke7 61. a7 Rc1 62. a8=Q Rf1 63. Bf6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. g3 a5 2. b3 b6 3. e4 Bb7 4. Qh5 Nf6 5. h4 Nxh5 6. a4 Bc6 7. Rh2 Nxg3 8. Ra2 Bxe4 9. f3 c5 10. Ra3 Na6 11. Bxa6 Bc6 12. Bb5 Be4 13. h5 Bc6 14. Be2 Rb8 15. Bd3 f6 16. Ne2 Nxe2 17. Kf2 Bb5 18. Bxe2 Rb7 19. axb5 c4 20. Ke1 Rg8 21. bxc4 e6 22. f4 Be7 23. Rhh3 Bxa3 24. Nxa3 Ra7 25. Rg3 e5 26. f5 g5 27. Kf2 Kf8 28. Rf3 Kg7 29. d3 Qe8 30. c3 Qf7 31. Bf4 gxf4 32. Kf1 Rga8 33. Kf2 Re8 34. d4 Qf8 35. Rh3 Qxa3 36. Bf3 Qa4 37. Kg1 Kh6 38. Bg2 Rh8 39. Bb7 Kg5 40. Kf2 Rxb7 41. Kg2 Qxb5 42. Rh1 Qa6 43. Kf3 Re8 44. Rc1 b5 45. Ra1 b4 46. cxb4 Rxb4 47. Rb1 Rb2 48. h6 Kh5 49. c5 exd4 50. Rxb2 Rh8 51. Rf2 Rc8 52. Ke4 Rc6 53. Rg2 Rb6 54. c6 dxc6 55. Rh2+ Kg4 56. Rc2 Rb1 57. Rh2 d3 58. Rb2 Qc4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. d4 f5 2. Qd2 c5 3. c3 Nc6 4. dxc5 b6 5. Na3 g5 6. Nc4 f4 7. g3 g4 8. Qd4 Bh6 9. Qe4 e5 10. a4 Ba6 11. Ne3 f3 12. Bd2 Qh4 13. Ng2 Nb4 14. a5 Ke7 15. Qc6 Nxc6 16. Nxh4 Bd3 17. Bh3 Re8 18. exd3 Bxd2+ 19. Kf1 a6 20. Ng2 Bf4 21. Nxf4 bxc5 22. b3 Nxa5 23. Ng2 Rf8 24. Nf4 Nc4 25. bxc4 Kd6 26. Nd5 h5 27. Rxa6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. f3 e5 2. e4 Bc5 3. g3 Bd6 4. d3 Be7 5. Be2 b5 6. Qd2 Nc6 7. Qg5 g6 8. Qf6 a5 9. Qxe7+ Qxe7 10. f4 Qf6 11. a3 b4 12. c3 Qe6 13. Bd2 bxa3 14. b4 Qf6 15. b5 Na7 16. Nxa3 c5 17. Bf1 Rb8 18. Rc1 Qb6 19. Kd1 Kf8 20. Nc4 Qd8 21. h4 Qe8 22. Ke2 Nc6 23. Bg2 d5 24. bxc6 dxc4 25. Ke3 cxd3 26. Re1 g5 27. Bh3 Rb2 28. g4 Bd7 29. hxg5 Bxc6 30. Ne2 Qe7 31. f5 Qd7 32. Nc1 Rb5 33. g6 Qd6 34. g5 Bd5 35. Bf1 Bxe4 36. gxf7 a4 37. Rg1 a3 38. g6 Nf6 39. Rg5 Ra5 40. Bxd3 Nh5 41. c4 Bxd3 42. Re2 Qc7 43. Re1 Qd7 44. Bxa5 Qe7 45. Kxd3 Qc7 46. Rxh5 Qb8 47. Ke4 Ke7 48. Bb4 Qxb4 49. Rh6 Qxc4+ 50. Kf3 hxg6 51. Rxe5+ Kxf7 52. Rxg6 Qe4+ 53. Kxe4 Rg8 54. Kd5 Rf8 55. Rc6 Rc8 56. Rce6 Rh8 57. f6 Rh3 58. Kxc5 Rh4 59. Re3 Rh2 60. Kc6 Kg6 61. R3e5 Rc2+ 62. Kd7 Rg2 63. Kc6 Rg4 64. Rb5 Rf4 65. Rb8 Rf2 66. Rd8 Kh7 67. Nb3 Ra2 68. Rh8+ Kxh8 69. Rd6 Rb2 70. Kd5 a2 71. Ke6 Re2+ 72. Kd5 Re1 73. Kc5 Rd1 74. Kc6 Kg8 75. Rd7 Rg1 76. Kc7 Rb1 77. Kd8 Kh8 78. Nd2 Rb8+ 79. Kc7 Ra8 80. Nf3 Kg8 81. Ng5 Kh8 82. Nh7 Kg8 83. Rg7+ Kh8 84. Rg6 Rb8 85. Kxb8 a1=Q 86. Rg8+ Kxh7 87. Rg7+ Kh6 88. Rg6+ Kxg6 89. Kb7 Qd4 90. Kb8 Qf2 91. Kc8 Kf5 92. f7 Qb6 93. f8=Q+ Qf6 94. Qe7 Kg6 95. Qe8+ Kf5 96. Kd7 Qc3 97. Qe4+ Kxe4 98. Ke6 Qe1 99. Kd6 Qd1+ 100. Kc6 Qf3 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. b3 b5 2. Na3 d6 3. e3 h5 4. f4 a5 5. Bb2 g5 6. Bf6 Nc6 7. Bxh8 Ra6 8. Qg4 Nf6 9. Qd7+ Bxd7 10. b4 Ne4 11. c3 a4 12. Nc2 Ra7 13. g4 h4 14. Be2 f5 15. O-O-O Nxb4 16. Kb1 Nc6 17. Nf3 Bc8 18. Ncd4 Rb7 19. fxg5 Na7 20. g6 Qd7 21. Rdf1 c5 22. Bd3 Qc7 23. g7 Bxg7 24. Rc1 h3 25. Nh4 Kf7 26. Bxb5 Ng5 27. Nhf3 Nxf3 28. d3 Ne5 29. Rcf1 a3 30. Nc6 Qxc6 31. Rf3 Qxb5+ 32. Kc1 Nxf3 33. Bxg7 fxg4 34. Kc2 Qa4+ 35. Kc1 Kxg7 36. c4 Be6 37. d4 Kf8 38. e4 Ke8 39. d5 Rb2 40. Rf1 Rb4 41. Rf2 Rb1+ 42. Kxb1 Nh4 43. Rf1 Nb5 44. Ka1 Bd7 45. Rb1 Nf5 46. e5 Bc6 47. cxb5 Bxb5 48. e6 Qd4+ 49. Rb2 Qxb2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Na3 b6 2. f4 b5 3. Nc4 d6 4. f5 Bb7 5. Ne5 Nc6 6. Nxc6 Bxc6 7. Nh3 b4 8. e4 Bb5 9. b3 g5 10. f6 g4 11. Qe2 c5 12. Qf2 a5 13. Ng5 e6 14. Kd1 Bg7 15. h4 Qc7 16. a4 Ra7 17. Bb2 Nh6 18. Nxe6 Ba6 19. Be2 Bxe2+ 20. Kxe2 g3 21. Nxg7+ Kd7 22. Qxg3 Ng8 23. Kd1 h5 24. Ra2 Kc6 25. c4 Qb6 26. d3 Nxf6 27. Kd2 Nxe4+ 28. dxe4 Rg8 29. Kd3 d5 30. Nf5 Rg4 31. Qb8 dxc4+ 32. bxc4 Rg7 33. Rb1 Kd7 34. Ne3 f6 35. Rf1 Re7 36. Qf8 Re8 37. Qxc5 Ke6 38. Qxb6+ Ke7 39. Qxa7+ Kd6 40. Bd4 Ra8 41. Rff2 Rh8 42. g4 hxg4 43. Qe7+ Kxe7 44. h5 Ke8 45. Rae2 Kf8 46. Rh2 g3 47. Nd1 b3 48. Be5 Rg8 49. Bxg3 Kf7 50. Bf2 Rg7 51. Be3 Ke7 52. Bg1 Kd8 53. Bf2 Kc7 54. Bc5 Rd7+ 55. Kc3 Rh7 56. Kb2 Kd7 57. e5 Kc6 58. exf6 Rc7 59. Re5 Kd7 60. Rhe2 Kc6 61. Bf8 Rb7 62. Re6+ Kc7 63. Bc5 Rb6 64. h6 Kb7 65. Rxb6+ Kc7 66. Re1 Kc8 67. Rf1 Kd7 68. Re1 Kc8 69. Rf1 Kd7 70. Re1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. b3 Nc6 2. Nf3 Rb8 3. g4 d5 4. Bg2 f6 5. Ba3 b5 6. b4 g6 7. d3 Bd7 8. Nbd2 g5 9. Nc4 d4 10. Qc1 Rc8 11. Nfe5 Be6 12. Nb6 Nxe5 13. c4 Nxc4 14. O-O Ne5 15. Bd5 cxb6 16. Ba8 Ng6 17. Qd1 Rc3 18. Bc1 h5 19. Be4 Kf7 20. Qe1 Rb3 21. Bb2 Kg7 22. h3 Nf4 23. Bc6 Kg6 24. e3 Rxb2 25. exf4 h4 26. fxg5 Bxa2 27. Qe2 Rh7 28. Qe1 e6 29. Qe2 Qb8 30. f4 Be7 31. Qg2 Rf7 32. Bf3 fxg5 33. Bc6 Kg7 34. Bf3 Bd5 35. Rxa7 Bd6 36. Rb7 Qc8 37. Ra7 Re7 38. Ra6 gxf4 39. Ra7 Kh6 40. Qxb2 Rg7 41. Rxg7 Kxg7 42. Bxd5 Qf8 43. Bb3 Be7 44. Rf3 Bg5 45. Bxe6 Ne7 46. Qb3 Kh7 47. Kg2 Qg7 48. Bd5 Nc6 49. Qd1 Ne5 50. Be4+ Kg8 51. Qe2 Nc4 52. dxc4 Bd8 53. Bd5+ Kh8 54. Qf2 Qg5 55. Bf7 d3 56. cxb5 Kh7 57. Kf1 Kg7 58. Qe1 Qh6 59. g5 Qg6 60. Qe7 d2 61. Rg3 fxg3 62. Qd6 Kxf7 63. Qxg6+ Kxg6 64. Ke2 Be7 65. Ke3 Bxg5+ 66. Kd4 Kf6 67. Ke4 Bh6 68. Kf3 Ke7 69. Kg4 Kf6 70. Kf3 Bg7 71. Kg4 Ke6 72. Kg5 Ke5 73. Kh5 g2 74. Kg6 Kd4 75. Kxg7 g1=Q+ 76. Kh6 Qg2 77. Kh7 Kc3 78. Kh8 Qg3 79. Kh7 Qxh3 80. Kg8 Qh2 81. Kg7 Qf4 82. Kg8 Qe4 83. Kg7 Qd5 84. Kg6 Qc4 85. Kh6 Kxb4 86. Kg5 h3 87. Kf5 Qf7+ 88. Ke5 Kc5 89. Ke4 h2 90. Ke5 Kxb5 91. Ke4 Ka6 92. Ke5 Qg6 93. Kd4 d1=Q+ 94. Ke5 Qc1 95. Kd5 Ka7 96. Ke5 Qgh6 97. Kd5 Qb1 98. Ke5 Qe3+ 99. Kd5 Qd1+ 100. Kc6 Qe5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nxe5 d5 5. Bxc6+ bxc6 6. a4 Qe7 7. Qe2 fxe4 8. d4 g6 9. c4 Qf6 10. Bd2 a6 11. Nc3 Bh6 12. Nxc6 Kf7 13. b4 Bb7 14. Nxe4 a5 15. Qh5 Bxc6 16. Qd1 Bxd2+ 17. Qxd2 dxe4 18. Qc2 Ra6 19. Rc1 Bb7 20. d5 Qd4 21. O-O Nh6 22. d6 cxd6 23. bxa5 Ke8 24. Rce1 Rf8 25. Qb3 Ra7 26. Kh1 Bc6 27. Qa3 Qxc4 28. Re2 Qd5 29. Qa1 Kd8 30. Qd1 Bb7 31. g4 Nxg4 32. Qb3 Rf3 33. Qxd5 Ba6 34. Ra2 Bb5 35. axb5 Rxa5 36. Rxa5 g5 37. Rfa1 Nxh2 38. Kg1 h5 39. Qf7 Rd3 40. Ra8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 Nc6 2. Ne2 a6 3. h4 Ra7 4. g4 e5 5. Rh3 Bb4 6. Rc3 Qg5 7. Ra3 h5 8. hxg5 Rh7 9. Nf4 Nf6 10. Nxh5 Kd8 11. Nxf6 Rh2 12. f4 Bxa3 13. Nh7 Rg2 14. Bxg2 Ke7 15. bxa3 Na5 16. Nf6 c5 17. Nd5+ Ke8 18. Kf1 Kf8 19. Bb2 Ke8 20. Qe1 Kf8 21. Ne3 Ke7 22. Qe2 Kf8 23. Qf3 Kg8 24. Bxe5 g6 25. Ke1 d6 26. Nd1 Bd7 27. Qe2 Bc6 28. f5 Ra8 29. Ndc3 Rd8 30. Bg7 Kxg7 31. a4 Rh8 32. Qd3 gxf5 33. gxf5 f6 34. g6 Re8 35. Kd1 Nc4 36. Bf3 b5 37. a3 Ne5 38. Bg2 Nc4 39. Nd5 a5 40. axb5 Bxb5 41. Qd4 cxd4 42. a4 Rb8 43. axb5 Rd8 44. Ne3 Nxe3+ 45. Kc1 Nxg2 46. b6 d3 47. Ra4 dxc2 48. d4 Rb8 49. Nc3 Nh4 50. Ra2 Kf8 51. g7+ Ke8 52. b7 a4 53. Kxc2 a3 54. Kb1 Kf7 55. Nd5 Kxg7 56. Ne3 d5 57. exd5 Rxb7+ 58. Ka1 Rd7 59. d6 Rxd6 60. d5 Kh6 61. Ng4+ Kh5 62. Nxf6+ Rxf6 63. d6 Rxd6 64. f6 Rd1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. b3 Nh6 2. g3 c6 3. Nh3 g6 4. f3 e6 5. Bb2 f6 6. f4 Na6 7. c3 d5 8. d3 Bc5 9. Ba3 e5 10. e4 g5 11. Qd2 Ke7 12. Qe3 Bd6 13. Kd2 Ng4 14. Qg1 Nc7 15. Qc5 Nf2 16. Qxd5 Nb5 17. Qf7+ Kxf7 18. Bc5 Bg4 19. Be3 c5 20. Bg2 Nxc3 21. f5 Bh5 22. Kxc3 Ke7 23. a4 Kd7 24. Nd2 Qe8 25. Nc4 Nxh3 26. Bg1 Bd1 27. Bxh3 Qg8 28. Ra2 Bg4 29. Bxg4 Kc6 30. Rb2 Kd7 31. Be3 Be7 32. Be2 Qd8 33. Rbb1 Qc7 34. Rbc1 h5 35. Rhf1 Bd6 36. Bxh5 Rhe8 37. Bd4 Ke7 38. Bd1 exd4+ 39. Kd2 Kf8 40. e5 b6 41. h4 Kg7 42. e6 gxh4 43. Rb1 Bxg3 44. Ke2 Bd6 45. Kd2 Qe7 46. Ra1 Rab8 47. Ke1 b5 48. axb5 Be5 49. Ke2 Qf8 50. Rxa7+ Kg8 51. Nxe5 Rxe6 52. Ra4 Rxb5 53. Ra8 Rxe5+ 54. Kf3 Qb8 55. Rxb8+ Kf7 56. Re1 Rd5 57. Rd8 Rd7 58. Rc8 Kg7 59. Re4 Kh7 60. Kg2 h3+ 61. Kxh3 c4 62. Bh5 cxd3 63. Rg4 Ra5 64. Rc7 Ra2 65. Bg6+ Kh6 66. Rc8 Rc2 67. Kg3 d2 68. Kh4 d3 69. Bf7 Re7 70. Bg6 Rg7 71. Rg8 Rxg8 72. Re4 Rxg6 73. fxg6 Kxg6 74. Re1 Rc1 75. Rg1+ Kh7 76. Rg5 Rf1 77. Rh5+ Kg7 78. Kg4 Kg6 79. Rh4 Rf2 80. Kh3 Kg5 81. Rf4 d1=Q 82. Rf3 Rg2 83. Rg3+ Kh5 84. Rxg2 Kh6 85. Rg3 f5 86. Rf3 Kg6 87. Rg3+ Kf6 88. Rf3 Ke6 89. Rg3 Qh1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. g3 Na6 3. Bg2 d5 4. c4 Be7 5. b3 Bc5 6. exd5 Be3 7. fxe3 c6 8. d4 cxd5 9. a3 Nf6 10. Bb2 b6 11. cxd5 Kf8 12. h4 exd5 13. Ne2 b5 14. Qc2 Be6 15. Kf2 Bg4 16. Qc4 dxc4 17. Re1 Kg8 18. Bc1 Qc7 19. Kf1 Ne8 20. e4 b4 21. a4 cxb3 22. Bb2 Kf8 23. Nec3 Qa5 24. Nd2 Qxa4 25. Nxa4 f6 26. Rad1 h6 27. Re3 Rh7 28. Nc3 g6 29. Ne2 Ng7 30. Nc1 Be2+ 31. Ke1 Rb8 32. Kxe2 Rb6 33. Nf3 g5 34. hxg5 hxg5 35. Ke1 Kg8 36. Ba3 bxa3 37. Rc3 b2 38. Rb3 Rb5 39. Rxa3 Rh1+ 40. Ke2 b1=Q 41. d5 Rb4 42. Nh2 Ne8 43. g4 Qa1 44. Kd3 Qe5 45. Kc2 Qxh2 46. Rad3 Qd6 47. Ne2 Nec7 48. Nd4 Rxd4 49. Kb1 Qf4 50. Rxd4 Rxd1+ 51. Rxd1 f5 52. gxf5 Qd6 53. Ka2 Qc5 54. d6 Kf7 55. d7 Kf8 56. Kb2 Qb5+ 57. Ka2 Kg7 58. d8=Q Kf7 59. Qe7+ Kxe7 60. Rd7+ Kxd7 61. f6 Ke6 62. f7 Kd6 63. Bh3 Kc5 64. Bg4 Kb6 65. Ka1 Nc5 66. Bh3 Kc6 67. e5 N7a6 68. Bg4 Qa5+ 69. Kb1 Kc7 70. Be6 Kb6 71. Bg4 Qa4 72. Bh3 Kc6 73. Bg4 Kc7 74. Bh3 g4 75. Bxg4 Kb7 76. Bh3 Kc7 77. Bf5 Kb7 78. Bh7 Kc7 79. e6 Qa2+ 80. Kc1 Kb8 81. e7 Qxf7 82. Bg8 Qxe7 83. Kd2 Qe6 84. Kc3 Qf5 85. Kb2 Nb3 86. Ka2 Nac5 87. Be6 Qd3 88. Bg8 Kc8 89. Kb2 Nc1 90. Kxc1 Qa6 91. Kd1 Na4 92. Kc2 Kb8 93. Kb3 Qa5 94. Be6 Ka8 95. Bg8 Kb8 96. Ka3 Kc8 97. Kb3 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Nc3 Nc6 2. e3 e5 3. Bc4 Nf6 4. Qg4 d5 5. b3 Ba3 6. Nb5 Bxc1 7. Nxa7 Nh5 8. d4 Bxg4 9. Rb1 f6 10. Kf1 exd4 11. e4 Qe7 12. Nh3 Qxe4 13. Bd3 Kf8 14. f3 Bb2 15. Nf4 Qe7 16. Nb5 Nb4 17. Nc3 Qe3 18. Na4 Ba3 19. Rg1 b6 20. Bb5 Rg8 21. Ba6 Rb8 22. Nc3 dxc3 23. Rh1 Ra8 24. Ne2 Nxc2 25. Ra1 Rxa6 26. fxg4 Qh3 27. Nd4 Ra7 28. Rb1 Nb4 29. Ke1 c2 30. Nf3 Nd3+ 31. Kf1 Qxg2+ 32. Kxg2 Ng3 33. Rhg1 Nh5 34. Ra1 Ra4 35. Raf1 b5 36. Rf2 Ng3 37. hxg3 Nf4+ 38. gxf4 Ke7 39. f5 Ke8 40. Rgf1 Ra6 41. Kg3 Ke7 42. Kh3 Rf8 43. Rd1 Re8 44. Rdd2 Re6 45. Kh2 Kf7 46. Rxc2 b4 47. Rcd2 Re5 48. Rde2 Rf8 49. Re1 Re2 50. Rexe2 h6 51. Kg3 Re8 52. Nd4 Re3+ 53. Kh4 Rd3 54. Ne6 h5 55. Nf8 Kxf8 56. Rc2 hxg4 57. Rf3 Rxf3 58. Rc4 g3 59. Rd4 Rxf5 60. Rc4 g2 61. Rxb4 c6 62. Rb8+ Kf7 63. Rd8 Re5 64. b4 g1=Q 65. Rxd5 Qb1 66. Rxe5 Qb2 67. Rf5 Qe2 68. Rf2 Bxb4 69. Rxe2 Bf8 70. Rc2 f5 71. Rb2 Bd6 72. Rc2 c5 73. Kg5 Kf8 74. Kxf5 Ke7 75. Re2+ Kf8 76. Ke6 c4 77. Kxd6 g5 78. Rd2 g4 79. Rf2+ Kg7 80. Rb2 Kg6 81. Rb5 g3 82. Rb1 Kf6 83. Kd7 g2 84. Rb4 Kg7 85. Rb8 c3 86. Rb7 c2 87. Rc7 c1=Q 88. Ke6+ Kf8 89. Rc8+ Kg7 90. Kf5 Qd2 91. a4 Qc2+ 92. Rxc2 g1=Q 93. Rb2 Qh1 94. Rb1 Qxb1+ 95. Ke5 Qb3 96. a5 Qf3 97. a6 Kg8 98. a7 Kh7 99. a8=Q Kg7 100. Qb7+ Kg8 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. c3 Na6 2. a4 e5 3. e4 Qg5 4. Qh5 Ke7 5. Qd1 Nf6 6. Qh5 b6 7. Bb5 Qe3+ 8. Be2 g6 9. Qxh7 Qh6 10. b4 c6 11. a5 Rxh7 12. Bg4 g5 13. Ra4 Qg6 14. Na3 b5 15. Kd1 Nxb4 16. Bh5 Qh6 17. c4 bxc4 18. g4 a6 19. Bg6 Qxg6 20. Nxc4 Rh5 21. Ra1 Rxh2 22. Na3 d5 23. exd5 Qf5 24. gxf5 Rxf2 25. Rh8 Kd7 26. Rh1 e4 27. Rh8 Kd8 28. d3 Nxd3 29. Rb1 Nd7 30. Ra1 cxd5 31. Bd2 Nc1 32. f6 Bb7 33. Nc4 Rc8 34. Rb1 Rxc4 35. Rxc1 Rc3 36. Rh2 Rb3 37. Bb4 Rd3+ 38. Ke1 Nb8 39. Rc6 Rxh2 40. Rd6+ Bxd6 41. Bxd6 g4 42. Bc7+ Kxc7 43. Ne2 Nc6 44. Nf4 Na7 45. Nxd5+ Kc6 46. Ne3 Rd1+ 47. Nxd1 Rg2 48. Nc3 Ba8 49. Na2 Nc8 50. Kf1 Kc7 51. Ke1 Kb7 52. Kf1 Kc7 53. Ke1 Rf2 54. Nc1 Kb7 55. Kxf2 g3+ 56. Kxg3 Ka7 57. Kh4 e3 58. Kg5 e2 59. Kf5 e1=Q 60. Na2 Qe6+ 61. Kf4 Bf3 62. Kg3 Kb7 63. Kxf3 Qd6 64. Nb4 Qd4 65. Nd5 Ka8 66. Nb4 Qc4 67. Nd5 Qd4 68. Nb4 Qb2 69. Nd5 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nc3 Qe7 3. a4 Nc6 4. b4 a6 5. Ke2 Na5 6. Ke3 Nc4+ 7. Bxc4 Kd8 8. Bd5 Ke8 9. Qf1 Qd6 10. Qb5 Qxd5 11. Nb1 Qd6 12. Ra3 Nh6 13. h3 axb5 14. a5 Qd4+ 15. Ke2 f5 16. f4 Ra7 17. g4 Qa1 18. Rxa1 Rxa5 19. d4 Ra7 20. Bd2 Ra6 21. d5 Bxb4 22. Bc3 fxe4 23. Bxe5 Ra5 24. c4 Rxa1 25. Nc3 Bd6 26. cxb5 g5 27. Bg7 Rg8 28. Bf6 Kf8 29. Nf3 gxf4 30. Nd2 Rxg4 31. hxg4 Nxg4 32. Ndxe4 Ra6 33. bxa6 Bb4 34. Nc5 Nf2 35. Ne6+ dxe6 36. Rb1 Bxc3 37. a7 Nd3 38. Rd1 exd5 39. Rxd3 Ba1 40. Rxd5 Kg8 41. Rd7 Bxd7 42. Kd3 Bc6 43. Kd2 Bd7 44. Ke1 f3 45. Kf1 Bf5 46. Kf2 Bc2 47. Kxf3 Bd4 48. Bxd4 c5 49. Ke3 Kf7 50. Kf4 Bd3 51. Kg4 Kg6 52. Bc3 Bf1 53. Bd2 Bd3 54. Bf4 b6 55. a8=Q Ba6 56. Bc7 Kf6 57. Kh5 Ke6 58. Qg8+ Ke7 59. Qh8 c4 60. Qg7+ Ke8 61. Qg6+ Ke7 62. Qg7+ Ke8 63. Qg2 Kf7 64. Qg7+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. a4 a6 2. e4 Nf6 3. d3 Nd5 4. exd5 e6 5. Ke2 e5 6. Ra3 Qf6 7. Bh6 Qe7 8. Ke3 Qc5+ 9. d4 Qb5 10. Nd2 Qxb2 11. c3 Be7 12. Ra1 O-O 13. Rb1 Bf6 14. Qh5 Bd8 15. dxe5 Qb4 16. Bd3 a5 17. f4 Qxb1 18. Qh4 Qd1 19. Ba6 gxh6 20. g4 c5 21. h3 Bb6 22. f5 Re8 23. Qg3 Qe1+ 24. Qxe1 Nxa6 25. Ne2 Nc7 26. Qf2 Ba7 27. Kf3 Nb5 28. d6 c4 29. axb5 Rb8 30. Qg2 Kg7 31. Rc1 Bg1 32. Ra1 Rxe5 33. Rxg1 Rxe2 34. Kg3 a4 35. Qd5 Re7 36. Rh1 b6 37. h4 Bb7 38. g5 Bxd5 39. Rc1 hxg5 40. Rg1 Bc6 41. Rd1 gxh4+ 42. Kxh4 Re6 43. Rh1 Rf6 44. Ra1 Bxb5 45. Ne4 Kg8 46. Kg3 Re6 47. Kg4 Ba6 48. Ng5 Re2 49. Kh5 Re6 50. Nxh7 Rxd6 51. Rxa4 Kh8 52. Kg5 Kg8 53. Rxc4 Rc8 54. Rg4 Kh8 55. Rh4 Kg8 56. Kg4 Kh8 57. Kh5 Rcc6 58. Kg4 Kg8 59. Kh5 Kh8 60. c4 Kg8 61. f6 Rd4 62. Ng5 Re6 63. Nh7 Red6 64. Kh6 Kh8 65. Rh5 Kg8 66. Rc5 Bb5 67. Rc8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. f3 e5 2. e4 Ke7 3. Be2 d5 4. h3 b6 5. exd5 Qd6 6. Kf2 g5 7. g4 Ba6 8. Na3 e4 9. c3 e3+ 10. Kg2 Nh6 11. Rh2 Qxh2+ 12. Kxh2 Kd8 13. Qf1 Nd7 14. d4 Bc4 15. Kg3 Nc5 16. Kh2 Na4 17. Kg3 Nxg4 18. Nxc4 Nf6 19. Bd1 Bh6 20. Bb3 Ke7 21. Nxb6 cxb6 22. c4 Nc3 23. Bd2 b5 24. Qe2 Nd1 25. Be1 bxc4 26. Bc2 Nxd5 27. Rb1 Bf8 28. Bb4+ Kd7 29. Qf1 Nf2 30. Be4 Bh6 31. Be7 Nb4 32. d5 Rae8 33. Bf8 Bxf8 34. Bf5+ Kd6 35. a4 Nc2 36. Qxc4 Na3 37. Bc2 Re7 38. Rc1 Nd3 39. Rd1 Nb4 40. Kh2 a5 41. Kg3 Nc6 42. Qxc6+ Ke5 43. bxa3 Rd7 44. Qa8 f5 45. Bb3 Bd6 46. Qa6 h5 47. Qd3 Ra8 48. Qc3# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. g4 Na6 2. a3 b6 3. f4 d6 4. c4 c6 5. b4 h5 6. h4 Bxg4 7. Kf2 Bf5 8. Nc3 d5 9. Ke1 Rh7 10. c5 e5 11. Bb2 e4 12. Rc1 Nc7 13. cxb6 g5 14. a4 f6 15. Ba1 a5 16. Nb1 Bc8 17. Bc3 f5 18. fxg5 Bd7 19. bxa5 e3 20. dxe3 f4 21. e4 d4 22. bxc7 Bf5 23. a6 f3 24. a5 Be7 25. Bg2 fxg2 26. Bb4 Bxe4 27. Qd2 Qb8 28. c8=N Ra7 29. Rh2 Qg3+ 30. Kd1 Rxa6 31. Rc3 Kf8 32. Rc2 Qe5 33. Nxe7 Qg7 34. Ke1 Ra8 35. Nd5+ Ke8 36. Bd6 Kf7 37. Nf3 Rb8 38. Rxc6 Rd8 39. e3 Bxb1 40. Bc7 Rd6 41. Nb6 Bg6 42. Nc4 Rd5 43. e4 Re5 44. Kf2 Rf5 45. Rb6 Kf8 46. Rd6 Qd7 47. Ke2 Rh6 48. Bb6 Qe7 49. Ne1 Qd7 50. Nxg2 Qxd6 51. Qc3 Qd8 52. Qb2 Qc8 53. e5 Qc6 54. Qc1 Ke7 55. Qe1 Qe6 56. Qf1 Kf7 57. Bxd4 Ne7 58. a6 Rh7 59. Qc1 Qd5 60. Qe1 Kf8 61. Qf1 Ke8 62. Nd6+ Kf8 63. Nxf5 Qa5 64. Ke3 Nd5+ 65. Ke4 Qb4 66. Kxd5 Qb8 67. Ba7 Qxa7 68. Ke6 Bxf5+ 69. Qxf5+ Ke8 70. Qxh7 Kd8 71. Qd7+ Qxd7+ 72. Kf6 Kc7 73. e6 Qd6 74. a7 Qa6 75. Ne3 Kc6 76. e7 Kb5+ 77. Kg7 Kb6 78. e8=R Ka5 79. Kf7 Qxa7+ 80. Kf8 Kb4 81. Nf5 Ka3 82. Re3+ Ka4 83. Rc2 Kb5 84. Rg3 Ka6 85. g6 Qb7 86. Rb2 Qc7 87. Rc2 Qb6 88. Kf7 Ka7 89. Rb2 Qg1 90. Rf3 Qg2 91. Rb5 Ka6 92. Rb1 Ka5 93. Rb5+ Ka6 94. Rb1 Ka5 95. Rb5+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 c5 2. Bc4 d5 3. exd5 e5 4. Bf1 Qc7 5. g4 a5 6. b3 Qc6 7. Nh3 Qa4 8. Bb2 Qb5 9. d6 Qe2+ 10. Bxe2 Nc6 11. Nc3 a4 12. Bf3 e4 13. Qe2 g6 14. d4 Nb4 15. a3 b6 16. Ng1 axb3 17. Qb5+ Bd7 18. Rc1 Nd3+ 19. Qxd3 Be6 20. Qxe4 Rb8 21. h4 Be7 22. Kd2 Bxd6 23. Na4 Ke7 24. cxb3 Rc8 25. Qa8 Bxb3 26. Qe4+ Be6 27. Qe5 h5 28. Ne2 b5 29. Rc3 Ke8 30. Ng1 Kd7 31. d5 Bxe5 32. Rb3 Bc3+ 33. Kxc3 Rc6 34. d6 c4 35. Rxb5 Rc5 36. Nxc5+ Kc8 37. Rb8+ Kxb8 38. Nd3 g5 39. Nc1 hxg4 40. d7 Rxh4 41. d8=R+ Kc7 42. Rd4 Rh5 43. Rd3 Rh6 44. Ba8 Rh7 45. Rd5 Bxd5 46. Ba1 Rh6 47. Rh2 Kb8 48. Rh3 Bxa8 49. Rxh6 Be4 50. f3 g3 51. Rh1 Bc2 52. Rh3 Kc8 53. Rh8 Kd7 54. Rh6 Ke7 55. Rd6 Ke8 56. f4 Bd3 57. Kd4 Kf8 58. Bc3 Bc2 59. Ke5 Kg7 60. Nf3 Bb3 61. a4 gxf4 62. Kf5+ f6 63. a5 Ba4 64. Nd2 Bb5 65. Rd7+ Kh6 66. Rf7 f3 67. Rd7 Kh5 68. Rf7 Ba4 69. Bd4 Bb5 70. Rh7+ Nh6+ 71. Kxf6 Bd7 72. Rxh6+ Kg4 73. a6 f2 74. Rh5 Kf4 75. Bc3 Be8 76. Nb1 Bf7 77. Rh6 Be6 78. Kg7 Bd5 79. Rh4+ Kf3 80. Bb2 Kg2 81. Rf4 c3 82. Kg6 cxb2 83. Ne2 Be6 84. Nbc3 Bg8 85. Rxf2+ Kxf2 86. Kg5 Ba2 87. Kf5 Ke1 88. Kg4 g2 89. Kh5 g1=Q 90. a7 Qc5+ 91. Kg6 Qb5 92. Nxa2 Kxe2 93. a8=Q Qb6+ 94. Kf7 Kd3 95. Qa5 Qc6 96. Qa3+ Qc3 97. Qa8 Qe5 98. Qa5 Qe2 99. Qf5+ Kc4 100. Qh7 Qd3 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. b3 e5 2. Ba3 Ne7 3. b4 b6 4. g3 Nec6 5. Bg2 a5 6. c4 axb4 7. Nf3 f5 8. Nxe5 g6 9. h4 bxa3 10. Bd5 f4 11. Nxg6 Bb7 12. Kf1 Na6 13. e4 fxg3 14. Ne7 Kxe7 15. fxg3 Nc5 16. Ke1 Rc8 17. Bxc6 dxc6 18. Qh5 Qd3 19. Qf7+ Kxf7 20. Nc3 Nxe4 21. Rg1 Ke7 22. g4 Qg3+ 23. Rxg3 Kd8 24. Rg1 Bb4 25. Ne2 h6 26. h5 Ke7 27. Kf1 Ba8 28. d3 Nc3 29. Nc1 Ne4 30. Rh1 Ke8 31. Rb1 Kf7 32. Rg1 Nf2 33. d4 Kf6 34. Kxf2 Rce8 35. Kg2 b5 36. Rb3 Be1 37. Rf3+ Ke6 38. Rxa3 bxc4 39. Rxa8 Ref8 40. Rb8 Rf2+ 41. Kh3 Rhf8 42. Rb6 Bd2 43. a4 Be1 44. Rg3 Re8 45. Kh4 Rh2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. e4 c5 2. Nc3 Qb6 3. g4 e5 4. Bh3 Bd6 5. f3 h5 6. Kf2 a5 7. Kg3 hxg4 8. fxg4 Ra6 9. b3 g6 10. Bg2 Ra7 11. Bf1 Qb4 12. d4 Kd8 13. Bf4 Kc7 14. Kg2 Qa3 15. Ba6 b6 16. Qe2 Nxa6 17. Bg3 cxd4 18. Rc1 Ne7 19. Qb5 Bb7 20. Re1 Bb4 21. h4 Raa8 22. Qxb4 Qc1 23. Bf2 Qb2 24. Qb5 Qxc2 25. h5 Nc6 26. Rf1 Rac8 27. Nce2 a4 28. Kf3 Qxb3+ 29. Nc3 d3 30. Rh3 Qd5 31. exd5 Rcf8 32. Bg3 Rc8 33. Bh4 Nc5 34. Kg3 Rh7 35. Rxf7 Na5 36. Qc6+ Nxc6 37. Rf8 Rh6 38. g5 gxh5 39. Nd1 Re6 40. Rxc8+ Bxc8 41. d6+ Kxd6 42. g6 Nb4 43. a3 Ba6 44. Kf3 d2 45. axb4 Kd5 46. Kg3 a3 47. Kf3 e4+ 48. Kg3 Rf6 49. g7 Rf2 50. Be7 Rf3+ 51. Kg2 e3 52. Bf8 Rf1 53. Nc3+ Kc6 54. Rxe3 h4 55. Na4 Rf7 56. Kh3 Rxf8 57. Nxc5 Rc8 58. Rf3 Rh8 59. Rf8 Bb7 60. Ne4 Kc7 61. g8=Q Rxg8 62. Rf7 b5 63. Ng5 Rh8 64. Rh7 Rg8 65. Rg7 Rh8 66. N1f3 Kb6 67. Nxh4 Rd8 68. Nf7 d1=R 69. Nd6 Bf3 70. Kg3 Rb8 71. Kh3 a2 72. Kg3 Bb7 73. Nxb7 Rd5 74. Kh3 Ka6 75. Ng6 Kb6 76. Nh4 Ka6 77. Ng6 Kb6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. g4 c6 2. Bg2 b5 3. h3 d6 4. g5 Kd7 5. c3 e5 6. Kf1 Qa5 7. Na3 Ke7 8. Qe1 Bf5 9. b4 Nd7 10. g6 hxg6 11. e4 Qa6 12. Qe2 Bxh3 13. d4 Rh7 14. Rb1 Qc8 15. Nc2 Be6 16. Bd2 a5 17. Rb3 Rh4 18. Bh6 gxh6 19. f4 Qb8 20. Rh2 Nc5 21. Qd3 axb4 22. dxe5 Rxh2 23. Rb1 bxc3 24. Na3 Nxd3 25. Nf3 Rxg2 26. Ra1 d5 27. Nd4 Nxf4 28. Ke1 Bg4 29. exd5 Rxa3 30. dxc6 Bf5 31. Nxf5+ Kd8 32. Kf1 Ra5 33. Ne3 Rg5 34. a4 f5 35. e6 Nf6 36. Kf2 Ra6 37. Nxf5 Qa7+ 38. Ke1 Qg1# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. c3 h5 2. f3 d5 3. e4 f6 4. Qb3 Bh3 5. Ke2 a6 6. d4 Ra7 7. Qxd5 b5 8. Nd2 g5 9. Nc4 bxc4 10. Kd2 Nh6 11. Qf7+ Kd7 12. gxh3 Rb7 13. h4 Rg8 14. Rb1 Ng4 15. Kd1 Kc6 16. e5 Rxb2 17. Bxc4 Rxb1 18. Bb3 a5 19. Qxg8 Kb6 20. e6 Ne5 21. f4 Qd5 22. h3 f5 23. Qh7 Qb7 24. Qf7 gxf4 25. Qxf5 Nc4 26. Ne2 Qg2 27. Qg6 Rxb3 28. Qg3 Nd6 29. Qg7 Nb5 30. Qe5 Nc6 31. Bd2 Nxe5 32. Ke1 Qe4 33. Kf2 Ng4+ 34. Ke1 Nxd4 35. hxg4 Qxe2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. a3 c5 2. e3 b6 3. c3 c4 4. b3 Qc7 5. bxc4 g6 6. d4 h5 7. d5 Qc5 8. Bb2 b5 9. Qd2 Bg7 10. Qd4 Qb4 11. Bd3 Bh6 12. Qxa7 h4 13. g4 Bf8 14. Nd2 g5 15. cxb4 Rh5 16. Qxd7+ Nxd7 17. d6 Ba6 18. Kd1 e5 19. gxh5 Ngf6 20. Bxe5 Rd8 21. Bb1 Nc5 22. h6 Nh5 23. cxb5 Ne6 24. Ne2 Rb8 25. Kc1 Neg7 26. Kc2 Ne6 27. e4 Nc5 28. Re1 Rxb5 29. bxc5 f5 30. Bc3 Rb6 31. e5 Rb2+ 32. Kxb2 Nf4 33. Ba5 Nxe2 34. Bc2 Bb7 35. Rxe2 Kd7 36. Bb1 Kc6 37. Nf3 Kd7 38. Re1 Kc6 39. Rf1 Kb5 40. Bb4 Kc4 41. Rc1+ Kd5 42. Bc2 Bxh6 43. e6 Kc6 44. Ne5+ Kb5 45. Nf7 Kc6 46. Bb3 Bg7+ 47. Rc3 Be5 48. Nxe5+ Kb5 49. Bc4+ Ka4 50. Rg3 f4 51. Nd7 g4 52. Re1 fxg3 53. Nb6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. h4 c5 2. e4 c4 3. a3 f6 4. Nc3 b6 5. Bxc4 Qc7 6. b3 b5 7. Ra2 d5 8. exd5 Bd7 9. Bb2 f5 10. d3 Qb6 11. g4 Qc6 12. Kf1 e6 13. a4 bxa4 14. Nxa4 Qc7 15. d6 h5 16. Nc5 e5 17. Qe2 Na6 18. Kg2 Qxd6 19. Bxe5 Nf6 20. Ra4 Nd5 21. Ra5 Kf7 22. Rb5 Qxe5 23. Qd1 Qe8 24. Ne6 Kf6 25. Nxf8 Qe5 26. f3 hxg4 27. Qf1 Qe2+ 28. Qxe2 Rb8 29. Ra5 Rd8 30. Qf2 Rdxf8 31. Qxa7 Bc6 32. Rxd5 Rd8 33. Re5 Nc5 34. Rxf5+ Kg6 35. Qxg7+ Kxg7 36. Rf6 Kxf6 37. d4 Na4 38. Ne2 Nc3 39. Nc1 g3 40. Ba6 Kf7 41. Bc4+ Ke8 42. Be6 Rf8 43. Kxg3 Rxd4 44. Kh2 Bb7 45. Bg8 Na2 46. Be6 Rd3 47. cxd3 Ba8 48. Bd5 Bb7 49. Be6 Bxf3 50. Rg1 Ke7 51. Rd1 Rc8 52. b4 Rc7 53. b5 Bh1 54. Nxa2 Kxe6 55. Kh3 Rc6 56. d4 Kd5 57. Nb4+ Kc4 58. bxc6 Be4 59. d5 Bg2+ 60. Kxg2 Kb3 61. Rb1+ Ka3 62. Kh3 Ka4 63. Kg2 Kb5 64. h5 Ka5 65. d6 Kb5 66. Kg1 Ka5 67. Na6 Kxa6 68. c7 Ka7 69. h6 Ka8 70. d7 Ka7 71. c8=Q 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. f3 c5 2. f4 a6 3. c3 d6 4. g3 Nc6 5. Bg2 b5 6. Kf1 Qa5 7. e4 Qxc3 8. Qe2 f5 9. Qf3 Kd7 10. Nh3 g5 11. fxg5 Qe3 12. a4 Nf6 13. g4 c4 14. Na3 c3 15. dxc3 f4 16. gxf6 Ke6 17. axb5 Bd7 18. bxa6 h6 19. Bxe3 Rb8 20. Re1 Rb4 21. f7 Rb8 22. Ng1 Rb4 23. g5 Rb8 24. g6 Rb6 25. Nc4 Nb4 26. h4 Bc6 27. Na3 Kd7 28. h5 Bg7 29. Ra1 Rf8 30. Kf2 Bd4 31. Bxd4 Ke6 32. Ra2 Nc2 33. Bh8 Rxf7 34. Rh4 Rf8 35. Ne2 Rg8 36. Qg4# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. c4 b5 2. a3 e6 3. g4 Bd6 4. Qb3 Nh6 5. Nh3 Bb7 6. e4 Ke7 7. Qc3 Nc6 8. Qb4 Ba6 9. Bg2 f5 10. f3 Bb7 11. Qb3 a5 12. Qc3 Rb8 13. c5 Re8 14. e5 Rf8 15. Nf2 Ng8 16. Qe3 Ke8 17. h4 Rf7 18. Nc3 Ke7 19. Nd5+ exd5 20. O-O g5 21. cxd6+ Ke8 22. e6 Ba8 23. Kh1 h6 24. hxg5 dxe6 25. d4 Rd7 26. Rd1 Qf6 27. Rf1 Kf8 28. g6 Rf7 29. f4 Re7 30. Ra2 Rd7 31. a4 Rf7 32. Bd2 Qe7 33. Bxa5 Qxd6 34. Raa1 b4 35. Bb6 Rg7 36. Kg1 Qd7 37. Rac1 Nf6 38. gxf5 Ke7 39. Qb3 Ng8 40. Nh1 Rb7 41. Rb1 Rxb6 42. Qc3 e5 43. Qa3 bxa3 44. Kf2 exf4 45. Rfd1 a2 46. Ng3 f3 47. Bxf3 Rxb2+ 48. Rxb2 Kf8 49. Rc2 Qe7 50. Ne4 Ke8 51. Nc3 Nf6 52. Be2 Qd7 53. Rh1 Qxf5+ 54. Ke3 Qxc2 55. Bf3 Na5 56. Be2 Nc4+ 57. Bxc4 Qxc3+ 58. Bd3 Rxg6 59. Kf4 Kf8 60. Bf5 Kg7 61. Rg1 c5 62. dxc5 Qe1 63. Rxg6+ Kh8 64. Bd3 Kh7 65. Be2 Ne4 66. Rxh6+ Kxh6 67. Bf3 Nf2 68. c6 Qd1 69. Bxd1 d4 70. a5 Ne4 71. Bc2 Kg6 72. Kxe4 Kf6 73. Kxd4 a1=Q+ 74. Kc5 Qxa5+ 75. Kd6 Qa2 76. Bb3 Qd2+ 77. Bd5 Kg7 78. c7 Qe3 79. c8=R Kh6 80. Rd8 Qa7 81. Re8 Kg7 82. Rg8+ Kf6 83. Rh8 Qe7# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. a3 e6 2. c4 Bb4 3. g4 Be7 4. Qb3 g5 5. c5 b6 6. Nf3 d6 7. cxb6 a5 8. Qd3 Bd7 9. a4 c5 10. Na3 e5 11. Nb1 Bc6 12. Qxh7 Be4 13. Nd4 exd4 14. Nc3 Qxb6 15. f4 d5 16. Nd1 Ra6 17. Rg1 Bg2 18. Bxg2 Qb3 19. Rh1 Bd8 20. Rf1 d3 21. Rf3 Bf6 22. fxg5 Bg7 23. Qxg7 Nc6 24. g6 Kd7 25. Ra2 Qxa2 26. Rf6 Qc4 27. Rd6+ Ke7 28. Qxf7+ Kxd6 29. e4 Ra8 30. Qg7 d4 31. Qf6+ Nxf6 32. h4 Nxe4 33. h5 Nb4 34. Bxe4 Rhe8 35. Kf1 Rxe4 36. b3 Qxb3 37. Ba3 Rb8 38. g5 Qxd1+ 39. Kf2 Qe1+ 40. Kg2 Nd5 41. Kh2 Qe3 42. h6 Nb4 43. h7 Rf4 44. Bb2 Qe2+ 45. Kg3 Re4 46. Ba3 Qe1+ 47. Kg2 Qc1 48. g7 Qa1 49. Kf3 Rf4+ 50. Kg3 Rf3+ 51. Kg2 Rf1 52. g6 Kc7 53. Bb2 Rb1 54. Bc1 Rb5 55. Ba3 Rd1 56. axb5 Rg1+ 57. Kf3 Rb1 58. Kg3 a4 59. Kf3 Rd1 60. Kg3 Rxd2 61. Kh4 Qb2 62. Kg5 Kd7 63. g8=N Rf2 64. Kh5 Kd6 65. Kh6 d2 66. Bxb2 Nd3 67. Bc1 Kd7 68. Bxd2 c4 69. Bf4 Rh2+ 70. Bxh2 a3 71. Bf4 Kc8 72. Bg3 Kd7 73. Bc7 Nc1 74. Be5 Ke6 75. Bf6 Kd7 76. Kg7 c3 77. Kf7 d3 78. g7 Kc7 79. Bxc3 Kb6 80. Bd2 Kxb5 81. Bb4 Ka4 82. Bc3 Kb5 83. Bd2 Ka4 84. Be1 Kb3 85. Kg6 Ne2 86. Bf2 a2 87. Bd4 a1=Q 88. Bc5 Ka4 89. Ba3 Kxa3 90. Ne7 d2 91. Nf5 Qxg7+ 92. Kxg7 Nc3 93. h8=Q Ka2 94. Ne7 d1=Q 95. Nf5 Qg1+ 96. Ng3 Qg2 97. Kf7 Qxg3 98. Qe5 Qg6+ 99. Kxg6 Ka1 100. Kf7 Kb2 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Na3 e5 2. Rb1 h5 3. g4 Nc6 4. Bg2 Bxa3 5. b4 Nxb4 6. Bf1 a5 7. Bg2 g5 8. c4 hxg4 9. Bxb7 d6 10. e4 Ne7 11. d3 Bd7 12. Bxg5 Rb8 13. f3 Nc2+ 14. Kf1 Kf8 15. Bf4 Rc8 16. Qe1 gxf3 17. Be3 Qe8 18. Qf2 Nd5 19. Bc1 Nb6 20. Rxb6 Rh5 21. Rb1 Bg4 22. Ba8 Rxa8 23. Bd2 f6 24. Qd4 Rh7 25. h3 a4 26. hxg4 Ne1 27. Bf4 Ra7 28. Bg3 Qf7 29. Qxa7 Rh6 30. Qa8+ Kg7 31. Rb4 Qe8 32. Nxf3 Qg6 33. g5 Rh4 34. Nxe5 dxe5 35. Qd8 Rxh1+ 36. Ke2 Qf7 37. Qg8+ Qxg8 38. Rb6 Rh4 39. g6 Rh1 40. Kf2 Rg1 41. Rb2 Qa8 42. Ke3 Nf3 43. Rb1 Qxe4+ 44. dxe4 Re1+ 45. Kxf3 Kh6 46. Bxe1 c6 47. g7 Kxg7 48. Ke3 Kg6 49. Rc1 Kg7 50. c5 Kg6 51. Bb4 Kf7 52. Rd1 Ke6 53. Rd6+ Kf7 54. Kd2 Bc1+ 55. Kd3 a3 56. Kc3 Bb2+ 57. Kc4 Ke7 58. Rxc6 Ke8 59. Kb3 Bd4 60. Kxa3 Kf7 61. Ra6 Kg6 62. Rc6 Kg7 63. Be1 Kh7 64. Rc8 Kg6 65. Bf2 Kg7 66. Bxd4 exd4 67. Rc6 Kg6 68. Rc7 d3 69. Rb7 d2 70. Rd7 Kg5 71. c6 Kh4 72. c7 d1=B 73. c8=Q Kg4 74. Rb7+ Kf4 75. Qd7 Kxe4 76. Qd2 Bf3 77. Qc3 Be2 78. Ra7 Bb5 79. Rb7 Ba6 80. Qb3 Bxb7 81. Ka4 Ba6 82. a3 Bc4 83. Qxc4+ Ke3 84. Qb3+ Ke2 85. Qb7 Kf2 86. Qb4 f5 87. Kb5 Kf1 88. Qa4 Ke2 89. Qa7 f4 90. a4 f3 91. a5 f2 92. a6 f1=Q 93. Kb6 Qf2+ 94. Kb7 Qh2 95. Qe3+ Kf1 96. a7 Qg2+ 97. Kc7 Qa2 98. Kb8 Qf2 99. Kc8 Qg3 100. Qb3 Qe5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. a4 e5 2. e4 Nc6 3. Ra3 Bc5 4. Nc3 g6 5. Qf3 Nb4 6. Qg4 Bb6 7. Qh5 d6 8. g4 Be3 9. Nd5 Bg5 10. Kd1 Bxd2 11. Bh3 Qg5 12. Qxh7 Bd7 13. Bg2 Bf5 14. gxf5 Qf4 15. Qh6 Nxc2 16. Qxf4 Na1 17. Rd3 Ne7 18. f6 Be3 19. Qg3 Bxf2 20. Rd2 Nc6 21. Qxf2 Nd8 22. h4 c6 23. Qg3 Rg8 24. Nc3 Ne6 25. Qxg6 fxg6 26. Nb1 Rh8 27. Bf3 Nf4 28. Rh3 b5 29. Rh1 bxa4 30. Rdh2 Kf7 31. Rg2 a6 32. Rhh2 Nc2 33. b4 Kg8 34. Rd2 Na3 35. Bb2 Ne6 36. Ne2 c5 37. Rxd6 c4 38. Nec3 Ng7 39. Bg2 Kf8 40. Ke2 Nc2 41. Rxa6 Ne6 42. Bh3 Ned4+ 43. Kf2 a3 44. Rc6 Rc8 45. h5 a2 46. Ra6 gxh5 47. Ra7 Kg8 48. Bf1 Rc5 49. Be2 Kf8 50. Rg7 Rg8 51. Nd5 Rh8 52. Ba1 Rb5 53. Nd2 Ke8 54. Bf1 h4 55. Nb3 Rxb4 56. Rxh4 cxb3 57. Rxh8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. f4 e6 2. e4 Ba3 3. e5 g6 4. Nc3 Nc6 5. Nf3 Nb8 6. Bd3 Bd6 7. h4 Bf8 8. Bc4 Bg7 9. b4 c5 10. Kf2 Na6 11. Ng1 Qf6 12. Kf3 Nxb4 13. Ne4 Kf8 14. exf6 d5 15. d4 cxd4 16. Kg3 Bd7 17. Nf2 dxc4 18. Qxd4 Nc6 19. Qd1 Rb8 20. h5 b5 21. fxg7+ Ke8 22. a4 Nf6 23. Qd5 Ke7 24. axb5 exd5 25. Ra6 Nd8 26. Bb2 Rf8 27. c3 Ke8 28. Nfh3 Rh8 29. gxh8=B Be6 30. Ng5 Bh3 31. gxh3 gxh5 32. h4 Ne4+ 33. Kg2 d4 34. Nxe4 Kf8 35. Bxd4 f5 36. Bb6 axb6 37. Ra4 Ke7 38. Nf3 Kf7 39. Nf6 Kg7 40. Ne1 Kg6 41. Ng8 Nc6 42. Kf3 Na7 43. Ke3 Rd8 44. Nd3 Rxd3+ 45. Ke2 Rxc3 46. Bxc3 Nc6 47. bxc6 b5 48. Rb4 h6 49. c7 Kh7 50. Ke3 Kxg8 51. Rb3 b4 52. Rh2 Kf7 53. Rc2 Kg6 54. Rcb2 bxc3 55. Ra2 Kf7 56. c8=Q Kg7 57. Qb8 c2 58. Rab2 c1=Q+ 59. Ke2 Qe3+ 60. Kd1 Qd4+ 61. Kc2 c3 62. Rb5 cxb2 63. Rb3 Qf2+ 64. Kd1 Qg2 65. Rf3 Kh7 66. Qxb2 Qf2 67. Rg3 Qf1+ 68. Kd2 Qh1 69. Qg7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. Nc3 e5 2. Nb1 Bd6 3. Nf3 f5 4. Rg1 e4 5. Na3 Nf6 6. h3 f4 7. g3 b6 8. Ng5 b5 9. Rg2 Ng4 10. d4 fxg3 11. hxg4 b4 12. Bf4 bxa3 13. Nh3 Bf8 14. bxa3 c5 15. e3 Rg8 16. Bxg3 h5 17. Ng5 d6 18. gxh5 Nd7 19. Qb1 cxd4 20. Bh2 Rb8 21. Nf3 Nb6 22. Bg3 g5 23. Nxd4 Bf5 24. Bf4 gxf4 25. Be2 Rg7 26. Nxf5 Rg8 27. Bg4 Qh4 28. Be2 Qg3 29. Kf1 Rc8 30. Rg1 Qf3 31. Bxf3 Nd7 32. Rg5 Rxg5 33. Bg2 Rxh5 34. Qb5 f3 35. Nh6 Rf5 36. Bh1 Re5 37. Nf5 Be7 38. Nxe7 Rg5 39. Qd3 Kf7 40. Qd5+ Kxe7 41. a4 Rg7 42. Qf7+ Kxf7 43. Bxf3 Rg5 44. Bd1 Rc6 45. Bh5+ Ke7 46. Bg6 Rxc2 47. f3 Kf8 48. Re1 Ra5 49. fxe4 Nc5 50. Rd1 Ke7 51. Rd4 Ke6 52. Rb4 Ke5 53. Rb7 Nxb7 54. Ke1 Rac5 55. Kd1 Rc1+ 56. Ke2 R5c4 57. Kf3 Rf1+ 58. Kg2 Rfc1 59. Kf3 Rf1+ 60. Kg2 Rfc1 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1/2-1/2"]
+
+1. a3 c5 2. Ra2 e5 3. f3 c4 4. g3 Qg5 5. Bg2 Qxd2+ 6. Bxd2 a5 7. a4 Ba3 8. e4 Bxb2 9. Kf2 Ra7 10. h4 Ba1 11. Rb2 Nh6 12. g4 O-O 13. Rb5 Nxg4+ 14. fxg4 Bb2 15. Kf1 Kh8 16. Bh6 Kg8 17. Qd5 c3 18. Rb3 Kh8 19. Qxd7 Nc6 20. Bxg7+ Kg8 21. Rb6 Bxd7 22. h5 Raa8 23. Bh6 Na7 24. Bh3 Bc6 25. Nf3 Bd7 26. Rg6+ Kh8 27. Ng1 hxg6 28. Rh2 Bf5 29. Bg5 Rac8 30. Rd2 Be6 31. Rd5 f5 32. Rxe5 gxh5 33. gxf5 Rg8 34. Rc5 Rc6 35. Ke1 Bc1 36. Be7 Rxc5 37. Bf8 Rxf8 38. Kf1 Rc7 39. Nd2 Rcc8 40. f6 Bxd2 41. Nf3 Bh6 42. Ne5 Kg8 43. Ng6 Rfe8 44. Bxe6+ Kh7 45. Ke2 Bd2 46. Kf2 Kxg6 47. Ke2 Kh7 48. f7 Rf8 49. Kf2 Rb8 50. Ke2 Rxf7 51. Bxf7 Bh6 52. Kf2 Rd8 53. Ke1 b6 54. Kf2 b5 55. axb5 Kh8 56. Kg2 Bd2 57. Kh3 Bf4 58. b6 Rd1 59. bxa7 Rd6 60. e5 Rd4 61. Kg2 h4 62. Bg6 Kg8 63. Be4 Kh8 64. a8=Q+ Kg7 65. Qd5 Rb4 66. Qd8 a4 67. Qc8 Bxe5 68. Bd5 Rb1 69. Qc6 Bf4 70. Qg6+ Kxg6 71. Bf7+ Kxf7 72. Kf3 Be5 73. Kg4 Ke6 74. Kxh4 Ke7 75. Kg4 Kf6 76. Kh5 Ke7 77. Kg4 Kf6 78. Kh5 Bg3 79. Kh6 Rb2 80. Kh5 Kg7 81. Kg5 Kh7 82. Kf5 Kg8 83. Ke4 Bd6 84. Kd4 Kh8 85. Ke4 Kg8 86. Kd4 Kh8 87. Ke4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. Nf3 Nc6 2. Nh4 e5 3. e4 Na5 4. Qh5 Ke7 5. Qxh7 c6 6. Qh6 b5 7. Qh7 g5 8. d4 Nb3 9. Qg6 gxh4 10. cxb3 Nh6 11. Nd2 Rg8 12. f4 d5 13. Kd1 Qe8 14. exd5 Rxg6 15. fxe5 Nf5 16. Ne4 Rg5 17. Nf6 Ng7 18. Ke1 Bf5 19. Bd2 cxd5 20. Nd7 Kxd7 21. Rd1 Qe6 22. Bd3 Bg6 23. Be2 Be4 24. g3 h3 25. Kf1 Bg2+ 26. Ke1 Qf6 27. Rf1 Qg6 28. Rf6 Qxf6 29. Bf4 Ke8 30. exf6 a5 31. Bd3 Ra7 32. fxg7 Bd6 33. Bf1 Bxf4 34. Bd3 Rxg3 35. Bc2 Bb8 36. Kf2 Rc3 37. Bd3 Bh1 38. Ke3 Bf4+ 39. Ke2 Bb8 40. Rd2 Ke7 41. g8=R Rc1 42. Ke3 Ke6 43. Bxb5 Bf4+ 44. Kd3 Bxh2 45. Bd7+ Ke7 46. Rb8 Bg2 47. Rb4 axb4 48. Rxg2 Rc5 49. Rg5 Ra6 50. Rf5 Rca5 51. Kc2 Ra4 52. bxa4 Kxd7 53. Kb3 f6 54. Rf3 Ra8 55. Re3 Bg1 56. Kxb4 Rc8 57. Re7+ Kxe7 58. Ka5 Kf7 59. Ka6 Rh8 60. b3 Bxd4 61. b4 h2 62. b5 h1=Q 63. b6 Bb2 64. Ka5 Be5 65. Ka6 Rd8 66. Ka7 Kg6 67. b7 f5 68. b8=R Qb1 69. a3 Bf4 70. Rb6+ Kg5 71. Rb3 Kg4 72. Rf3 Kh4 73. Rxf4+ Kh3 74. Rf3+ Kh2 75. Re3 Kg1 76. Rb3 Kg2 77. Rf3 Ra8+ 78. Kxa8 Qb3 79. Rg3+ Kh1 80. Rh3+ Kg2 81. Re3 Qd1 82. Re1 Qf3 83. Re6 Kg3 84. Rb6 Qe4 85. Re6 Qxe6 86. a5 Qg8+ 87. Ka7 Qf7+ 88. Kb6 Qe7 89. a6 Qc7+ 90. Kb5 Qc1 91. a4 Kf2 92. a7 Qd2 93. a5 Kg3 94. a6 Qb4+ 95. Kxb4 Kf2 96. Ka5 Kf1 97. a8=Q Ke2 98. Kb4 Ke1 99. a7 Kd1 100. Kc5 Kc1 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 c5 2. c4 g6 3. h4 Qa5 4. a3 e5 5. Qc2 Qd8 6. Ke2 b6 7. Ke3 h6 8. Ne2 Be7 9. a4 Ba6 10. a5 g5 11. b3 f5 12. exf5 Kf7 13. axb6 Ke8 14. d3 Qc8 15. Nbc3 d6 16. g4 Rh7 17. Kf3 Bf8 18. d4 Bg7 19. dxe5 Kd8 20. Qe4 Qd7 21. Na4 Nc6 22. hxg5 Bf6 23. Bd2 Nxe5+ 24. Kg2 Rb8 25. g6 Qe7 26. Nc1 Ke8 27. Qc2 Qd7 28. Qd3 Qe7 29. Ra3 Qe6 30. Qb1 axb6 31. Qa2 Bb7+ 32. Kg3 Rg7 33. Nb2 Qd7 34. f4 Qc7 35. fxe5 Be7 36. e6 Ba6 37. f6 Bxf6 38. Bf4 Bc8 39. Ra6 Rxg6 40. Ra5 Bd7 41. Ra3 Qc8 42. exd7+ Qxd7 43. Ra8 Rxa8 44. Nbd3 Kf7 45. Nxc5 Kg7 46. Ne4 Rb8 47. Nd3 Rd8 48. Nd2 Qe7 49. Qb2 Qc7 50. Be3 Rf8 51. Bf4 Qxc4 52. bxc4 Ra8 53. Bg5 hxg5 54. Qc1 Ra7 55. Qd1 Ra3 56. Be2 Ra4 57. Qc2 Ra3 58. Kf2 Rh6 59. Kg2 Ra2 60. Rxh6 Nxh6 61. Kh2 Ra1 62. Bf3 Nxg4+ 63. Bxg4 Bd4 64. Ne1 Bf2 65. Nd3 Ra2 66. Qb3 Ra1 67. Kg2 Rg1+ 68. Kh2 Kg8 69. Be2 Bd4 70. Bg4 Rh1+ 71. Kg2 Bf2 72. c5+ d5 73. cxb6 Bh4 74. Be2 Kf8 75. Bg4 Ke7 76. Be2 Ke8 77. Bg4 Kf7 78. Be2 Kg7 79. Bh5 Kh6 80. Bg4 Kh7 81. Ne1 Kg8 82. Be6+ Kf8 83. Bg8 Bf2 84. Kxh1 Bg3 85. Kg1 Be5 86. Kh1 Bd4 87. Kg2 g4 88. b7 g3 89. Bh7 Kg7 90. Bg6 Bf2 91. Bd3 Kf6 92. Nef3 Ke6 93. Kh1 Kd6 94. Ng5 Kc7 95. Nge4 dxe4 96. Kg2 exd3 97. Nf3 Bg1 98. Qc3+ Kxb7 99. Qc2 dxc2 100. Nxg1 c1=Q 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. g4 e5 2. Bg2 e4 3. g5 f6 4. Bf3 Kf7 5. b4 Qe8 6. Bb2 c5 7. Bc3 e3 8. dxe3 Qe4 9. a3 Qf4 10. Bd5+ Ke8 11. Bg2 Nc6 12. Kd2 h5 13. a4 Nce7 14. Bc6 a6 15. Bf3 Qb8 16. Bxf6 g6 17. Bxh8 Nf6 18. Bxf6 h4 19. Nh3 a5 20. Bd5 cxb4 21. Ke1 Nc6 22. Bf7+ Kxf7 23. Qd4 Ra7 24. Qc5 Qe5 25. Qc3 Qf4 26. Nd2 Qe4 27. Kf1 Qd5 28. Qxb4 Nd4 29. Ke1 Ne6 30. f3 Qa2 31. Qc3 Ke8 32. Nf4 Nd8 33. Rc1 Kf7 34. Rb1 Nc6 35. Ra1 Qb2 36. Qe5 Qa3 37. Qxa5 Rxa5 38. Kd1 h3 39. Rb1 Be7 40. Bxe7 Qxa4 41. Nxh3 Qa3 42. Ne4 Nd8 43. Rxb7 Qa4 44. Rc7 Qb5 45. Bc5 Ba6 46. Ra7 Ra2 47. Bd6 Ke6 48. Bc7 Kf5 49. c4 Rc2 50. Bb6 Qxc4 51. Rg1 Qxe2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 b6 2. d4 a6 3. Bd2 e5 4. Nc3 b5 5. Qb1 Ke7 6. b3 Qe8 7. d5 a5 8. d6+ Kd8 9. Nxb5 Bxd6 10. Nh3 Bc5 11. Ke2 Bd4 12. c4 Bb2 13. Qd1 d6 14. Rc1 Ne7 15. Rb1 Nbc6 16. Kd3 Ra7 17. Nxa7 g6 18. Nb5 Nb4+ 19. Bxb4 Bd7 20. Nc3 Bf5 21. Qc1 Qg8 22. Rxb2 Ke8 23. Bxd6 g5 24. a3 Nd5 25. g3 Bxe4+ 26. Nxe4 Nb4+ 27. Ke3 Kd8 28. Nf6 cxd6 29. Ne4 Ke7 30. g4 Qa8 31. Nxd6 Nc6 32. Kf3 h5 33. Bd3 Kf6 34. gxh5 g4+ 35. Kg3 Ne7 36. Bc2 Kg7 37. Qb1 e4 38. Nf4 Rg8 39. Ng2 Re8 40. Ra2 a4 41. b4 Rd8 42. Nb5 f6 43. Na7 Rd4 44. h6+ Kg6 45. f4 Qb8 46. Ne3 Qa8 47. Rd1 Qb8 48. Ng2 Qa8 49. Re1 Qb8 50. Bb3 Qa8 51. Rd2 axb3 52. Re3 Qb8 53. Qxb3 Qa8 54. Rxe4 Nc6 55. h3 Kh5 56. hxg4+ Kxh6 57. Qb1 Ne7 58. Rexd4 Nc6 59. Kh4 Nxb4 60. axb4 f5 61. gxf5 Kg7 62. Ne3 Kg8 63. c5 Kh8 64. f6 Kg8 65. Qg1+ Kh8 66. Rc2 Kh7 67. Qh1 Kg6 68. Rd6 Kh6 69. Nd1 Qb8 70. Qg1 Qa8 71. Qh1 Qxa7 72. Qg1 Qa1 73. Qf2 Qe5 74. Qe2 Qg5+ 75. Kh3 Qxc5 76. Kg2 Qb5 77. Kg1 Qb6+ 78. Qf2 Kg6 79. Rcc6 Qb5 80. Kg2 Kf5 81. Qg3 Qxb4 82. Kg1 Qb1 83. Kh2 Qa1 84. Qg6+ Kxg6 85. Rb6 Kh7 86. Kh3 Qe5 87. fxe5 Kg8 88. Ra6 Kf7 89. e6+ Kg8 90. Kg2 Kf8 91. Ra4 Ke8 92. Ra7 Kf8 93. Kg1 Ke8 94. Ra8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 c5 2. d3 f5 3. f4 fxe4 4. Nd2 b5 5. Qg4 e6 6. Nxe4 Bb7 7. Qd1 Na6 8. Nf3 Ke7 9. Be2 Bc6 10. O-O Qb8 11. d4 e5 12. Nxe5 cxd4 13. b3 Bxe4 14. Nc4 Kf7 15. Rf2 Bd5 16. Bd2 Ke6 17. a4 Nf6 18. Ba5 d6 19. Qe1 Nc5 20. Bc7 bxc4 21. c3 Nxb3 22. Bd1+ Be4 23. Bb6 Qe8 24. Bf3 Qd7 25. Qc1 a6 26. Rb1 Bc6 27. Qd2 Bb7 28. Qe1+ Be4 29. Qf1 h5 30. Be2 Rb8 31. Qe1 Rg8 32. Bc5 Bc6 33. Qd1 Ng4 34. Bxd6 Bxd6 35. cxd4 Nc1 36. Rf1 Nxh2 37. Bf3 g6 38. Be2 Be4 39. d5+ Bxd5 40. Qxd5+ Kf6 41. Rfxc1 Be7 42. Bd1 Rb2 43. Ra1 Rf8 44. Qf7+ Rxf7 45. Rab1 h4 46. Bg4 Ba3 47. Kxh2 Qxa4 48. Be6 Rf2 49. Rh1 Ra2 50. Rhc1 Kxe6 51. Rxc4 Qb5 52. f5+ gxf5 53. Rc7 Qb6 54. Rc6+ Qxc6 55. Rb8 Bc5 56. Rh8 Qxg2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "0-1"]
+
+1. e4 b5 2. Bxb5 Nf6 3. Na3 c6 4. e5 Qa5 5. exf6 cxb5 6. Nxb5 Ba6 7. c4 exf6 8. Na3 Bxa3 9. bxa3 Rf8 10. f4 Bc8 11. h3 Qe5+ 12. Kf2 Rg8 13. Qh5 a5 14. Qg5 Qd6 15. Qf5 Nc6 16. Bb2 Ra7 17. Kg3 Qd4 18. Bc1 Bb7 19. h4 Nd8 20. Qe5+ Ne6 21. Rb1 Kd8 22. Rb2 Qc3+ 23. Kg4 Ba8 24. Ne2 Qe3 25. a4 fxe5 26. Rb5 Qxe2+ 27. Kg3 Nc5 28. d4 exf4+ 29. Bxf4 Bc6 30. Rf1 Nb3 31. Rb8+ Ke7 32. axb3 Qxg2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. d3 h6 2. Nd2 Nc6 3. c3 Ne5 4. g4 g6 5. Ndf3 a5 6. Qc2 Ra6 7. Nh3 Rh7 8. Qa4 Ra8 9. Bd2 e6 10. g5 Nc4 11. dxc4 c5 12. Qb5 Rb8 13. Qa6 f5 14. Bf4 Qf6 15. Qxa5 Qd8 16. Rd1 d5 17. Bg2 Qxa5 18. Bf1 Qc7 19. Rb1 Rd7 20. Rg1 Kd8 21. Rg2 dxc4 22. Ne5 Rg7 23. Nf7+ Qxf7 24. Kd1 Bd7 25. Kc1 Bc6 26. b4 cxb3 27. Rg3 Bd6 28. Rg2 Bf8 29. axb3 Nf6 30. Kd2 Ng8 31. Ra1 Qe8 32. f3 Qf7 33. Be5 Be7 34. gxh6 Nf6 35. Rg3 Ng8 36. Kc2 Qf6 37. h7 c4 38. b4 g5 39. Ra7 Bxb4 40. Kb2 Qf7 41. Nxg5 Qe8 42. Nf7+ Kc8 43. Ra5 Nf6 44. Bg2 Bf8 45. Bh3 Kd7 46. Ka1 f4 47. Ra7 fxg3 48. hxg3 Bc5 49. Nh6 Bb6 50. Rxb7+ Bxb7 51. f4 Kc6 52. Ka2 Rg6 53. Nf5 exf5 54. Ka1 Rh6 55. e4 Nd7 56. Bxb8 Bc5 57. Bf1 Nf6 58. Ba7 Rxh7 59. exf5 Rh5 60. g4 Bc8 61. g5 Ba6 62. g6 Bb6 63. Ka2 Bb5 64. Ka3 Qe2 65. Bxe2 Ba4 66. Kxa4 Ne4 67. g7 Bf2 68. Bxh5 Be3 69. g8=Q Kd6 70. Qg4 Kd7 71. Qh3 Kd8 72. Qh2 Bd2 73. Kb4 Be3 74. Bc5 Bg1 75. Qxg1 Kc7 76. Bd6+ Kxd6 77. Bf7 Nf2 78. Bh5 Ng4 79. Bf7 Nf6 80. Bg6 Ke7 81. Qa7+ Kd6 82. Kxc4 Kc6 83. Kd3 Kb5 84. Kd2 Kc4 85. Qg7 Kd5 86. Ke3 Kc4 87. Ke2 Kxc3 88. Ke3 Kc2 89. Ke2 Nd5 90. Kf2 Kb3 91. Bf7 Kb4 92. Ke1 Kc5 93. Bg6 Kb4 94. Kf2 Nc3 95. Kg2 Nb5 96. Kg1 Kc5 97. Kf1 Kb4 98. Qf7 Kc3 99. Ke1 Kb2 100. Kf1 Na3 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. e4 b5 2. d4 Nc6 3. Nc3 b4 4. Nh3 Ne5 5. Nd5 e6 6. Ndf4 Ba6 7. Bd2 Nf6 8. Bb5 Bb7 9. Ke2 Bc5 10. dxc5 Rb8 11. c6 dxc6 12. Qg1 cxb5 13. Nd5 Nxd5 14. Rf1 Bc6 15. f3 Qh4 16. Bf4 Qxf4 17. Qb6 cxb6 18. Ng1 h6 19. g4 b3 20. Kd1 bxc2+ 21. Kxc2 Qxe4+ 22. Kb3 Qe3+ 23. Kc2 Rc8 24. Ra1 O-O 25. Rb1 Rfd8 26. b3 Qc1+ 27. Kxc1 Re8 28. Kd2 a5 29. Ke2 Rcd8 30. Kd1 g6 31. h4 Kg7 32. Ra1 Rd6 33. Ke2 g5 34. hxg5 Nd3 35. f4 Kg6 36. Kxd3 Rf8 37. Nf3 Rfd8 38. Ke2 hxg5 39. Nxg5 b4 40. Ne4 Kg7 41. Nxd6 Rxd6 42. Rhc1 e5 43. Rcb1 Ne7 44. Ke3 Rd4 45. f5 Kg8 46. Rg1 Nd5+ 47. Kf3 Nf4+ 48. Ke3 Bd5 49. Rac1 Rd3+ 50. Kf2 Rd2+ 51. Kg3 e4 52. g5 a4 53. f6 axb3 54. axb3 Rf2 55. Rgd1 e3 56. Kg4 e2 57. Rc5 Bxb3 58. Rb1 Bc4 59. Rg1 Bd3 60. Re5 Rg2+ 61. Kf3 Rg3+ 62. Kxg3 Kh8 63. Re1 b5 64. Kxf4 Bb1 65. Rxb1 Kg8 66. Rc1 Kh8 67. Kg3 Kg8 68. Rd5 Kf8 69. Rd8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2024.09.25"]
+[Round "?"]
+[White "current_model"]
+[Black "current_model"]
+[Result "1-0"]
+
+1. h4 e5 2. f3 Bc5 3. b4 Bb6 4. a3 a5 5. c4 axb4 6. Qb3 g5 7. Rh2 Bc5 8. d3 Na6 9. a4 e4 10. hxg5 Bb6 11. a5 Rb8 12. Qa2 Qf6 13. Qb3 Kf8 14. g4 Qh6 15. axb6 c5 16. gxh6 Ke8 17. Nc3 bxc3 18. Bf4 Ke7 19. Rh5 e3 20. Rxa6 bxa6 21. Qb5 d6 22. Kd1 axb5 23. Bg2 Ke6 24. Bh1 d5 25. Rh3 Rxb6 26. Bxe3 Ke7 27. Ke1 Re6 28. Kf1 Kd7 29. Bf4 Rg6 30. cxd5 Nxh6 31. Bxh6 Ba6 32. Bg5 b4 33. Be7 f5 34. Bf8 h5 35. Kg2 c2 36. Kg3 fxg4 37. Kh4 g3 38. e4 Rf6 39. Be7 Rg6 40. Bf8 Bc4 41. d6 Rf6 42. Be7 Rg6 43. Bf8 Ke8 44. Bg2 Bxd3 45. Rh1 Rxf8 46. Kxh5 Rgf6 47. Rh3 Rf4 48. d7+ Kf7 49. Kg5 Bb5 50. Ne2 Bxe2 51. e5 Re4 52. f4 Bf1 53. f5 Rh8 54. Rh4 Kg8 55. Bxe4 c1=N 56. Kg6 Bc4 57. d8=R# 1-0
+
