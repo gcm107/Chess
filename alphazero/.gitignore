@@ -20,3 +20,11 @@ tmp.*
 video/*
 logs/
 *.sh
+*.h5
+*.json
+*.log
+*.weights.h5
+*.config.json
+*.best.weights.h5
+*.best.config.json
+*.weights

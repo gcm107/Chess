@@ -41,3 +41,12 @@ alphazero/notebooks/model_comp/model_B/model_best_config.json
 alphazero/notebooks/model_comp/model_B/model_best_weight.h5
 alphazero/archive/MODELS/model_best.weights.h5
 alphazero/archive/MODELS/model_best_config.json
+*.Identifier
+*.h5
+*.json
+*.log
+*.weights.h5
+*.config.json
+*.best.weights.h5
+*.best.config.json
+alphazero/data/model/model_best.weights.h5
