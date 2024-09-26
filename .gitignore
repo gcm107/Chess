@@ -35,3 +35,9 @@ alphazero/src/__pycache__/MCTS_chess.cpython-310.pyc
 alphazero/src/__pycache__/MCTS_chess.cpython-37.pycZone.Identifier
 alphazero/src/__pycache__/evaluator.cpython-37.pyc
 alphazero/src/__pycache__/encoder_decoder.cpython-37.pycZone.Identifier
+alphazero/notebooks/model_comp/model_A/model_best_config.json
+alphazero/notebooks/model_comp/model_A/model_best.weights.h5
+alphazero/notebooks/model_comp/model_B/model_best_config.json
+alphazero/notebooks/model_comp/model_B/model_best_weight.h5
+alphazero/archive/MODELS/model_best.weights.h5
+alphazero/archive/MODELS/model_best_config.json
